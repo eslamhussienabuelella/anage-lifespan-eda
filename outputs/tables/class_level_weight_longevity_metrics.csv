@@ -1,0 +1,5 @@
+Class,n,median_adult_weight_g,median_max_longevity_yrs,max_adult_weight_species,max_adult_weight_g,max_longevity_species,max_longevity_yrs,log10_weight_longevity_corr,log10_weight_longevity_slope
+Aves,1375,99.0,14.6,Ostrich,111000.0,Pink cockatoo,83.0,0.6619463618505388,0.21339127104247824
+Mammalia,1023,1900.0,17.1,Blue whale,136000000.0,Bowhead whale,211.0,0.7058319647428715,0.15945192317759524
+Reptilia,368,742.25,18.65,Leatherback sea turtle,420000.0,Aldabra tortoise,152.0,0.5392410457183163,0.14040136497246716
+Teleostei,346,2640.0,16.0,Horse mackerel,376200.0,Rougheye rockfish,205.0,0.2859562033458527,0.13271568541783416

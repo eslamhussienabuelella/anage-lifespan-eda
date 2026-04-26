@@ -1,0 +1,3113 @@
+Kingdom,Class,Common name,Adult weight (g),Maximum longevity (yrs)
+Animalia,Aves,Cooper's hawk,526.64,20.3
+Animalia,Aves,Brown goshawk,453.5,14.9
+Animalia,Aves,Northern goshawk,1044.2,22.0
+Animalia,Aves,Eurasian sparrowhawk,237.5,20.2
+Animalia,Aves,Sharp-shinned hawk,135.0,19.9
+Animalia,Aves,Cinereous vulture,9625.0,39.0
+Animalia,Aves,Spanish imperial eagle,3000.0,44.5
+Animalia,Aves,Wedge-tailed eagle,3466.0,40.0
+Animalia,Aves,Golden eagle,4800.0,48.0
+Animalia,Aves,Bonelli's eagle,2000.0,20.0
+Animalia,Aves,Eastern imperical eagle,3262.0,56.0
+Animalia,Aves,Steppe eagle,2745.5,41.0
+Animalia,Aves,Lesser spotted eagle,1370.0,26.1
+Animalia,Aves,Tawny eagle,1996.1,40.3
+Animalia,Aves,Grey-faced buzzard,415.0,8.5
+Animalia,Aves,Buzzard,1012.0,28.8
+Animalia,Aves,Red-tailed hawk,1362.0,30.7
+Animalia,Aves,Rough-legged hawk,980.64,18.8
+Animalia,Aves,Red-shouldered hawk,607.0,22.4
+Animalia,Aves,Broad-winged hawk,454.0,18.3
+Animalia,Aves,Ferruginous hawk,1500.0,23.7
+Animalia,Aves,Hawaiian hawk,505.0,17.0
+Animalia,Aves,Swainson's hawk,980.64,24.9
+Animalia,Aves,Common black hawk,837.0,13.5
+Animalia,Aves,Short-toed eagle,1699.5,17.3
+Animalia,Aves,Western marsh harrier,711.5,20.1
+Animalia,Aves,Swamp harrier,752.5,11.0
+Animalia,Aves,Northern harrier,392.0,17.1
+Animalia,Aves,Pallid harrier,388.5,13.5
+Animalia,Aves,Montagu's harrier,315.5,16.3
+Animalia,Aves,Black-shouldered kite,265.5,3.5
+Animalia,Aves,Black-winged kite,260.5,6.0
+Animalia,Aves,White-tailed kite,280.0,6.0
+Animalia,Aves,Black-chested buzzard-eagle,2447.5,42.0
+Animalia,Aves,Bearded vulture,5070.0,40.0
+Animalia,Aves,Palm-nut vulture,1600.0,27.1
+Animalia,Aves,White-backed vulture,5433.0,19.7
+Animalia,Aves,Cape vulture,8177.0,31.2
+Animalia,Aves,"Griffon vulture, or Eurasian griffon",7436.0,41.4
+Animalia,Aves,White-tailed sea-eagle,6696.5,42.0
+Animalia,Aves,Bald eagle,3175.0,48.0
+Animalia,Aves,Brahminy kite,529.0,24.5
+Animalia,Aves,Whistling kite,755.0,20.4
+Animalia,Aves,Harpy eagle,4800.0,16.8
+Animalia,Aves,New Guinea eagle,2000.0,30.0
+Animalia,Aves,Little eagle,791.0,38.7
+Animalia,Aves,Mississippi kite,266.0,11.2
+Animalia,Aves,Lizard buzzard,280.5,8.6
+Animalia,Aves,Square-tailed kite,585.5,17.0
+Animalia,Aves,Black kite,1000.0,24.0
+Animalia,Aves,Red kite,1080.0,38.0
+Animalia,Aves,Hooded vulture,2043.0,21.3
+Animalia,Aves,Egyptian vulture,2082.0,37.0
+Animalia,Aves,Harris's hawk,994.26,25.0
+Animalia,Aves,"European honey buzzard, or Western honey-buzzard",758.0,29.0
+Animalia,Aves,Philippine eagle,6500.0,41.0
+Animalia,Aves,Snail kite,352.5,17.0
+Animalia,Aves,Bateleur,2200.0,55.0
+Animalia,Aves,White-headed vulture,3016.0,5.7
+Animalia,Aves,Turkey vulture,2200.0,20.8
+Animalia,Aves,Black vulture,2270.0,25.5
+Animalia,Aves,California condor,11175.0,45.0
+Animalia,Aves,King vulture,3405.0,40.0
+Animalia,Aves,Andean condor,10500.0,79.0
+Animalia,Aves,Eastern osprey,1527.5,21.0
+Animalia,Aves,Osprey,1362.0,32.0
+Animalia,Aves,Mandarin duck,570.0,10.4
+Animalia,Aves,Wood duck,452.8,22.5
+Animalia,Aves,Egyptian goose,1900.0,25.5
+Animalia,Aves,Northern pintail,721.0,27.4
+Animalia,Aves,American wigeon,793.8,21.3
+Animalia,Aves,Northern shoveler,613.0,22.6
+Animalia,Aves,Green-winged teal,343.8,27.1
+Animalia,Aves,Cinnamon teal,411.0,12.9
+Animalia,Aves,Blue-winged teal,420.0,23.2
+Animalia,Aves,Mottled duck,950.0,20.0
+Animalia,Aves,Grey teal,488.75,31.7
+Animalia,Aves,Laysan duck,500.0,12.0
+Animalia,Aves,Eurasian wigeon,660.0,35.2
+Animalia,Aves,Mallard,1048.1,29.1
+Animalia,Aves,Garganey,326.0,14.7
+Animalia,Aves,American black duck,998.7,26.6
+Animalia,Aves,Gadwall,791.0,28.0
+Animalia,Aves,Pacific black duck,981.0,27.2
+Animalia,Aves,Greater white-fronted goose,2681.0,47.0
+Animalia,Aves,Greylag goose,3308.5,31.0
+Animalia,Aves,Pink-footed goose,2645.0,40.9
+Animalia,Aves,Lesser white-fronted goose,1779.25,14.8
+Animalia,Aves,Bean goose,3348.0,25.6
+Animalia,Aves,Lesser scaup,787.0,18.3
+Animalia,Aves,Redhead,1077.3,22.6
+Animalia,Aves,Ring-necked duck,737.0,20.4
+Animalia,Aves,Common pochard,823.0,23.2
+Animalia,Aves,Tufted duck,701.5,45.2
+Animalia,Aves,Greater scaup,928.5,22.1
+Animalia,Aves,Canvasback,1208.8,29.5
+Animalia,Aves,Musk duck,1697.5,6.2
+Animalia,Aves,Brent goose,1163.2,28.8
+Animalia,Aves,Canada goose,3200.0,42.0
+Animalia,Aves,Cackling goose,1940.1,18.3
+Animalia,Aves,Barnacle goose,1687.0,28.2
+Animalia,Aves,Hawaiian goose,2150.0,42.0
+Animalia,Aves,Bufflehead,400.0,18.7
+Animalia,Aves,Common goldeneye,895.86,20.9
+Animalia,Aves,Barrow's goldeneye,957.15,18.0
+Animalia,Aves,Cape barren goose,3980.0,29.1
+Animalia,Aves,Snow goose,2806.65,27.5
+Animalia,Aves,Emperor goose,2148.0,12.0
+Animalia,Aves,Ross's goose,1715.0,22.5
+Animalia,Aves,Maned duck,812.5,9.1
+Animalia,Aves,Oldsquaw,872.0,22.7
+Animalia,Aves,Black swan,5650.0,24.7
+Animalia,Aves,Trumpeter swan,13000.0,32.5
+Animalia,Aves,Tundra swan,6350.0,24.1
+Animalia,Aves,Whooper swan,9350.0,26.7
+Animalia,Aves,Mute swan,8300.0,40.0
+Animalia,Aves,Black-bellied whistling duck,828.0,8.2
+Animalia,Aves,Fulvous whistling duck,737.1,11.2
+Animalia,Aves,White-faced whistling duck,610.0,12.0
+Animalia,Aves,Harlequin duck,561.25,14.6
+Animalia,Aves,Hooded merganser,634.375,15.7
+Animalia,Aves,White-winged scoter,1360.8,21.4
+Animalia,Aves,Black scoter,1052.2,16.8
+Animalia,Aves,Surf scoter,1097.5,9.5
+Animalia,Aves,Smew,610.0,10.0
+Animalia,Aves,Common merganser,1445.0,14.8
+Animalia,Aves,Red-breasted merganser,1020.6,21.3
+Animalia,Aves,Red-crested pochard,1118.0,12.9
+Animalia,Aves,Blue-billed duck,798.0,16.0
+Animalia,Aves,Ruddy duck,542.0,20.0
+Animalia,Aves,Spur-winged goose,3869.0,11.3
+Animalia,Aves,Steller's eider,907.2,23.0
+Animalia,Aves,Spectacled eider,1558.0,18.0
+Animalia,Aves,Common eider,2130.0,37.8
+Animalia,Aves,King eider,1617.0,18.9
+Animalia,Aves,Common shelduck,1152.0,24.8
+Animalia,Aves,Australian shelduck,1364.0,13.1
+Animalia,Aves,Magpie goose,2071.0,24.8
+Animalia,Aves,Australian owlet-nightjar,44.125,5.9
+Animalia,Aves,Australian swiftlet,11.875,9.3
+Animalia,Aves,White-throated swift,31.0,10.0
+Animalia,Aves,Common swift,37.6,21.1
+Animalia,Aves,Alpine swift,102.7,26.0
+Animalia,Aves,Chimney swift,22.8,15.0
+Animalia,Aves,Black swift,45.0,16.1
+Animalia,Aves,Violet-crowned hummingbird,5.1,6.1
+Animalia,Aves,Buff-bellied hummingbird,3.9,11.2
+Animalia,Aves,Black-chinned hummingbird,3.0,11.2
+Animalia,Aves,Ruby-throated hummingbird,3.1,9.1
+Animalia,Aves,Lucifer hummingbird,3.3,4.1
+Animalia,Aves,Anna's hummingbird,4.4,8.5
+Animalia,Aves,Costa's hummingbird,3.1,6.0
+Animalia,Aves,Broad-billed hummingbird,3.3,8.8
+Animalia,Aves,Magnificent hummingbird,8.1,11.0
+Animalia,Aves,Blue-throated hummingbird,7.6,12.0
+Animalia,Aves,Garnet-throated hummingbird,7.8,8.0
+Animalia,Aves,Broad-tailed hummingbird,4.2,14.0
+Animalia,Aves,Rufous hummingbird,3.5,8.9
+Animalia,Aves,Calliope hummingbird,2.6,7.0
+Animalia,Aves,Brown kiwi,2600.0,35.0
+Animalia,Aves,Great hornbill,2798.5,33.4
+Animalia,Aves,Grey-cheeked hornbill,1250.0,31.8
+Animalia,Aves,Black-casqued hornbill,1203.5,19.3
+Animalia,Aves,Southern ground hornbill,3767.5,70.0
+Animalia,Aves,Eurasian hoopoe,67.1,11.1
+Animalia,Aves,Chuck-will's-widow,115.0,14.8
+Animalia,Aves,Eurasian nightjar,67.0,11.9
+Animalia,Aves,Red-necked nightjar,68.5,13.2
+Animalia,Aves,Whip-poor-will,54.0,15.0
+Animalia,Aves,Common nighthawk,79.3,10.0
+Animalia,Aves,Tawny frogmouth,349.0,17.9
+Animalia,Aves,Dwarf cassowary,35000.0,26.0
+Animalia,Aves,Southern cassowary,44000.0,30.0
+Animalia,Aves,Northern cassowary,47300.0,22.0
+Animalia,Aves,Emu,38925.0,16.6
+Animalia,Aves,Crested auklet,289.0,10.8
+Animalia,Aves,Least auklet,96.0,8.1
+Animalia,Aves,Whiskered auklet,120.0,15.0
+Animalia,Aves,Razorbill,726.0,42.0
+Animalia,Aves,Marbled murrelet,222.0,10.0
+Animalia,Aves,Pigeon guillemot,483.8,15.2
+Animalia,Aves,Black guillemot,427.5,29.9
+Animalia,Aves,Rhinoceros auklet,544.1,28.2
+Animalia,Aves,Atlantic puffin,490.5,45.0
+Animalia,Aves,Cassin's auklet,184.0,16.2
+Animalia,Aves,Xantus' murrelet,167.0,15.0
+Animalia,Aves,Common murre,992.0,42.8
+Animalia,Aves,Thick-billed murre,964.0,29.0
+Animalia,Aves,Bush stone-curlew,667.967,5.5
+Animalia,Aves,Eurasian thick-knee,459.0,17.9
+Animalia,Aves,Snowy plover,37.0,19.0
+Animalia,Aves,Double-banded plover,59.4,18.3
+Animalia,Aves,Little ringed plover,38.7,13.0
+Animalia,Aves,Common ringed plover,64.0,20.8
+Animalia,Aves,Greater sand plover,75.0,21.6
+Animalia,Aves,Piping plover,49.0,14.0
+Animalia,Aves,Lesser sand plover,64.0,15.6
+Animalia,Aves,Mountain plover,100.0,10.0
+Animalia,Aves,Eurasian dotterel,108.5,11.8
+Animalia,Aves,Red-capped plover,41.2,21.0
+Animalia,Aves,Semipalmated plover,52.0,9.2
+Animalia,Aves,Killdeer,88.0,10.9
+Animalia,Aves,"European golden-plover, or Greater golden-plover",214.0,13.8
+Animalia,Aves,American golden plover,118.0,13.0
+Animalia,Aves,Pacific golden-plover,135.0,21.3
+Animalia,Aves,Black-bellied plover,224.0,25.6
+Animalia,Aves,Hooded dotterel,100.0,16.2
+Animalia,Aves,Blacksmith lapwing,156.0,18.6
+Animalia,Aves,Masked lapwing,379.0,13.9
+Animalia,Aves,Spur-winged lapwing,188.0,17.0
+Animalia,Aves,Northern lapwing,218.5,24.5
+Animalia,Aves,Oriental pratincole,76.0,4.4
+Animalia,Aves,Black oystercatcher,670.0,16.0
+Animalia,Aves,Sooty oystercatcher,789.2,19.9
+Animalia,Aves,Pied oystercatcher,566.25,30.2
+Animalia,Aves,Eurasian oystercatcher,480.0,43.3
+Animalia,Aves,American oystercatcher,565.0,17.0
+Animalia,Aves,Black noddy,110.4,27.1
+Animalia,Aves,"Brown noddy, or Noddy tern",178.0,26.2
+Animalia,Aves,Lesser noddy,104.56,15.0
+Animalia,Aves,Whiskered tern,88.0,16.0
+Animalia,Aves,Black tern,60.0,21.0
+Animalia,Aves,Slender-billed gull,281.0,31.7
+Animalia,Aves,Silver gull,295.375,28.8
+Animalia,Aves,Black-headed gull,306.0,32.9
+Animalia,Aves,Gull-billed tern,221.0,16.0
+Animalia,Aves,White tern,98.1,35.9
+Animalia,Aves,Little gull,119.0,20.9
+Animalia,Aves,Caspian tern,644.0,30.0
+Animalia,Aves,Audouin's gull,535.0,25.0
+Animalia,Aves,Mediterranean gull,256.0,22.1
+Animalia,Aves,Inca tern,219.0,26.0
+Animalia,Aves,Herring gull,1094.0,49.0
+Animalia,Aves,Caspian gull,1117.2,31.9
+Animalia,Aves,California gull,691.0,30.0
+Animalia,Aves,Mew gull,430.6,33.7
+Animalia,Aves,Ring-billed gull,518.5,31.8
+Animalia,Aves,Kelp gull,989.0,27.0
+Animalia,Aves,Lesser black-backed gull,766.2,34.9
+Animalia,Aves,Glaucous-winged gull,908.0,32.0
+Animalia,Aves,Iceland gull,945.5,33.0
+Animalia,Aves,Heermann's gull,500.0,24.0
+Animalia,Aves,Glaucous gull,1210.0,21.1
+Animalia,Aves,Great black-backed gull,1658.5,32.8
+Animalia,Aves,Yellow-legged gull,1089.5,19.2
+Animalia,Aves,Western gull,931.5,33.9
+Animalia,Aves,Pacific gull,1313.5,24.3
+Animalia,Aves,Laughing gull,275.6,22.0
+Animalia,Aves,Bridled tern,133.3,24.9
+Animalia,Aves,Sooty tern,148.0,35.8
+Animalia,Aves,Gray-backed tern,131.7,25.8
+Animalia,Aves,Ivory gull,550.0,23.9
+Animalia,Aves,Blue-gray noddy,53.0,15.0
+Animalia,Aves,Red-legged kittiwake,377.0,27.0
+Animalia,Aves,Black-legged kittiwake,317.0,28.5
+Animalia,Aves,Black skimmer,315.0,20.2
+Animalia,Aves,Roseate tern,112.0,25.7
+Animalia,Aves,Forster's tern,158.0,15.8
+Animalia,Aves,Common tern,120.0,33.0
+Animalia,Aves,Arctic tern,100.0,34.0
+Animalia,Aves,Little tern,31.0,23.9
+Animalia,Aves,Least tern,40.0,24.1
+Animalia,Aves,Fairy tern,72.15,17.2
+Animalia,Aves,Lesser crested tern,213.0,14.0
+Animalia,Aves,Greater crested tern,334.5,32.2
+Animalia,Aves,Elegant tern,251.0,20.9
+Animalia,Aves,Royal tern,373.0,28.6
+Animalia,Aves,Sandwich tern,250.0,30.8
+Animalia,Aves,Plains-wanderer,67.8,2.3
+Animalia,Aves,Banded stilt,215.25,11.3
+Animalia,Aves,Black-winged stilt,161.0,16.0
+Animalia,Aves,Black-necked (Hawaiian) stilt,186.0,25.0
+Animalia,Aves,Pied avocet,304.0,27.8
+Animalia,Aves,Common sandpiper,48.0,14.5
+Animalia,Aves,Spotted sandpiper,34.0,12.0
+Animalia,Aves,Ruddy turnstone,136.0,22.3
+Animalia,Aves,Upland sandpiper,141.0,8.9
+Animalia,Aves,Sharp-tailed sandpiper,67.7,8.6
+Animalia,Aves,Sanderling,50.0,18.6
+Animalia,Aves,Dunlin,52.5,28.8
+Animalia,Aves,Red knot,135.0,27.3
+Animalia,Aves,Curlew sandpiper,58.1,19.7
+Animalia,Aves,Stilt sandpiper,57.3,11.1
+Animalia,Aves,Purple sandpiper,65.2,20.8
+Animalia,Aves,Western sandpiper,26.19,9.2
+Animalia,Aves,Little stint,21.1,14.7
+Animalia,Aves,Least sandpiper,26.0,16.0
+Animalia,Aves,Semipalmated sandpiper,27.0,19.3
+Animalia,Aves,Red-necked stint,26.95,21.8
+Animalia,Aves,Temminck's stint,23.0,12.9
+Animalia,Aves,Great knot,179.167,20.9
+Animalia,Aves,Wilson's snipe,122.0,9.2
+Animalia,Aves,Common snipe,131.6,18.2
+Animalia,Aves,Great snipe,174.5,5.9
+Animalia,Aves,Broad-billed sandpiper,37.1,11.6
+Animalia,Aves,Short-billed dowitcher,105.0,13.3
+Animalia,Aves,Long-billed dowitcher,130.0,13.2
+Animalia,Aves,Marbled godwit,336.0,13.7
+Animalia,Aves,Bar-tailed godwit,322.0,34.0
+Animalia,Aves,Black-tailed godwit,294.0,23.6
+Animalia,Aves,Jack snipe,50.2,12.3
+Animalia,Aves,Eurasian curlew,728.0,31.8
+Animalia,Aves,Eastern curlew,824.75,19.1
+Animalia,Aves,Whimbrel,365.7,24.2
+Animalia,Aves,Bristle-thighed curlew,408.6,23.8
+Animalia,Aves,Red-necked phalarope,33.8,12.9
+Animalia,Aves,Wilson's phalarope,57.0,10.0
+Animalia,Aves,Ruff,136.0,13.9
+Animalia,Aves,American woodcock,197.5,20.9
+Animalia,Aves,Eurasian woodcock,308.3,15.5
+Animalia,Aves,Spotted redshank,158.0,8.6
+Animalia,Aves,Wood sandpiper,62.5,11.7
+Animalia,Aves,Common greenshank,187.0,24.4
+Animalia,Aves,Green sandpiper,90.0,11.5
+Animalia,Aves,Willet,270.0,12.6
+Animalia,Aves,Marsh sandpiper,77.5,8.5
+Animalia,Aves,Common redshank,149.0,26.9
+Animalia,Aves,Terek sandpiper,78.8,16.9
+Animalia,Aves,Brown skua,1687.0,28.8
+Animalia,Aves,Long-tailed jaeger,298.0,14.0
+Animalia,Aves,South polar skua,1349.0,23.5
+Animalia,Aves,Parasidic jaeger,445.5,31.1
+Animalia,Aves,Great skua,1340.0,35.9
+Animalia,Aves,Abdim's stork,1398.0,21.6
+Animalia,Aves,Oriental white stork,4850.5,48.1
+Animalia,Aves,European white stork,3350.0,39.0
+Animalia,Aves,Woolly-necked stork,2061.0,32.0
+Animalia,Aves,Maguari stork,4000.0,20.4
+Animalia,Aves,Black stork,2926.0,31.3
+Animalia,Aves,Black-necked stork,4100.0,34.0
+Animalia,Aves,Saddle-billed stork,6162.5,30.2
+Animalia,Aves,Jabiru,5470.0,27.4
+Animalia,Aves,Marabou,8000.0,44.7
+Animalia,Aves,Lesser adjutant,5710.0,31.1
+Animalia,Aves,Wood stork,2500.0,27.0
+Animalia,Aves,Yellow-billed stork,2166.5,19.1
+Animalia,Aves,Painted stork,3180.0,28.6
+Animalia,Aves,Speckled mousebird,51.0,11.5
+Animalia,Aves,Nicobar pigeon,519.0,20.5
+Animalia,Aves,Common emerald dove,136.983,12.0
+Animalia,Aves,Rock dove,358.7,35.0
+Animalia,Aves,"Stock dove, or Stock pigeon",291.0,12.6
+Animalia,Aves,Common wood-pigeon,490.0,17.7
+Animalia,Aves,Inca dove,50.0,13.3
+Animalia,Aves,Common ground dove,35.0,7.2
+Animalia,Aves,Pied imperial pigeon,457.55,14.0
+Animalia,Aves,Bar-shouldered dove,128.65,14.0
+Animalia,Aves,Zebra dove,56.6,18.7
+Animalia,Aves,White-tipped dove,147.5,8.6
+Animalia,Aves,Wonga pigeon,429.0,16.3
+Animalia,Aves,Crested pigeon,204.5,17.3
+Animalia,Aves,Band-tailed pigeon,315.0,18.5
+Animalia,Aves,White-crowned pigeon,247.0,14.4
+Animalia,Aves,Common bronzewing,338.5,5.1
+Animalia,Aves,Spotted dove,159.0,16.7
+Animalia,Aves,Eurasian collared-dove,157.4,17.9
+Animalia,Aves,European turtle-dove,132.0,13.2
+Animalia,Aves,White-winged dove,140.0,25.0
+Animalia,Aves,Mourning dove,119.0,31.3
+Animalia,Aves,Common kingfisher,31.4,21.0
+Animalia,Aves,Pied kingfisher,84.4,3.9
+Animalia,Aves,Green kingfisher,34.0,5.0
+Animalia,Aves,Laughing kookaburra,305.0,26.8
+Animalia,Aves,White-throated kingfisher,91.4,5.5
+Animalia,Aves,Yellow-billed kingfisher,40.65,5.7
+Animalia,Aves,Buff-breasted paradise kingfisher,49.725,9.0
+Animalia,Aves,Indian roller,158.0,8.9
+Animalia,Aves,Lilac-breasted roller,108.0,13.7
+Animalia,Aves,European roller,146.0,9.2
+Animalia,Aves,European bee-eater,56.6,5.9
+Animalia,Aves,White-fronted bee-eater,34.8,7.0
+Animalia,Aves,Rainbow bee-eater,29.5,4.6
+Animalia,Aves,Russet-crowned motmot,75.7,10.4
+Animalia,Aves,Blue-crowned motmot,133.0,20.3
+Animalia,Aves,Puerto Rican tody,5.9,14.0
+Animalia,Aves,Fan-tailed cuckoo,49.85,6.0
+Animalia,Aves,Brush cuckoo,33.5083,3.8
+Animalia,Aves,Yellow-billed cuckoo,57.8,5.0
+Animalia,Aves,Black-billed cuckoo,37.5,5.0
+Animalia,Aves,"Common cuckoo, or Eurasian cuckoo",111.5,12.9
+Animalia,Aves,Greater roadrunner,376.0,9.0
+Animalia,Aves,Puerto Rican lizard cuckoo,81.9,7.6
+Animalia,Aves,Channel-billed cuckoo,684.1,7.3
+Animalia,Aves,Sunbittern,210.0,15.0
+Animalia,Aves,Crested caracara,1031.0,25.8
+Animalia,Aves,Southern caracara,1348.0,37.6
+Animalia,Aves,Brown falcon,593.5,24.0
+Animalia,Aves,Nankeen kestrel,172.5,7.0
+Animalia,Aves,Saker falcon,966.0,15.9
+Animalia,Aves,Merlin,195.0,12.7
+Animalia,Aves,Eleonora's falcon,390.0,11.2
+Animalia,Aves,Aplomado falcon,342.5,12.0
+Animalia,Aves,Prairie falcon,858.0,17.2
+Animalia,Aves,Lesser kestrel,152.5,10.9
+Animalia,Aves,Peregrine falcon,840.0,25.0
+Animalia,Aves,Mauritius kestrel,169.5,10.0
+Animalia,Aves,Gyrfalcon,1406.5,13.5
+Animalia,Aves,American kestrel,117.0,17.0
+Animalia,Aves,Eurasian hobby,209.5,14.9
+Animalia,Aves,Black falcon,692.775,11.6
+Animalia,Aves,Common kestrel,184.0,23.8
+Animalia,Aves,Red-footed falcon,152.5,13.2
+Animalia,Aves,Wattled curassow,2500.0,20.0
+Animalia,Aves,Great curassow,4133.0,24.0
+Animalia,Aves,Razor-billed curassow,2813.0,23.0
+Animalia,Aves,Plain chachalaca,495.5,8.8
+Animalia,Aves,"Australian brushturkey, or Brush turkey",2340.0,12.5
+Animalia,Aves,Malleefowl,1867.5,5.1
+Animalia,Aves,Maleo,1564.0,23.0
+Animalia,Aves,California quail,138.0,9.6
+Animalia,Aves,Gambel's quail,166.0,7.4
+Animalia,Aves,Northern bobwhite,194.0,6.4
+Animalia,Aves,Red-legged partridge,528.0,6.2
+Animalia,Aves,Ruffed grouse,532.0,11.0
+Animalia,Aves,Sage grouse,1929.5,7.0
+Animalia,Aves,Lady Amherst's pheasant,738.0,19.6
+Animalia,Aves,Golden pheasant,625.0,13.4
+Animalia,Aves,King quail,45.0,5.0
+Animalia,Aves,Common quail,96.5,14.6
+Animalia,Aves,Japanese quail,115.0,6.0
+Animalia,Aves,Stubble quail,100.975,4.2
+Animalia,Aves,Brown quail,107.5,4.0
+Animalia,Aves,Blue grouse,1058.5,14.0
+Animalia,Aves,Spruce grouse,417.3,13.0
+Animalia,Aves,Black francolin,453.0,7.0
+Animalia,Aves,Grey francolin,334.0,8.0
+Animalia,Aves,Red junglefowl,779.8,30.0
+Animalia,Aves,Willow ptarmigan,595.875,9.0
+Animalia,Aves,White-tailed ptarmigan,326.0,15.0
+Animalia,Aves,Rock ptarmigan,535.5,11.7
+Animalia,Aves,Eurasian black grouse,1079.0,12.2
+Animalia,Aves,Wild turkey,6050.0,13.0
+Animalia,Aves,Indian peafowl,4200.0,23.2
+Animalia,Aves,Grey partridge,492.0,5.2
+Animalia,Aves,Common pheasant,1094.8,27.0
+Animalia,Aves,Palawan peacock-pheasant,550.0,15.0
+Animalia,Aves,Reeves's pheasant,1239.0,9.2
+Animalia,Aves,Western capercaillie,2950.0,18.0
+Animalia,Aves,Hazel grouse,429.0,7.2
+Animalia,Aves,Greater prairie chicken,908.0,5.0
+Animalia,Aves,Lesser prairie chicken,794.5,13.5
+Animalia,Aves,Sharp-tailed grouse,908.0,7.5
+Animalia,Aves,Black-throated diver,2724.0,28.0
+Animalia,Aves,Great northern diver,3405.0,24.1
+Animalia,Aves,Red-throated diver,1816.0,24.0
+Animalia,Aves,Demoiselle crane,2400.0,27.0
+Animalia,Aves,Grey crowned crane,3372.0,27.2
+Animalia,Aves,Whooping crane,7500.0,40.0
+Animalia,Aves,Sarus crane,8663.0,41.8
+Animalia,Aves,Sandhill crane,3890.0,36.6
+Animalia,Aves,Common crane,5500.0,43.0
+Animalia,Aves,Red-crowned crane,8500.0,25.2
+Animalia,Aves,Siberian crane,5931.0,36.2
+Animalia,Aves,Hooded crane,3700.0,24.0
+Animalia,Aves,Brolga,6250.5,33.0
+Animalia,Aves,White-naped crane,5400.0,45.0
+Animalia,Aves,American coot,450.8,22.3
+Animalia,Aves,"Eurasian coot, or Coot",734.3,20.6
+Animalia,Aves,Common moorhen,392.0,18.6
+Animalia,Aves,Dusky moorhen,531.5,13.9
+Animalia,Aves,Weka,899.3,13.8
+Animalia,Aves,Lord howe woodhen,496.0,15.1
+Animalia,Aves,Purple swamphen,850.0,8.4
+Animalia,Aves,Water rail,111.5,8.9
+Animalia,Aves,Clapper rail,308.0,7.5
+Animalia,Aves,White-cheeked turaco,265.0,12.4
+Animalia,Aves,Great bustard,7895.5,28.3
+Animalia,Aves,Yellow-rumped thornbill,9.375,13.1
+Animalia,Aves,Tasmanian thornbill,6.95,7.7
+Animalia,Aves,Western thornbill,7.0,8.9
+Animalia,Aves,Mountain thornbill,6.85,15.0
+Animalia,Aves,Striated thornbill,7.1,23.5
+Animalia,Aves,Yellow thornbill,6.35,13.8
+Animalia,Aves,Brown thornbill,7.6,17.6
+Animalia,Aves,Buff-rumped thornbill,7.7,9.5
+Animalia,Aves,Chestnut-rumped thornbill,6.35,7.0
+Animalia,Aves,Southern whiteface,12.35,14.3
+Animalia,Aves,Western gerygone,5.4,6.5
+Animalia,Aves,Mangrove gerygone,6.2,5.5
+Animalia,Aves,Large-billed gerygone,6.8,4.1
+Animalia,Aves,Brown gerygone,5.25,8.9
+Animalia,Aves,Fairy gerygone,7.475,4.0
+Animalia,Aves,Dusky gerygone,7.85,10.6
+Animalia,Aves,Fernwren,20.0,4.0
+Animalia,Aves,Rockwarbler,14.35,7.0
+Animalia,Aves,Pilotbird,31.4,6.5
+Animalia,Aves,Redthroat,12.5,9.0
+Animalia,Aves,Yellow-throated scrubwren,17.4,15.6
+Animalia,Aves,White-browed scrubwren,13.4,17.6
+Animalia,Aves,Weebill,5.35,7.4
+Animalia,Aves,Great reed-warbler,30.0,10.1
+Animalia,Aves,Australian reed warbler,24.2,7.1
+Animalia,Aves,Blyth's reed-warbler,11.2,8.0
+Animalia,Aves,Moustached warbler,10.9,11.2
+Animalia,Aves,Marsh warbler,11.5,9.8
+Animalia,Aves,Sedge warbler,11.8,11.8
+Animalia,Aves,Eurasian reed-warbler,12.3,16.9
+Animalia,Aves,Seychelles warbler,15.9,17.0
+Animalia,Aves,"Clamorous reed warbler, or Indian great reed warbler",24.2,10.6
+Animalia,Aves,Icterine warbler,13.2,10.8
+Animalia,Aves,Melodious warbler,11.0,8.9
+Animalia,Aves,"Eastern olivaceous warbler, or Olivaceous warbler",9.0,7.9
+Animalia,Aves,Long-tailed tit,8.6,11.1
+Animalia,Aves,Bushtit,5.3,9.1
+Animalia,Aves,Eurasian skylark,37.5,10.1
+Animalia,Aves,Horned lark,33.5,8.0
+Animalia,Aves,Crested lark,42.9,11.6
+Animalia,Aves,Wood lark,26.9,6.0
+Animalia,Aves,Dusky woodswallow,33.0,8.2
+Animalia,Aves,Noisy scrubbird,41.525,7.8
+Animalia,Aves,Cedar waxwing,30.0,8.2
+Animalia,Aves,Bohemian waxwing,54.5,13.5
+Animalia,Aves,Lapland longspur,28.35,6.0
+Animalia,Aves,Smith's longspur,26.65,5.0
+Animalia,Aves,Mckay's bunting,42.0,4.8
+Animalia,Aves,Snow bunting,41.8,10.2
+Animalia,Aves,Black-faced cuckooshrike,115.133,9.0
+Animalia,Aves,Common cicadabird,58.5,6.2
+Animalia,Aves,Varied triller,29.45,4.8
+Animalia,Aves,White-winged triller,25.5,3.1
+Animalia,Aves,Northern cardinal,42.6,28.5
+Animalia,Aves,Blue bunting,15.7,10.8
+Animalia,Aves,Lazuli bunting,15.15,9.9
+Animalia,Aves,Blue grosbeak,28.4,10.2
+Animalia,Aves,Painted bunting,14.75,12.0
+Animalia,Aves,Indigo bunting,15.0,11.0
+Animalia,Aves,Rose-breasted grosbeak,47.325,24.0
+Animalia,Aves,Black-headed grosbeak,42.0,25.0
+Animalia,Aves,Western tanager,30.0,15.3
+Animalia,Aves,Scarlet tanager,29.0,11.9
+Animalia,Aves,Summer tanager,40.0,7.9
+Animalia,Aves,Dickcissel,33.0,4.8
+Animalia,Aves,Eurasian treecreeper,9.1,8.2
+Animalia,Aves,Cetti's warbler,13.3,9.3
+Animalia,Aves,White-throated dipper,61.7,10.6
+Animalia,Aves,American dipper,50.2,8.1
+Animalia,Aves,Golden-headed cisticola,7.325,3.6
+Animalia,Aves,Red-browed treecreeper,23.3,8.2
+Animalia,Aves,Brown treecreeper,29.4,13.9
+Animalia,Aves,White-winged chough,364.0,17.6
+Animalia,Aves,Apostlebird,132.0,25.0
+Animalia,Aves,Western scrub jay,88.7,15.8
+Animalia,Aves,Scrub jay,78.7,15.0
+Animalia,Aves,Island scrub jay,114.0,15.3
+Animalia,Aves,Mexican jay,130.0,25.0
+Animalia,Aves,"Eurasian crow, or Eurasian jackdaw",246.0,20.3
+Animalia,Aves,Little crow,396.25,16.4
+Animalia,Aves,American crow,384.8,20.0
+Animalia,Aves,Northwestern crow,294.0,16.7
+Animalia,Aves,Common raven,1041.2,69.0
+Animalia,Aves,Hooded crow,544.5,16.8
+Animalia,Aves,Carrion crow,472.7,19.2
+Animalia,Aves,Australian raven,645.0,22.5
+Animalia,Aves,Chihuahuan raven,534.0,21.8
+Animalia,Aves,Rook,453.5,23.8
+Animalia,Aves,Hawaiian crow,520.0,25.0
+Animalia,Aves,Little raven,536.75,19.8
+Animalia,Aves,Fish crow,418.0,14.5
+Animalia,Aves,Blue jay,80.8,26.2
+Animalia,Aves,Steller's jay,99.1,16.1
+Animalia,Aves,Azure jay,272.0,36.0
+Animalia,Aves,Eurasian jay,159.7,17.9
+Animalia,Aves,Pinyon jay,105.0,14.6
+Animalia,Aves,Spotted nutcracker,183.0,19.9
+Animalia,Aves,Clark's nutcracker,130.0,17.4
+Animalia,Aves,Gray jay,70.3,19.2
+Animalia,Aves,Siberian jay,84.4,17.9
+Animalia,Aves,Black-billed magpie,177.0,20.0
+Animalia,Aves,Yellow-billed magpie,159.0,10.0
+Animalia,Aves,Eurasian magpie,178.0,21.7
+Animalia,Aves,Alpine chough,211.5,24.4
+Animalia,Aves,Red-billed chough,277.8,20.3
+Animalia,Aves,Guianan cock-of-the-rock,195.0,7.0
+Animalia,Aves,Pied butcherbird,126.65,22.2
+Animalia,Aves,Grey butcherbird,80.675,20.2
+Animalia,Aves,Black currawong,343.0,24.0
+Animalia,Aves,Pied currawong,283.5,24.2
+Animalia,Aves,Grey currawong,400.0,19.6
+Animalia,Aves,Eastern bristlebird,41.5,4.8
+Animalia,Aves,Mistletoebird,8.8,9.7
+Animalia,Aves,Spangled drongo,82.25,7.9
+Animalia,Aves,Saltmarsh sharp-tailed sparrow,16.5,10.0
+Animalia,Aves,Henslow's sparrow,12.5,6.5
+Animalia,Aves,Le Conte's sparrow,13.4,4.1
+Animalia,Aves,Seaside sparrow,20.0,9.0
+Animalia,Aves,Nelson's sharp-tailed sparrow,15.2,7.1
+Animalia,Aves,Yellow-breasted bunting,19.6,7.0
+Animalia,Aves,Corn bunting,48.8,10.6
+Animalia,Aves,Cirl bunting,25.6,6.1
+Animalia,Aves,Yellowhammer,29.7,13.2
+Animalia,Aves,Ortolan bunting,19.9,6.8
+Animalia,Aves,Black-headed bunting,28.4,11.0
+Animalia,Aves,Reed bunting,18.4,12.2
+Animalia,Aves,Gouldian finch,12.0,6.0
+Animalia,Aves,White-rumped munia,12.3,10.0
+Animalia,Aves,Crimson finch,9.7,5.8
+Animalia,Aves,Star finch,10.6,3.4
+Animalia,Aves,Red-browed finch,11.45,23.4
+Animalia,Aves,Long-tailed finch,14.0,6.0
+Animalia,Aves,Masked finch,13.375,6.9
+Animalia,Aves,Beautiful firetail,14.0,4.5
+Animalia,Aves,Diamond firetail,17.6,5.4
+Animalia,Aves,Red-eared firetail,13.0,5.2
+Animalia,Aves,Double-barred finch,9.5,5.4
+Animalia,Aves,Zebra finch,12.0,12.0
+Animalia,Aves,Common redpoll,14.2,12.2
+Animalia,Aves,Hoary redpoll,19.25,6.8
+Animalia,Aves,European goldfinch,16.0,27.0
+Animalia,Aves,Common rosefinch,24.0,9.0
+Animalia,Aves,European greenfinch,26.0,13.6
+Animalia,Aves,Kauai amakihi,16.65,9.0
+Animalia,Aves,Hawaii amakihi,13.35,12.0
+Animalia,Aves,Hawfinch,56.6,12.6
+Animalia,Aves,Chaffinch,20.7,29.0
+Animalia,Aves,Brambling,23.2,14.8
+Animalia,Aves,Cassin's finch,27.5,7.0
+Animalia,Aves,House finch,21.4,11.6
+Animalia,Aves,Purple finch,25.42,14.0
+Animalia,Aves,Akiapolaau,28.0,13.0
+Animalia,Aves,Evening grosbeak,54.9,17.0
+Animalia,Aves,Apapane,13.4,11.0
+Animalia,Aves,Black rosy-finch,24.0,8.6
+Animalia,Aves,Brown-capped rosy finch,26.6,5.9
+Animalia,Aves,Gray-crowned rosy-finch,35.7,6.6
+Animalia,Aves,Eurasian linnet,19.5,9.4
+Animalia,Aves,Twite,15.4,6.1
+Animalia,Aves,Red crossbill,39.5,16.1
+Animalia,Aves,White-winged crossbill,28.9,4.0
+Animalia,Aves,Palila,37.85,13.0
+Animalia,Aves,Akepa,10.4,10.0
+Animalia,Aves,Anianiau,10.0,9.5
+Animalia,Aves,Poo-uli,25.5,9.2
+Animalia,Aves,"Akohekohe, or Crested honeycreeper",26.2,9.2
+Animalia,Aves,Pine grosbeak,65.3,9.8
+Animalia,Aves,Eurasian bullfinch,24.4,17.5
+Animalia,Aves,House canary,24.3,24.0
+Animalia,Aves,Pine siskin,12.7,11.0
+Animalia,Aves,Lesser goldfinch,9.23,5.7
+Animalia,Aves,Eurasian siskin,13.2,13.5
+Animalia,Aves,American goldfinch,12.8,13.0
+Animalia,Aves,Laysan finch,33.3,12.0
+Animalia,Aves,Nihoa finch,24.5,12.0
+Animalia,Aves,Iiwi,18.3,8.8
+Animalia,Aves,Tawny-winged woodcreeper,34.4,11.0
+Animalia,Aves,Black-billed treehunter,44.3,10.0
+Animalia,Aves,Red-rumped swallow,22.2,9.0
+Animalia,Aves,Common house-martin and northern house-martin,14.5,15.0
+Animalia,Aves,Welcome swallow,15.0,11.5
+Animalia,Aves,Barn swallow,18.3,16.0
+Animalia,Aves,Fairy martin,11.025,5.3
+Animalia,Aves,Cave swallow,20.15,12.2
+Animalia,Aves,Tree martin,15.4,6.1
+Animalia,Aves,Cliff swallow,23.24,11.8
+Animalia,Aves,Purple martin,45.0,13.8
+Animalia,Aves,Bank swallow,12.7,10.1
+Animalia,Aves,Southern rough-winged swallow,16.0,5.9
+Animalia,Aves,Northern rough-winged swallow,15.7,5.9
+Animalia,Aves,Tree swallow,19.0,12.1
+Animalia,Aves,Violet-green swallow,14.2,9.1
+Animalia,Aves,Red-winged blackbird,56.7,20.0
+Animalia,Aves,Tricolored blackbird,56.5,13.2
+Animalia,Aves,Yellow-shouldered blackbird,38.4,12.6
+Animalia,Aves,Bobolink,35.0,9.0
+Animalia,Aves,Rusty blackbird,60.8,8.8
+Animalia,Aves,Brewer's blackbird,64.55,12.5
+Animalia,Aves,Bullock's oriole,36.62,8.9
+Animalia,Aves,Hooded oriole,24.3,6.0
+Animalia,Aves,Baltimore oriole,32.9,14.0
+Animalia,Aves,Jamaican oriole,36.9,12.2
+Animalia,Aves,Scott's oriole,36.2,6.4
+Animalia,Aves,Spot-breasted oriole,46.5,11.6
+Animalia,Aves,Orchard oriole,21.0,17.7
+Animalia,Aves,Brown-headed cowbird,38.1,16.9
+Animalia,Aves,Boat-tailed grackle,152.6,13.9
+Animalia,Aves,Great-tailed grackle,168.7,12.5
+Animalia,Aves,Common grackle,111.0,23.1
+Animalia,Aves,Eastern meadowlark,94.71,12.6
+Animalia,Aves,Western meadowlark,85.0,10.0
+Animalia,Aves,Yellow-headed blackbird,75.75,18.0
+Animalia,Aves,Red-backed shrike,28.4,10.1
+Animalia,Aves,Northern shrike,63.5,12.0
+Animalia,Aves,Loggerhead shrike,46.0,12.5
+Animalia,Aves,Woodchat shrike,36.0,5.7
+Animalia,Aves,Red-billed leiothrix,21.5,15.0
+Animalia,Aves,Arabian babbler,73.5,13.5
+Animalia,Aves,Bengal jungle babbler,66.0,16.5
+Animalia,Aves,River warbler,16.1,6.9
+Animalia,Aves,Savi's warbler,13.9,9.8
+Animalia,Aves,Common grasshopper-warbler,13.3,5.9
+Animalia,Aves,Little grassbird,14.3,3.3
+Animalia,Aves,Tawny grassbird,24.775,3.2
+Animalia,Aves,Yellow-breasted boatbill,10.5,12.0
+Animalia,Aves,Grey grasswren,18.2,3.0
+Animalia,Aves,Lovely fairywren,8.65,12.0
+Animalia,Aves,Purple-crowned fairywren,11.1,5.5
+Animalia,Aves,Superb fairywren,10.4,10.5
+Animalia,Aves,Red-winged fairywren,9.75,10.0
+Animalia,Aves,Variegated fairywren,8.15,11.0
+Animalia,Aves,White-winged fairywren,7.4,6.0
+Animalia,Aves,Red-backed fairywren,7.9,7.7
+Animalia,Aves,Blue-breasted fairywren,9.2,6.4
+Animalia,Aves,Splendid fairywren,9.3125,11.0
+Animalia,Aves,Southern emu-wren,7.525,3.7
+Animalia,Aves,Spiny-cheeked honeyeater,47.8,13.6
+Animalia,Aves,Western spinebill,9.75,10.7
+Animalia,Aves,Eastern spinebill,9.7875,15.5
+Animalia,Aves,Red wattlebird,102.55,13.3
+Animalia,Aves,Little wattlebird,66.075,7.1
+Animalia,Aves,Western wattlebird,63.8,11.5
+Animalia,Aves,Yellow wattlebird,145.9,9.8
+Animalia,Aves,Rufous-banded honeyeater,11.4,3.7
+Animalia,Aves,Rufous-throated honeyeater,10.8,9.8
+Animalia,Aves,Blue-faced honeyeater,101.425,9.1
+Animalia,Aves,Yellow-faced honeyeater,17.3,12.6
+Animalia,Aves,Purple-gaped honeyeater,20.4,13.7
+Animalia,Aves,Mangrove honeyeater,26.9,4.5
+Animalia,Aves,Yellow-tinted honeyeater,12.4,6.5
+Animalia,Aves,Yellow-throated honeyeater,29.0,5.0
+Animalia,Aves,Yellow honeyeater,21.4,4.2
+Animalia,Aves,Bridled honeyeater,34.2,4.9
+Animalia,Aves,Fuscous honeyeater,17.8,17.6
+Animalia,Aves,White-eared honeyeater,24.0,12.8
+Animalia,Aves,Yellow-tufted honeyeater,31.85,15.3
+Animalia,Aves,Yellow-plumed honeyeater,17.6,9.1
+Animalia,Aves,White-plumed honeyeater,19.4,15.9
+Animalia,Aves,White-gaped honeyeater,30.8,12.2
+Animalia,Aves,Singing honeyeater,23.4,10.5
+Animalia,Aves,Brown honeyeater,10.8,13.2
+Animalia,Aves,Yellow-throated miner,52.6,12.1
+Animalia,Aves,Noisy miner,60.575,12.4
+Animalia,Aves,Bell miner,29.725,13.6
+Animalia,Aves,Graceful honeyeater,14.75,12.0
+Animalia,Aves,Lewin's honeyeater,34.4,15.9
+Animalia,Aves,Yellow-spotted honeyeater,26.325,11.2
+Animalia,Aves,Black-headed honeyeater,15.0,8.7
+Animalia,Aves,White-throated honeyeater,10.9,10.5
+Animalia,Aves,Brown-headed honeyeater,12.825,12.2
+Animalia,Aves,Black-chinned honeyeater,19.5,10.0
+Animalia,Aves,White-naped honeyeater,13.85,12.3
+Animalia,Aves,Strong-billed honeyeater,24.85,5.4
+Animalia,Aves,Red-headed myzomela,7.75,7.1
+Animalia,Aves,Dusky myzomela,12.25,12.0
+Animalia,Aves,Scarlet myzomela,8.1,10.0
+Animalia,Aves,Little friarbird,62.25,10.6
+Animalia,Aves,Noisy friarbird,103.375,9.8
+Animalia,Aves,White-cheeked honeyeater,18.0,11.6
+Animalia,Aves,New holland honeyeater,18.5,22.9
+Animalia,Aves,Crescent honeyeater,15.525,9.9
+Animalia,Aves,Striped honeyeater,39.75,4.4
+Animalia,Aves,Tawny-breasted honeyeater,37.625,9.0
+Animalia,Aves,Macleay's honeyeater,29.425,8.0
+Animalia,Aves,Superb lyrebird,979.95,17.9
+Animalia,Aves,Gray catbird,34.5,17.9
+Animalia,Aves,Pearly-eyed thrasher,98.6,17.0
+Animalia,Aves,Northern mockingbird,53.0,20.0
+Animalia,Aves,Bendire's thrasher,62.2,9.5
+Animalia,Aves,Crissal thrasher,62.7,4.8
+Animalia,Aves,Curve-billed thrasher,80.65,10.8
+Animalia,Aves,Le conte's thrasher,61.82,5.7
+Animalia,Aves,Long-billed thrasher,67.65,7.8
+Animalia,Aves,California thrasher,84.4,6.9
+Animalia,Aves,Brown thrasher,67.0,12.8
+Animalia,Aves,Pied monarch,13.6,4.0
+Animalia,Aves,Elepaio,15.0,17.8
+Animalia,Aves,Magpielark,79.9,12.1
+Animalia,Aves,Black-faced monarch,23.0,5.2
+Animalia,Aves,Shining flycatcher,24.6,5.2
+Animalia,Aves,Leaden flycatcher,12.65,6.2
+Animalia,Aves,Broad-billed flycatcher,10.225,8.6
+Animalia,Aves,Red-throated pipit,20.9,4.5
+Animalia,Aves,Rock pipit,22.4,10.9
+Animalia,Aves,Meadow pipit,18.4,13.1
+Animalia,Aves,American pipit,20.8,5.1
+Animalia,Aves,Water pipit,21.2,8.8
+Animalia,Aves,Tree pipit,23.4,8.8
+Animalia,Aves,White wagtail,24.1,13.7
+Animalia,Aves,Grey wagtail,17.2,8.0
+Animalia,Aves,Yellow wagtail,17.7,8.8
+Animalia,Aves,White-rumped shama,29.35,7.0
+Animalia,Aves,European robin,17.3,19.3
+Animalia,Aves,Rufous-tailed scrub-robin,20.3,7.0
+Animalia,Aves,Collared flycatcher,12.7,9.8
+Animalia,Aves,European pied flycatcher,13.9,15.0
+Animalia,Aves,Thrush nightingale,23.8,8.9
+Animalia,Aves,Common nightingale,19.7,10.9
+Animalia,Aves,Bluethroat,17.3,11.4
+Animalia,Aves,Spotted flycatcher,15.9,11.8
+Animalia,Aves,Black-eared wheatear,15.1,4.9
+Animalia,Aves,Northern wheatear,25.0,10.1
+Animalia,Aves,Black redstart,16.5,10.2
+Animalia,Aves,Common redstart,14.6,10.2
+Animalia,Aves,Whinchat,16.6,6.9
+Animalia,Aves,Common stonechat and stonechat,10.3,8.8
+Animalia,Aves,Purple sunbird,8.1,22.0
+Animalia,Aves,Varied sittella,11.7,6.9
+Animalia,Aves,Puerto Rican tanager,35.2,4.0
+Animalia,Aves,Crested bellbird,63.125,5.0
+Animalia,Aves,Black-naped oriole,82.6,29.0
+Animalia,Aves,Eurasian golden-oriole,79.0,14.8
+Animalia,Aves,Olive-backed oriole,96.6,7.1
+Animalia,Aves,Black-hooded oriole,56.3,15.5
+Animalia,Aves,Green figbird (hang-nest),121.5,18.0
+Animalia,Aves,Chowchilla,145.1,16.5
+Animalia,Aves,Grey shrikethrush,67.625,14.8
+Animalia,Aves,Little shrikethrush,34.05,19.3
+Animalia,Aves,Crested shriketit,28.1,11.9
+Animalia,Aves,Gilbert's whistler,30.75,11.0
+Animalia,Aves,White-breasted whistler,39.5,15.7
+Animalia,Aves,Olive whistler,41.2,7.8
+Animalia,Aves,Australian golden whistler,32.7,18.0
+Animalia,Aves,Rufous whistler,23.125,15.2
+Animalia,Aves,Grey whistler,17.5,9.7
+Animalia,Aves,Bearded parrotbill,13.8,7.1
+Animalia,Aves,Greater bird-of-paradise,172.0,12.1
+Animalia,Aves,Magnificent riflebird,161.0,12.0
+Animalia,Aves,Victoria's riflebird,86.5,8.9
+Animalia,Aves,Spotted pardalote,8.875,4.0
+Animalia,Aves,Forty-spotted pardalote,10.7,3.5
+Animalia,Aves,Striated pardalote,11.775,6.0
+Animalia,Aves,Tufted titmouse,21.0,13.3
+Animalia,Aves,"Plain titmouse, or Oak titmouse",15.9,9.0
+Animalia,Aves,Bridled titmouse,10.4,6.6
+Animalia,Aves,Blue tit,10.3,14.6
+Animalia,Aves,Crested tit,11.1,11.6
+Animalia,Aves,Great tit,17.9,15.4
+Animalia,Aves,Coal tit,9.2,9.5
+Animalia,Aves,Black-capped chickadee,10.4,12.4
+Animalia,Aves,Carolina chickadee,10.25,10.9
+Animalia,Aves,"Siberian tit, or Gray-headed chickadee",12.5,9.0
+Animalia,Aves,Mountain chickadee,11.5,10.1
+Animalia,Aves,Boreal chickadee,10.0,7.0
+Animalia,Aves,Willow tit,11.1,11.3
+Animalia,Aves,Marsh tit,11.2,13.2
+Animalia,Aves,Chestnut-backed chickadee,9.8,9.5
+Animalia,Aves,Mexican chickadee,11.0,10.1
+Animalia,Aves,Canada warbler,10.0,8.0
+Animalia,Aves,Wilson's warbler,7.0,8.9
+Animalia,Aves,Red-faced warbler,9.8,3.0
+Animalia,Aves,Kentucky warbler,14.0,6.9
+Animalia,Aves,Mourning warbler,10.0,7.9
+Animalia,Aves,Macgillivray's warbler,10.4,9.0
+Animalia,Aves,Common yellowthroat,9.5,11.5
+Animalia,Aves,Worm-eating warbler,12.5,8.1
+Animalia,Aves,Yellow-breasted chat,26.0,8.9
+Animalia,Aves,Orange-crowned warbler,9.2,8.6
+Animalia,Aves,Lucy's warbler,6.6,5.8
+Animalia,Aves,Tennessee warbler,8.5,6.4
+Animalia,Aves,Nashville warbler,7.5,10.2
+Animalia,Aves,Virginia's warbler,8.2,6.2
+Animalia,Aves,Swainson's warbler,13.5,9.9
+Animalia,Aves,Black-and-white warbler,10.9,12.2
+Animalia,Aves,Painted redstart,9.75,6.6
+Animalia,Aves,Louisiana waterthrush,22.5,11.9
+Animalia,Aves,Northern waterthrush,16.3,8.9
+Animalia,Aves,Prothonotary warbler,14.3,8.1
+Animalia,Aves,Ovenbird,18.8,11.0
+Animalia,Aves,Adelaide's warbler,7.0,10.6
+Animalia,Aves,Northern parula,7.9,7.0
+Animalia,Aves,Black-throated blue warbler,10.2,10.0
+Animalia,Aves,Bay-breasted warbler,11.5,4.9
+Animalia,Aves,Cerulean warbler,8.625,6.0
+Animalia,Aves,Golden-cheeked warbler,10.2,11.0
+Animalia,Aves,Hooded warbler,10.6,8.2
+Animalia,Aves,Yellow-rumped (myrtle) warbler,12.0,10.0
+Animalia,Aves,Prairie warbler,7.0,10.3
+Animalia,Aves,Yellow-throated warbler,9.7,6.1
+Animalia,Aves,Blackburnian warbler,9.0,8.2
+Animalia,Aves,Kirtland's warbler,15.5,9.0
+Animalia,Aves,Magnolia warbler,7.5,8.0
+Animalia,Aves,Hermit warbler,10.0,9.1
+Animalia,Aves,"Palm warbler, or Western palm warbler",10.3,6.6
+Animalia,Aves,Chestnut-sided warbler,9.0,6.9
+Animalia,Aves,Yellow warbler,9.8,11.0
+Animalia,Aves,Pine warbler,11.8,10.2
+Animalia,Aves,American redstart,8.5,10.1
+Animalia,Aves,Blackpoll warbler,15.0,8.1
+Animalia,Aves,Townsend's warbler,8.85,10.7
+Animalia,Aves,Black-throated green warbler,9.0,6.0
+Animalia,Aves,Golden-winged warbler,8.8,7.9
+Animalia,Aves,Blue-winged warbler,8.9,9.0
+Animalia,Aves,Rufous-crowned sparrow,18.8,5.1
+Animalia,Aves,Grasshopper sparrow,17.6,9.1
+Animalia,Aves,Black-throated sparrow,13.5,6.0
+Animalia,Aves,Olive sparrow,22.4,8.2
+Animalia,Aves,Sage sparrow,17.1,9.1
+Animalia,Aves,Lark bunting,32.6,4.8
+Animalia,Aves,Lark sparrow,27.1,7.8
+Animalia,Aves,Dark-eyed junco,19.0,11.3
+Animalia,Aves,Yellow-eyed junco,20.0,6.6
+Animalia,Aves,Swamp sparrow,16.1,7.8
+Animalia,Aves,Lincoln's sparrow,17.35,7.6
+Animalia,Aves,Song sparrow,22.7,11.3
+Animalia,Aves,Abert's towhee,46.0,8.6
+Animalia,Aves,California towhee,47.0,12.8
+Animalia,Aves,Canyon towhee,44.4,12.8
+Animalia,Aves,Savannah sparrow,20.2,18.0
+Animalia,Aves,Fox sparrow,35.5,10.3
+Animalia,Aves,Bachman's sparrow,19.6,3.9
+Animalia,Aves,Green-tailed towhee,28.88,7.7
+Animalia,Aves,Eastern towhee,39.4,12.3
+Animalia,Aves,Spotted towhee,40.4,11.0
+Animalia,Aves,Vesper sparrow,25.7,7.9
+Animalia,Aves,Brewer's sparrow,11.0,6.2
+Animalia,Aves,Clay-colored sparrow,11.45,6.9
+Animalia,Aves,Chipping sparrow,12.2,11.8
+Animalia,Aves,Field sparrow,12.5,10.3
+Animalia,Aves,American tree sparrow,16.6,10.8
+Animalia,Aves,White-throated sparrow,21.1,14.9
+Animalia,Aves,Golden-crowned sparrow,31.55,10.5
+Animalia,Aves,White-crowned sparrow,25.82,13.3
+Animalia,Aves,Harris's sparrow,33.1,11.7
+Animalia,Aves,House sparrow,25.3,23.0
+Animalia,Aves,Spanish sparrow,24.2,11.2
+Animalia,Aves,Eurasian tree sparrow,20.5,13.1
+Animalia,Aves,Rock sparrow,30.2,7.0
+Animalia,Aves,Southern scrub robin,33.95,9.7
+Animalia,Aves,Eastern yellow robin,20.25,14.7
+Animalia,Aves,White-breasted robin,19.15,18.3
+Animalia,Aves,Western yellow robin,19.875,8.8
+Animalia,Aves,Hooded robin,21.575,9.6
+Animalia,Aves,Dusky robin,26.6,4.7
+Animalia,Aves,Jacky winter,14.7583,5.3
+Animalia,Aves,Lemon-bellied flyrobin,12.0,4.1
+Animalia,Aves,Red-capped robin,8.875,5.5
+Animalia,Aves,Flame robin,13.0,10.9
+Animalia,Aves,Rose robin,8.2,6.1
+Animalia,Aves,White-browed robin,19.9,9.0
+Animalia,Aves,Pale-yellow robin,13.9,13.2
+Animalia,Aves,White-faced robin,15.975,18.0
+Animalia,Aves,"Common chiffchaff, or Eurasian chiffchaff",8.3,8.0
+Animalia,Aves,Wood warbler,9.2,10.2
+Animalia,Aves,Willow warbler,8.7,11.8
+Animalia,Aves,Blue-backed manakin,16.9,14.0
+Animalia,Aves,Noisy pitta,90.75,6.0
+Animalia,Aves,"White-billed buffalo weaver, or African ox birds",61.9,20.0
+Animalia,Aves,Village weaver,36.2,24.0
+Animalia,Aves,Red-billed quelea,17.5,10.0
+Animalia,Aves,Blue-grey gnatcatcher,6.5,4.2
+Animalia,Aves,California gnatcatcher,6.0,8.0
+Animalia,Aves,Hall's babbler,41.8,3.9
+Animalia,Aves,Chestnut-crowned babbler,57.8,8.3
+Animalia,Aves,White-browed babbler,43.2,14.4
+Animalia,Aves,Grey-crowned babbler,71.0,13.3
+Animalia,Aves,Alpine accentor,39.775,7.7
+Animalia,Aves,Hedge sparrow,20.2,20.8
+Animalia,Aves,Eastern whipbird,68.0,12.3
+Animalia,Aves,Green catbird,207.0,14.9
+Animalia,Aves,Spotted catbird,202.0,10.4
+Animalia,Aves,Satin bowerbird,213.0,25.1
+Animalia,Aves,Tooth-billed bowerbird,167.25,22.0
+Animalia,Aves,Regent bowerbird,100.0,17.2
+Animalia,Aves,Red-whiskered bulbul,27.7,11.1
+Animalia,Aves,White-spectacled bulbul,38.1,8.8
+Animalia,Aves,Ruby-crowned kinglet,6.75,5.6
+Animalia,Aves,Goldcrest,5.6,7.0
+Animalia,Aves,Golden-crowned kinglet,5.5,6.3
+Animalia,Aves,Verdin,6.8,5.6
+Animalia,Aves,Eurasian penduline-tit,9.3,7.2
+Animalia,Aves,Willie wagtail,27.0,9.4
+Animalia,Aves,Rufous fantail,10.2,9.1
+Animalia,Aves,Red-breasted nuthatch,11.2,7.5
+Animalia,Aves,White-breasted nuthatch,20.5,9.8
+Animalia,Aves,"Wood nuthatch, or Eurasian nuthatch",20.4,12.9
+Animalia,Aves,Brown-headed nuthatch,10.8,5.8
+Animalia,Aves,Pygmy nuthatch,10.7,8.2
+Animalia,Aves,Crested myna,116.5,13.0
+Animalia,Aves,Long-tailed glossy starling,121.0,17.8
+Animalia,Aves,Hildebrandt's starling,55.8,16.9
+Animalia,Aves,Superb starling,64.9,25.0
+Animalia,Aves,Bali mynah,95.0,25.0
+Animalia,Aves,European starling,74.0,22.9
+Animalia,Aves,Wrentit,14.7,12.6
+Animalia,Aves,Blackcap,16.7,13.8
+Animalia,Aves,Garden warbler,24.6,24.0
+Animalia,Aves,"Common whitethroat, or Whitethroat",17.7,9.0
+Animalia,Aves,Lesser whitethroat,11.4,9.0
+Animalia,Aves,Sardinian warbler,11.7,8.3
+Animalia,Aves,Barred warbler,22.5,11.9
+Animalia,Aves,Dusky antbird,16.3,13.0
+Animalia,Aves,Marsh antwren,9.8,16.2
+Animalia,Aves,Spotted antbird,17.8,14.0
+Animalia,Aves,Small tree finch,13.2,15.0
+Animalia,Aves,Medium tree finch,16.0,12.0
+Animalia,Aves,Bananaquit,10.1,8.6
+Animalia,Aves,Purple honeycreeper,12.0,17.0
+Animalia,Aves,Gray-headed tanager,27.0,10.0
+Animalia,Aves,Small ground finch,14.5,15.0
+Animalia,Aves,Puerto rican bullfinch,32.1,15.6
+Animalia,Aves,White-collared seedeater,8.7,11.7
+Animalia,Aves,Blue-grey tanager,35.0,9.5
+Animalia,Aves,Cactus wren,38.9,7.3
+Animalia,Aves,Bewick's wren,9.8,8.0
+Animalia,Aves,Carolina wren,17.5,9.2
+Animalia,Aves,House wren,9.7,9.0
+Animalia,Aves,Winter wren,9.1,7.0
+Animalia,Aves,Bicknell's thrush,27.5,11.9
+Animalia,Aves,Veery,28.8,10.1
+Animalia,Aves,Hermit thrush,27.8,10.8
+Animalia,Aves,Grey-cheeked thrush,24.8,7.3
+Animalia,Aves,Swainson's thrush,27.9,11.0
+Animalia,Aves,Wood thrush,43.3,10.2
+Animalia,Aves,Varied thrush,78.5,5.6
+Animalia,Aves,Mountain bluebird,29.6,9.0
+Animalia,Aves,Western bluebird,26.5,8.7
+Animalia,Aves,Eastern bluebird,30.5,10.5
+Animalia,Aves,Clay-colored robin,74.0,9.6
+Animalia,Aves,Redwing,61.2,18.8
+Animalia,Aves,"Common blackbird, or Eurasian blackbird",103.2,21.8
+Animalia,Aves,American robin,75.5,17.0
+Animalia,Aves,Song thrush,67.8,17.7
+Animalia,Aves,Fieldfare,106.0,18.1
+Animalia,Aves,Red-legged thrush,75.3,14.6
+Animalia,Aves,Ring ouzel,109.0,9.1
+Animalia,Aves,Mistle thrush,117.5,21.2
+Animalia,Aves,Russet-tailed thrush,111.0,1.0
+Animalia,Aves,Bassian thrush,129.5,0.6
+Animalia,Aves,Northern beardless tyrannulet,7.4,5.8
+Animalia,Aves,Olive-sided flycatcher,32.8,11.1
+Animalia,Aves,Western wood pewee,12.8,8.1
+Animalia,Aves,Eastern wood pewee,13.9,8.2
+Animalia,Aves,Caribbean elaenia,20.9,13.6
+Animalia,Aves,Alder flycatcher,13.5,9.1
+Animalia,Aves,Pacific-slope flycatcher,11.0,6.9
+Animalia,Aves,Hammond's flycatcher,10.4,7.0
+Animalia,Aves,Least flycatcher,10.0,8.0
+Animalia,Aves,Dusky flycatcher,10.95,9.0
+Animalia,Aves,Willow flycatcher,12.6,11.0
+Animalia,Aves,Acadian flycatcher,12.6,12.1
+Animalia,Aves,Puerto rican flycatcher,23.4,13.6
+Animalia,Aves,Apical flycatcher,29.2,6.0
+Animalia,Aves,Ash-throated flycatcher,28.5,11.9
+Animalia,Aves,Great crested flycatcher,32.1,14.9
+Animalia,Aves,Brown-crested flycatcher,35.0,11.0
+Animalia,Aves,Vermilion flycatcher,12.87,5.5
+Animalia,Aves,Black phoebe,18.25,8.0
+Animalia,Aves,Eastern phoebe,19.7,10.3
+Animalia,Aves,Eastern kingbird,39.9,11.1
+Animalia,Aves,Western kingbird,40.7,6.9
+Animalia,Aves,Black-capped vireo,8.65,12.0
+Animalia,Aves,Bell's vireo,10.0,9.1
+Animalia,Aves,Yellow-throated vireo,18.0,6.1
+Animalia,Aves,Warbling vireo,15.0,13.1
+Animalia,Aves,White-eyed vireo,12.0,10.9
+Animalia,Aves,Hutton's vireo,11.3,13.5
+Animalia,Aves,Puerto rican vireo,12.0,16.8
+Animalia,Aves,Red-eyed vireo,17.0,10.2
+Animalia,Aves,Philadelphia vireo,12.0,9.8
+Animalia,Aves,Blue-headed vireo,16.0,7.4
+Animalia,Aves,Japanese white-eye,11.25,5.1
+Animalia,Aves,Silvereye,12.7,18.7
+Animalia,Aves,Canary white-eye,9.775,8.7
+Animalia,Aves,Great egret,873.5,22.8
+Animalia,Aves,Grey heron,1443.0,37.5
+Animalia,Aves,Cocoi heron,1937.7,24.4
+Animalia,Aves,Goliath heron,4468.0,22.9
+Animalia,Aves,Great blue heron,1870.0,24.5
+Animalia,Aves,Purple heron,1065.5,25.4
+Animalia,Aves,American bittern,706.0,8.3
+Animalia,Aves,"Eurasian bittern, or Bittern",1324.5,11.3
+Animalia,Aves,Cattle egret,390.0,23.0
+Animalia,Aves,Green heron,175.0,11.6
+Animalia,Aves,Little blue heron,339.5,13.9
+Animalia,Aves,Little egret,312.0,22.3
+Animalia,Aves,Reddish egret,614.0,22.0
+Animalia,Aves,Pacific reef heron,510.25,15.0
+Animalia,Aves,Snowy egret,314.0,22.8
+Animalia,Aves,Tricolored heron,309.9,17.7
+Animalia,Aves,Little bittern,101.0,7.8
+Animalia,Aves,Black-crowned night heron,800.0,21.1
+Animalia,Aves,Shoebill,5984.0,35.7
+Animalia,Aves,Australian pelican,5452.5,26.1
+Animalia,Aves,Dalmatian pelican,9550.0,35.3
+Animalia,Aves,American white pelican,6129.0,54.0
+Animalia,Aves,Brown pelican,3115.8,43.0
+Animalia,Aves,Great white pelican,9520.0,51.0
+Animalia,Aves,Hadada ibis,1238.0,16.0
+Animalia,Aves,White ibis,940.0,27.6
+Animalia,Aves,Scarlet ibis,615.0,33.2
+Animalia,Aves,Northern bald ibis,1202.0,32.9
+Animalia,Aves,Crested ibis,1900.0,25.8
+Animalia,Aves,Whispering ibis,559.0,20.0
+Animalia,Aves,Roseate spoonbill,1036.97,28.0
+Animalia,Aves,African spoonbill,1521.0,17.9
+Animalia,Aves,Yellow-billed spoonbill,1747.5,28.6
+Animalia,Aves,Eurasian spoonbill,1868.0,30.1
+Animalia,Aves,Black-faced spoonbill,1228.0,15.0
+Animalia,Aves,Royal spoonbill,1795.25,36.2
+Animalia,Aves,White-faced ibis,487.5,20.4
+Animalia,Aves,Glossy ibis,431.2,26.8
+Animalia,Aves,Puna ibis,584.0,18.0
+Animalia,Aves,Buff-necked ibis,1726.0,22.0
+Animalia,Aves,Black-faced ibis,1200.0,34.5
+Animalia,Aves,Sacred ibis,1530.0,37.0
+Animalia,Aves,Black-headed ibis,1530.0,28.2
+Animalia,Aves,"Australian white ibis, or Australian ibis",1806.0,33.2
+Animalia,Aves,Straw-necked ibis,1351.5,39.4
+Animalia,Aves,Red-billed tropicbird,750.0,17.6
+Animalia,Aves,Red-tailed tropicbird,593.2,32.7
+Animalia,Aves,Lesser flamingo,1500.0,41.0
+Animalia,Aves,Chilean flamingo,2277.0,36.7
+Animalia,Aves,Greater flamingo,2500.0,58.8
+Animalia,Aves,Northern flicker,120.0,12.5
+Animalia,Aves,White-backed woodpecker,117.0,15.9
+Animalia,Aves,Great spotted woodpecker,75.1,12.7
+Animalia,Aves,Middle spotted woodpecker,59.0,9.3
+Animalia,Aves,Lesser spotted woodpecker,19.8,9.8
+Animalia,Aves,Syrian woodpecker,76.8,10.9
+Animalia,Aves,Black woodpecker,321.0,14.0
+Animalia,Aves,Pileated woodpecker,364.0,13.0
+Animalia,Aves,Eurasian wryneck,35.0,10.0
+Animalia,Aves,Red-bellied woodpecker,72.5,20.7
+Animalia,Aves,Red-headed woodpecker,75.0,10.0
+Animalia,Aves,Acorn woodpecker,79.7,17.2
+Animalia,Aves,Gila woodpecker,65.0,11.0
+Animalia,Aves,Red-cockaded woodpecker,56.0,16.1
+Animalia,Aves,Nuttall's woodpecker,37.4,7.8
+Animalia,Aves,Downy woodpecker,25.6,11.9
+Animalia,Aves,"Eurasian three-toed woodpecker, or Three-toed woodpecker",65.7,11.2
+Animalia,Aves,Hairy woodpecker,62.0,15.9
+Animalia,Aves,Eurasian green woodpecker,176.0,15.2
+Animalia,Aves,Red-naped sapsucker,48.5,4.9
+Animalia,Aves,Red-breasted sapsucker,55.0,4.8
+Animalia,Aves,Yellow-bellied sapsucker,45.0,7.8
+Animalia,Aves,Toco toucan,540.0,16.2
+Animalia,Aves,Western grebe,1475.5,14.0
+Animalia,Aves,Great crested grebe,738.7,19.2
+Animalia,Aves,Red-necked grebe,1100.0,11.0
+Animalia,Aves,Eared grebe,392.0,13.1
+Animalia,Aves,Little grebe,174.0,17.5
+Animalia,Aves,Antipodean albatross,7790.0,30.3
+Animalia,Aves,Royal albatross,9000.0,58.0
+Animalia,Aves,Wandering albatross,7046.7,50.0
+Animalia,Aves,Laysan albatross,3150.0,70.0
+Animalia,Aves,Waved albatross,3395.0,40.0
+Animalia,Aves,Black-footed albatross,2800.0,42.1
+Animalia,Aves,Light-mantled albatross,2825.0,28.1
+Animalia,Aves,Indian yellow-nosed albatross,2115.0,27.7
+Animalia,Aves,Shy albatross,4012.5,30.9
+Animalia,Aves,Yellow-nosed albatross,3890.0,37.0
+Animalia,Aves,Grey-headed albatross,3753.0,47.2
+Animalia,Aves,Campbell albatross,3440.0,34.2
+Animalia,Aves,Black-browed albatross,3232.0,43.7
+Animalia,Aves,European storm petrel,25.2,33.8
+Animalia,Aves,Harcourt's storm petrel,42.0,36.0
+Animalia,Aves,Fork-tailed storm petrel,45.2,18.0
+Animalia,Aves,Ashy storm-petrel,36.9,31.0
+Animalia,Aves,Leach's storm petrel,44.6,36.0
+Animalia,Aves,White-faced storm-petrel,47.2,19.8
+Animalia,Aves,Bulwer's petrel,99.0,22.9
+Animalia,Aves,Cory's shearwater,535.0,24.8
+Animalia,Aves,Cape petrel,408.6,28.5
+Animalia,Aves,Northern fulmar,908.0,51.0
+Animalia,Aves,Southern fulmar,795.0,45.0
+Animalia,Aves,Southern giant petrel,3697.5,47.0
+Animalia,Aves,Northern giant petrel,4313.0,35.4
+Animalia,Aves,Fairy prion,138.05,16.5
+Animalia,Aves,Snow petrel,268.0,46.0
+Animalia,Aves,Black petrel,702.5,17.0
+Animalia,Aves,Phoenix petrel,259.0,11.3
+Animalia,Aves,Trindade petrel,383.75,21.8
+Animalia,Aves,"Bonin petrel, or Bonin Island petrel",168.6,30.8
+Animalia,Aves,Gould's petrel,147.5,32.7
+Animalia,Aves,Great-winged petrel,578.5,14.9
+Animalia,Aves,Hawaiian petrel,434.0,13.1
+Animalia,Aves,Providence petrel,471.0,16.6
+Animalia,Aves,Flesh-footed shearwater,690.0,30.2
+Animalia,Aves,Sooty shearwater,740.0,34.0
+Animalia,Aves,Wedge-tailed shearwater,337.8,29.0
+Animalia,Aves,Manx shearwater,434.0,50.9
+Animalia,Aves,Short-tailed shearwater,499.4,39.9
+Animalia,Aves,Antarctic petrel,687.5,15.0
+Animalia,Aves,Fischer's lovebird,48.3,12.6
+Animalia,Aves,Nyasa loverbird,37.3,19.2
+Animalia,Aves,Red-headed lovebird,43.0,18.0
+Animalia,Aves,Black-winged lovebird,57.5,14.6
+Animalia,Aves,Australian king parrot,232.5,26.6
+Animalia,Aves,Blue-fronted amazon,451.0,49.0
+Animalia,Aves,White-fronted parrot,215.0,25.3
+Animalia,Aves,Orange-winged amazon,370.0,30.0
+Animalia,Aves,Yellow-naped parrot,432.16,49.0
+Animalia,Aves,Red-lored parrot,416.0,27.0
+Animalia,Aves,Festive amazon,430.0,24.5
+Animalia,Aves,Lilac-crowned parrot,302.0,25.8
+Animalia,Aves,St. Vincent parrot,646.0,28.0
+Animalia,Aves,Yellow-crowned parrot,430.0,56.0
+Animalia,Aves,Red-browed parrot,511.5,44.0
+Animalia,Aves,Hyacinth macaw,1330.0,38.8
+Animalia,Aves,Lear's macaw,940.0,38.3
+Animalia,Aves,Red-winged parrot,136.0,24.4
+Animalia,Aves,Great green macaw,1300.0,29.0
+Animalia,Aves,Blue-and-yellow macaw,1030.0,43.0
+Animalia,Aves,Red-and-green macaw,1220.0,50.1
+Animalia,Aves,Blue-throated macaw,784.0,22.0
+Animalia,Aves,Scarlet macaw,1040.0,33.0
+Animalia,Aves,Military macaw,1134.0,46.0
+Animalia,Aves,Red-fronted macaw,470.0,23.0
+Animalia,Aves,Chestnut-fronted macaw,343.0,28.5
+Animalia,Aves,Blue-crowned parakeet,171.0,31.0
+Animalia,Aves,Golden-capped parakeet,130.0,20.9
+Animalia,Aves,Orange-fronted parakeet,85.0,16.2
+Animalia,Aves,Red-masked parakeet,151.0,26.2
+Animalia,Aves,Green parakeet,138.0,21.8
+Animalia,Aves,Port Lincoln ringneck,150.0,17.9
+Animalia,Aves,Andean parakeet,43.1,9.2
+Animalia,Aves,Yellow-chevroned parakeet,61.6,19.0
+Animalia,Aves,Grey-cheeked parakeet,64.0,11.3
+Animalia,Aves,Tui parakeet,59.0,13.2
+Animalia,Aves,Plain parakeet,63.0,11.0
+Animalia,Aves,Canary-winged parakeet,71.6,10.3
+Animalia,Aves,White cockatoo,570.0,26.9
+Animalia,Aves,Ducorps's cockatoo,394.0,30.5
+Animalia,Aves,Sulphur-crested cockatoo,800.0,57.0
+Animalia,Aves,Tanimbar cockatoo,275.0,26.0
+Animalia,Aves,Philippine cockatoo,288.0,17.3
+Animalia,Aves,Pink cockatoo,390.0,83.0
+Animalia,Aves,Salmon-crested cockatoo,830.0,65.8
+Animalia,Aves,Blue-eyed cockatoo,492.0,31.9
+Animalia,Aves,Western corella,637.0,26.3
+Animalia,Aves,Little corella,350.0,46.9
+Animalia,Aves,Yellow-crested cockatoo,340.0,49.7
+Animalia,Aves,Long-billed corella,567.0,43.0
+Animalia,Aves,Gang-gang cockatoo,256.0,27.5
+Animalia,Aves,Banksian cockatoo,723.7,45.4
+Animalia,Aves,Long-billed black cockatoo,620.0,47.0
+Animalia,Aves,Yellow-tailed black cockatoo,678.5,41.0
+Animalia,Aves,Short-billed black cockatoo,622.925,34.4
+Animalia,Aves,Black lory,260.0,17.5
+Animalia,Aves,Yellow-streaked lory,190.0,19.7
+Animalia,Aves,Papuan lorikeet,83.0,11.3
+Animalia,Aves,Carolina parakeet,100.0,30.0
+Animalia,Aves,Black parrot,193.5,34.1
+Animalia,Aves,Vasa parrot,525.0,53.9
+Animalia,Aves,Patagonian conure,278.0,19.5
+Animalia,Aves,Spix's macaw,200.0,27.0
+Animalia,Aves,Yellow-fronted parakeet,46.0,9.3
+Animalia,Aves,Red-fronted parakeet,92.6,12.4
+Animalia,Aves,Red-fan parrot,246.0,21.8
+Animalia,Aves,Red-shouldered macaw,151.0,22.9
+Animalia,Aves,Eclectus parrot,440.0,28.5
+Animalia,Aves,Slender-billed parakeet,193.0,15.3
+Animalia,Aves,Galah,300.0,40.0
+Animalia,Aves,Red lory,156.0,24.7
+Animalia,Aves,Black-winged lory,167.0,18.1
+Animalia,Aves,Horned parakeet,130.0,19.7
+Animalia,Aves,Pacific parrotlet,26.2,10.4
+Animalia,Aves,Mexican parrotlet,33.5,10.5
+Animalia,Aves,Green-rumped parrotlet,24.0,11.6
+Animalia,Aves,Yellow-faced parrotlet,27.05,10.5
+Animalia,Aves,Musk lorikeet,70.8,21.3
+Animalia,Aves,Purple-crowned lorikeet,44.0,12.0
+Animalia,Aves,Short-tailed parrot,159.0,13.2
+Animalia,Aves,Golden conure,250.0,23.2
+Animalia,Aves,Blue-crowned hanging parrot,28.0,14.3
+Animalia,Aves,Colasisi,34.9,10.1
+Animalia,Aves,Vernal hanging parrot,35.7,10.1
+Animalia,Aves,Purple-naped lory,182.0,26.0
+Animalia,Aves,Chattering lory,143.0,26.6
+Animalia,Aves,Black-capped lory,177.0,18.5
+Animalia,Aves,Budgerigar,30.0,21.0
+Animalia,Aves,Monk parakeet,81.7,22.1
+Animalia,Aves,Nanday parakeet,128.0,18.7
+Animalia,Aves,Blue-winged parrot,46.1,21.0
+Animalia,Aves,Turquoise parrot,41.4,21.0
+Animalia,Aves,Scarlet-chested parrot,38.6,14.0
+Animalia,Aves,Bourke's parrot,45.0,12.6
+Animalia,Aves,Kea,867.5,47.0
+Animalia,Aves,Bluebonnet,86.2,15.3
+Animalia,Aves,Cockatiel,90.0,35.0
+Animalia,Aves,Ground parrot,75.7,7.4
+Animalia,Aves,White-bellied parrot,155.0,26.0
+Animalia,Aves,Black-headed parrot,149.0,22.6
+Animalia,Aves,Pileated parrot,119.0,16.8
+Animalia,Aves,Scaly-headed parrot,293.0,16.2
+Animalia,Aves,Blue-headed parrot,251.0,20.6
+Animalia,Aves,Crimson rosella,124.5,26.8
+Animalia,Aves,Eastern rosella,104.0,27.4
+Animalia,Aves,Western rosella,63.3,13.2
+Animalia,Aves,Northern rosella,89.5,19.1
+Animalia,Aves,Brown-headed parrot,140.0,32.1
+Animalia,Aves,Red-fronted parrot,275.0,21.0
+Animalia,Aves,Brown parrot,117.5,34.2
+Animalia,Aves,"Cape parrot, or Brown-necked parrot",344.0,29.7
+Animalia,Aves,Ruppel's parrot,116.0,34.3
+Animalia,Aves,Red-bellied parrot,120.0,33.4
+Animalia,Aves,Senegal parrot,155.0,40.0
+Animalia,Aves,Alexandra's parrot,104.0,23.9
+Animalia,Aves,Regent parrot,170.0,13.8
+Animalia,Aves,Superb parrot,153.0,15.1
+Animalia,Aves,Blue-winged macaw,256.0,31.0
+Animalia,Aves,Palm cockatoo,841.0,56.3
+Animalia,Aves,Crimson shining parrot,237.25,20.1
+Animalia,Aves,Hooded parrot,55.0,18.0
+Animalia,Aves,Red-rumped parrot,61.4,12.2
+Animalia,Aves,Mulga parrot,61.5,11.8
+Animalia,Aves,Dusky lory,149.0,13.4
+Animalia,Aves,Grey-hooded parakeet,30.0,8.5
+Animalia,Aves,Red-breasted parakeet,147.0,23.3
+Animalia,Aves,Plum-headed parakeet,66.0,18.8
+Animalia,Aves,Alexandrine parakeet,255.0,30.0
+Animalia,Aves,Rose-ringed parakeet,128.0,34.0
+Animalia,Aves,Large fig parrot,117.0,14.9
+Animalia,Aves,Edward's fig parrot,118.0,12.0
+Animalia,Aves,Salvadori's fig parrot,118.0,12.0
+Animalia,Aves,Grey parrot,333.0,49.7
+Animalia,Aves,Pesquet's parrot,865.0,25.0
+Animalia,Aves,Red-capped parrot,116.0,15.3
+Animalia,Aves,White-eared conure,56.7,18.5
+Animalia,Aves,Crimson-bellied parakeet,87.0,14.3
+Animalia,Aves,Thick-billed parrot,360.0,33.0
+Animalia,Aves,Kakapo,1750.0,60.0
+Animalia,Aves,Great-billed parrot,325.0,23.0
+Animalia,Aves,Blue-backed parrot,270.5,14.4
+Animalia,Aves,Scaly-breasted lorikeet,87.0,33.8
+Animalia,Aves,Olive-headed lorikeet,73.7,16.0
+Animalia,Aves,Rainbow lorikeet,115.1,20.6
+Animalia,Aves,Mindanao lorikeet,55.2,17.8
+Animalia,Aves,Blue-bellied parrot,90.0,11.9
+Animalia,Aves,Blue lorikeet,29.0,18.4
+Animalia,Aves,King penguin,13036.8,27.0
+Animalia,Aves,Royal penguin,4500.0,15.8
+Animalia,Aves,Little penguin,1105.0,42.2
+Animalia,Aves,Gentoo penguin,5950.0,41.0
+Animalia,Aves,Jackass penguin,3135.0,27.3
+Animalia,Aves,Magellanic penguin,4000.0,30.0
+Animalia,Aves,Galapagos penguin,1932.5,17.7
+Animalia,Aves,Northern saw-whet owl,117.9,17.5
+Animalia,Aves,Boreal owl,120.0,15.9
+Animalia,Aves,Short-eared owl,406.0,21.8
+Animalia,Aves,Long-eared owl,249.7,27.8
+Animalia,Aves,Burrowing owl,150.0,11.0
+Animalia,Aves,Little owl,169.0,11.1
+Animalia,Aves,Eurasian eagle-owl,2686.0,68.0
+Animalia,Aves,Snowy owl,2042.5,28.0
+Animalia,Aves,Great horned owl,1191.2,29.0
+Animalia,Aves,Eurasian pygmy-owl,65.5,6.0
+Animalia,Aves,Eastern screech-owl,164.1,20.7
+Animalia,Aves,Western screech-owl,205.0,19.0
+Animalia,Aves,Elf owl,41.0,14.0
+Animalia,Aves,Morepork,195.0,15.9
+Animalia,Aves,Powerful owl,1324.93,6.1
+Animalia,Aves,Flammulated owl,55.5,8.1
+Animalia,Aves,"Common scops-owl, or Eurasian scops-owl",92.0,6.9
+Animalia,Aves,Spectacled owl,770.0,25.0
+Animalia,Aves,Tawny owl,520.0,22.4
+Animalia,Aves,Great grey owl,1120.0,16.1
+Animalia,Aves,Spotted owl,588.7,25.0
+Animalia,Aves,Ural owl,784.5,23.8
+Animalia,Aves,Barred owl,715.0,34.0
+Animalia,Aves,Northern hawk-owl,320.0,16.2
+Animalia,Aves,Barn owl,580.0,34.0
+Animalia,Aves,Ostrich,111000.0,50.0
+Animalia,Aves,Anhinga,1080.0,16.4
+Animalia,Aves,Darter,1486.6,16.0
+Animalia,Aves,Australasian darter,1518.0,22.3
+Animalia,Aves,Christmas Island frigatebird,1550.0,25.6
+Animalia,Aves,Lesser frigatebird,806.0,27.6
+Animalia,Aves,Magnificent frigatebird,1078.0,34.0
+Animalia,Aves,Great frigatebird,1400.0,43.0
+Animalia,Aves,Little pied cormorant,750.0,13.1
+Animalia,Aves,European shag,1773.0,30.6
+Animalia,Aves,Double-crested cormorant,1817.0,22.5
+Animalia,Aves,Neotropic cormorant,1550.0,12.6
+Animalia,Aves,Great cormorant,3628.8,32.1
+Animalia,Aves,Black-faced cormorant,1420.0,41.6
+Animalia,Aves,Pelagic cormorant,2041.2,17.8
+Animalia,Aves,Brandt's cormorant,2426.0,18.0
+Animalia,Aves,Australian pied cormorant,1715.0,46.4
+Animalia,Aves,Northern gannet,2950.0,37.4
+Animalia,Aves,Australasian gannet,2350.0,33.0
+Animalia,Aves,Masked booby,1739.2,25.5
+Animalia,Aves,Nazca booby,1754.0,21.0
+Animalia,Aves,Brown booby,1134.0,28.5
+Animalia,Aves,Blue-footed booby,1530.0,18.0
+Animalia,Aves,Red-footed booby,1017.0,23.0
+Animalia,Aves,Solitary tinamou,1390.5,15.0
+Animalia,Mammalia,Lesser hedgehog tenrec,180.0,19.0
+Animalia,Mammalia,Streaked tenrec,180.0,2.7
+Animalia,Mammalia,Dobson's shrew tenrec,37.8,5.6
+Animalia,Mammalia,Talazac's shrew tenrec,50.0,5.8
+Animalia,Mammalia,Greater hedgehog tenrec,225.0,14.1
+Animalia,Mammalia,"Tailess tenrec, or Tenrec",900.0,8.7
+Animalia,Mammalia,Pronghorn,46100.0,17.0
+Animalia,Mammalia,Addax,92500.0,28.0
+Animalia,Mammalia,Impala,52500.0,25.6
+Animalia,Mammalia,Hartebeest,159000.0,22.5
+Animalia,Mammalia,Aoudad,92500.0,21.7
+Animalia,Mammalia,Springbok,39000.0,19.8
+Animalia,Mammalia,Blackbuck,37500.0,23.9
+Animalia,Mammalia,American bison,630000.0,33.5
+Animalia,Mammalia,European bison,610000.0,26.4
+Animalia,Mammalia,Gaur,825000.0,26.2
+Animalia,Mammalia,Yak,667000.0,26.3
+Animalia,Mammalia,Banteng,700000.0,27.1
+Animalia,Mammalia,Domestic cattle,750000.0,20.0
+Animalia,Mammalia,Nilgai,180000.0,21.7
+Animalia,Mammalia,Water buffalo,725000.0,34.9
+Animalia,Mammalia,Anoa,155000.0,36.1
+Animalia,Mammalia,Mountain anoa,150000.0,29.2
+Animalia,Mammalia,Takin,180000.0,21.9
+Animalia,Mammalia,West Caucasian tur,70000.0,19.3
+Animalia,Mammalia,East Caucasian tur,50000.0,20.2
+Animalia,Mammalia,Markhor,41000.0,19.1
+Animalia,Mammalia,Domestic goat,61000.0,20.8
+Animalia,Mammalia,Ibex,82500.0,21.0
+Animalia,Mammalia,Nubian ibex,46250.0,22.4
+Animalia,Mammalia,Siberian ibex,130000.0,22.3
+Animalia,Mammalia,Japanese serow,80000.0,24.0
+Animalia,Mammalia,Serow,95000.0,18.5
+Animalia,Mammalia,Bay duiker,11600.0,17.5
+Animalia,Mammalia,Jentink's duiker,70000.3,21.0
+Animalia,Mammalia,Natal duiker,10000.0,15.2
+Animalia,Mammalia,Black duiker,18100.0,14.8
+Animalia,Mammalia,Black-fronted duiker,13900.0,17.9
+Animalia,Mammalia,Red-flanked duiker,13000.0,15.2
+Animalia,Mammalia,Yellow-backed duiker,62000.0,22.5
+Animalia,Mammalia,Weyns's duiker,10000.0,15.2
+Animalia,Mammalia,Black wildebeest,132250.0,21.8
+Animalia,Mammalia,Blue wildebeest,164500.0,24.3
+Animalia,Mammalia,Topi,110000.0,35.0
+Animalia,Mammalia,"Bontebok, or Sassaby, or Blesbok",84500.0,23.0
+Animalia,Mammalia,Red-fronted gazelle,15011.0,14.5
+Animalia,Mammalia,Thomson's gazelle,25000.0,20.0
+Animalia,Mammalia,Cuvier's gazelle,17500.0,17.9
+Animalia,Mammalia,Dorcas gazelle,14500.0,23.7
+Animalia,Mammalia,Mountain gazelle,23250.0,18.3
+Animalia,Mammalia,Rhim gazelle,48500.0,14.6
+Animalia,Mammalia,Saudi gazelle,32185.7,21.0
+Animalia,Mammalia,Goitered gazelle,48500.0,16.3
+Animalia,Mammalia,Nilgiri tahr,75000.0,17.3
+Animalia,Mammalia,Himalayan tahr,35200.0,24.0
+Animalia,Mammalia,Roan antelope,225000.0,25.9
+Animalia,Mammalia,Sable antelope,225000.0,22.2
+Animalia,Mammalia,Waterbuck,175333.0,30.0
+Animalia,Mammalia,Kob,105000.0,21.9
+Animalia,Mammalia,Lechwe,94800.0,27.0
+Animalia,Mammalia,Nile lechwe,90000.0,21.1
+Animalia,Mammalia,Gerenuk,43500.0,17.3
+Animalia,Mammalia,Gunther's dik-dik,4550.0,17.5
+Animalia,Mammalia,Kirk's dik-dik,5000.0,17.3
+Animalia,Mammalia,Red goral,28863.0,19.0
+Animalia,Mammalia,Chinese goral,27000.0,20.3
+Animalia,Mammalia,Goral,31750.0,17.6
+Animalia,Mammalia,Dama gazelle,73000.0,19.3
+Animalia,Mammalia,Grant's gazelle,67000.0,23.0
+Animalia,Mammalia,Soemmerring's gazelle,48500.0,15.5
+Animalia,Mammalia,Suni,6500.0,13.5
+Animalia,Mammalia,Royal antelope,2250.0,11.1
+Animalia,Mammalia,Mountain goat,90000.0,20.8
+Animalia,Mammalia,Klipspringer,12000.0,25.9
+Animalia,Mammalia,Scimitar-horned oryx,177500.0,27.5
+Animalia,Mammalia,Gemsbok,170000.0,23.8
+Animalia,Mammalia,Arabian oryx,121350.0,20.8
+Animalia,Mammalia,Oribi,17000.0,15.9
+Animalia,Mammalia,Muskox,315000.0,27.4
+Animalia,Mammalia,Argali,160000.0,16.8
+Animalia,Mammalia,"Domestic sheep, or Mouflon",80000.0,22.8
+Animalia,Mammalia,Bighorn sheep,70275.0,20.6
+Animalia,Mammalia,Dall's sheep,73100.0,19.6
+Animalia,Mammalia,Maxwell's duiker,7000.0,18.3
+Animalia,Mammalia,Blue duiker,6250.0,15.9
+Animalia,Mammalia,Mongolian gazelle,30000.0,12.0
+Animalia,Mammalia,Bharal,55000.0,20.9
+Animalia,Mammalia,Steenbok,13000.0,9.3
+Animalia,Mammalia,Southern reedbuck,58000.0,16.8
+Animalia,Mammalia,Mountain reedbuck,30000.0,15.0
+Animalia,Mammalia,Chamois,37500.0,17.6
+Animalia,Mammalia,Bush duiker,18500.0,15.4
+Animalia,Mammalia,African buffalo,700000.0,32.8
+Animalia,Mammalia,Giant eland,680000.0,20.3
+Animalia,Mammalia,Eland,500000.0,26.1
+Animalia,Mammalia,Four-horned antelope,19000.0,17.4
+Animalia,Mammalia,Nyala,120000.0,23.0
+Animalia,Mammalia,Bongo,307500.0,22.0
+Animalia,Mammalia,Lesser kudu,82500.0,19.8
+Animalia,Mammalia,Bushbuck,60000.0,15.3
+Animalia,Mammalia,Sitatunga,87500.0,22.6
+Animalia,Mammalia,Greater kudu,217500.0,23.5
+Animalia,Mammalia,Bactrian camel,475000.0,35.4
+Animalia,Mammalia,Dromedary,434000.0,28.4
+Animalia,Mammalia,Llama,140000.0,28.9
+Animalia,Mammalia,Guanaco,127500.0,33.7
+Animalia,Mammalia,Alpaca,62000.0,25.8
+Animalia,Mammalia,Vicugna,50000.0,31.6
+Animalia,Mammalia,Chital,36000.0,20.8
+Animalia,Mammalia,Calamian deer,40500.0,17.2
+Animalia,Mammalia,Bawean deer,55000.0,17.8
+Animalia,Mammalia,Hog deer,43000.0,22.9
+Animalia,Mammalia,Western roe deer,21666.7,17.5
+Animalia,Mammalia,Red deer,200000.0,31.5
+Animalia,Mammalia,Sika deer,42000.0,26.3
+Animalia,Mammalia,Fallow deer,70000.0,27.0
+Animalia,Mammalia,Tufted deer,33500.0,22.7
+Animalia,Mammalia,Pere David's deer,186500.0,27.5
+Animalia,Mammalia,Chinese water deer,11500.0,13.9
+Animalia,Mammalia,Red brocket,33000.0,17.1
+Animalia,Mammalia,Gray brocket,17000.0,14.8
+Animalia,Mammalia,Indian muntjac,21000.0,18.8
+Animalia,Mammalia,Reeves's muntjac,18000.0,23.2
+Animalia,Mammalia,Mule deer,57000.0,22.0
+Animalia,Mammalia,White-tailed deer,87000.0,23.0
+Animalia,Mammalia,Pampas deer,32500.0,21.9
+Animalia,Mammalia,Thorold's deer,135000.0,21.3
+Animalia,Mammalia,Southern pudu,10000.0,18.3
+Animalia,Mammalia,"Caribou, or Reindeer",101250.0,21.8
+Animalia,Mammalia,Barasingha,170000.0,24.5
+Animalia,Mammalia,Eld's deer,122500.0,20.5
+Animalia,Mammalia,Visayan spotted deer,46475.0,18.5
+Animalia,Mammalia,Timor deer,63000.0,21.1
+Animalia,Mammalia,Sambar,185000.0,26.4
+Animalia,Mammalia,Giraffe,800000.0,39.5
+Animalia,Mammalia,Okapi,225000.0,33.5
+Animalia,Mammalia,Pygmy hippopotamus,215000.0,42.3
+Animalia,Mammalia,Hippopotamus,3750000.0,61.2
+Animalia,Mammalia,Babirusa,71500.0,22.9
+Animalia,Mammalia,Wart hog,100000.0,30.0
+Animalia,Mammalia,Red river hog,88000.0,22.0
+Animalia,Mammalia,Bearded pig,102750.0,16.2
+Animalia,Mammalia,Pygmy hog,8000.0,14.0
+Animalia,Mammalia,Wild boar,130000.0,27.0
+Animalia,Mammalia,Javan pig,76000.0,17.0
+Animalia,Mammalia,Collared peccary,20200.0,31.5
+Animalia,Mammalia,White-lipped peccary,22000.0,28.5
+Animalia,Mammalia,Indian spotted chevrotain,2450.0,14.5
+Animalia,Mammalia,Lesser mouse-deer,2850.0,14.0
+Animalia,Mammalia,Greater mouse-deer,6500.0,16.7
+Animalia,Mammalia,Red panda,4325.0,19.0
+Animalia,Mammalia,Short-eared dog,9500.0,11.9
+Animalia,Mammalia,Side-striped jackal,10250.0,13.7
+Animalia,Mammalia,Golden jackal,11000.0,18.8
+Animalia,Mammalia,Domestic dog,40000.0,27.0
+Animalia,Mammalia,Coyote,13250.0,21.8
+Animalia,Mammalia,Gray wolf,26625.0,20.6
+Animalia,Mammalia,Black-backed jackal,10250.0,16.7
+Animalia,Mammalia,Crab-eating fox,6500.0,12.7
+Animalia,Mammalia,Maned wolf,21500.0,16.8
+Animalia,Mammalia,Dhole,15750.0,16.1
+Animalia,Mammalia,Culpeo,13000.0,13.1
+Animalia,Mammalia,Argentinian gray fox,3990.0,10.9
+Animalia,Mammalia,Pampas fox,8500.0,13.7
+Animalia,Mammalia,Sechuran fox,4000.0,9.9
+Animalia,Mammalia,Hoary fox,5350.0,12.6
+Animalia,Mammalia,African wild dog,26500.0,17.0
+Animalia,Mammalia,Raccoon dog,6500.0,16.6
+Animalia,Mammalia,Bat-eared fox,4150.0,17.0
+Animalia,Mammalia,Bush dog,6000.0,14.1
+Animalia,Mammalia,Gray fox,4750.0,16.2
+Animalia,Mammalia,Corsac fox,2700.0,13.0
+Animalia,Mammalia,Arctic fox,5200.0,16.3
+Animalia,Mammalia,Kit fox,2500.0,15.8
+Animalia,Mammalia,Pale fox,2800.0,16.0
+Animalia,Mammalia,Ruppell's sand fox,3200.0,14.3
+Animalia,Mammalia,Swift fox,2400.0,15.9
+Animalia,Mammalia,Red fox,4131.7,21.3
+Animalia,Mammalia,Fennec,1250.0,16.3
+Animalia,Mammalia,Fossa,9500.0,23.1
+Animalia,Mammalia,Malagasy civet,1540.0,21.4
+Animalia,Mammalia,Ring-tailed mongoose,800.0,26.0
+Animalia,Mammalia,Cheetah,53500.0,20.5
+Animalia,Mammalia,Caracal,16000.0,20.3
+Animalia,Mammalia,Asiatic golden cat,13500.0,23.0
+Animalia,Mammalia,Domestic cat,3900.0,30.0
+Animalia,Mammalia,Jungle cat,10000.0,20.0
+Animalia,Mammalia,Pallas' cat,3500.0,15.9
+Animalia,Mammalia,Sand cat,2750.0,13.9
+Animalia,Mammalia,Black-footed cat,2125.0,15.6
+Animalia,Mammalia,Wild cat,5500.0,19.0
+Animalia,Mammalia,Colocolo,2950.0,19.6
+Animalia,Mammalia,Geoffroy's cat,4000.0,23.0
+Animalia,Mammalia,Ocelot,8800.0,28.2
+Animalia,Mammalia,Little spotted cat,2250.0,21.9
+Animalia,Mammalia,Margay,3666.7,24.0
+Animalia,Mammalia,Serval,13350.0,22.4
+Animalia,Mammalia,Canada lynx,10100.0,26.8
+Animalia,Mammalia,Eurasian lynx,23000.0,26.0
+Animalia,Mammalia,Bobcat,8600.0,32.3
+Animalia,Mammalia,Clouded leopard,19500.0,19.8
+Animalia,Mammalia,Lion,175000.0,28.0
+Animalia,Mammalia,Jaguar,81150.0,28.0
+Animalia,Mammalia,Leopard,53750.0,27.3
+Animalia,Mammalia,Tiger,119700.0,26.3
+Animalia,Mammalia,Leopard cat,5000.0,17.0
+Animalia,Mammalia,Flat-headed cat,6750.0,14.0
+Animalia,Mammalia,Rusty-spotted cat,1350.0,17.9
+Animalia,Mammalia,Fishing cat,10650.0,17.2
+Animalia,Mammalia,African golden cat,10650.0,21.0
+Animalia,Mammalia,Cougar,63000.0,27.0
+Animalia,Mammalia,Jaguarundi,7000.0,18.6
+Animalia,Mammalia,Snow leopard,50000.0,21.2
+Animalia,Mammalia,Marsh mongoose,3300.0,20.8
+Animalia,Mammalia,Black-footed mongoose,2000.0,15.8
+Animalia,Mammalia,Long-nosed cusimanse,790.0,13.3
+Animalia,Mammalia,Yellow mongoose,598.5,15.2
+Animalia,Mammalia,Cape gray mongoose,650.0,11.7
+Animalia,Mammalia,Slender mongoose,500.0,12.6
+Animalia,Mammalia,Dwarf mongoose,274.8,20.0
+Animalia,Mammalia,Indian gray mongoose,1000.0,12.3
+Animalia,Mammalia,Javan mongoose,800.0,16.6
+Animalia,Mammalia,Ruddy mongoose,1702.5,17.8
+Animalia,Mammalia,Crab-eating mongoose,1863.2,13.3
+Animalia,Mammalia,Striped-necked mongoose,2250.0,12.8
+Animalia,Mammalia,White-tailed mongoose,3500.0,14.8
+Animalia,Mammalia,Banded mongoose,1331.5,17.4
+Animalia,Mammalia,Meerkat,776.0,20.6
+Animalia,Mammalia,Spotted hyena,63000.0,41.1
+Animalia,Mammalia,Brown hyena,42250.0,31.9
+Animalia,Mammalia,Striped hyena,40000.0,25.0
+Animalia,Mammalia,Aardwolf,10000.0,20.0
+Animalia,Mammalia,Molina's hog-nosed skunk,3400.0,10.0
+Animalia,Mammalia,"American hog-nosed skunk, or Hog-nosed skunk",1900.0,10.2
+Animalia,Mammalia,Striped skunk,3500.0,13.9
+Animalia,Mammalia,Eastern spotted skunk,600.0,10.5
+Animalia,Mammalia,African clawless otter,23500.0,14.2
+Animalia,Mammalia,Oriental small-clawed otter,3000.0,23.0
+Animalia,Mammalia,Hog badger,10500.0,15.8
+Animalia,Mammalia,Tayra,4500.0,22.3
+Animalia,Mammalia,Sea otter,25850.0,27.0
+Animalia,Mammalia,Lesser grison,1000.0,10.2
+Animalia,Mammalia,Greater grison,2300.0,12.5
+Animalia,Mammalia,Wolverine,16333.3,19.5
+Animalia,Mammalia,Spotted-necked otter,4000.0,22.9
+Animalia,Mammalia,Striped polecat,910.0,14.0
+Animalia,Mammalia,Northern river otter,9000.0,27.0
+Animalia,Mammalia,European otter,6750.0,18.2
+Animalia,Mammalia,American marten,884.0,17.8
+Animalia,Mammalia,Yellow-throated marten,2500.0,16.0
+Animalia,Mammalia,Beech marten,1700.0,18.2
+Animalia,Mammalia,European pine marten,1300.0,18.2
+Animalia,Mammalia,Fisher,3175.0,14.3
+Animalia,Mammalia,Sable,1066.7,18.4
+Animalia,Mammalia,"European badger, or Old World badger",13000.0,18.6
+Animalia,Mammalia,Honey badger,10000.0,31.3
+Animalia,Mammalia,Chinese ferret-badger,672.0,19.0
+Animalia,Mammalia,Ermine,110.3,12.5
+Animalia,Mammalia,Steppe polecat,1350.0,9.1
+Animalia,Mammalia,Long-tailed weasel,150.6,8.8
+Animalia,Mammalia,European mink,590.0,8.4
+Animalia,Mammalia,Black-footed ferret,1021.0,9.4
+Animalia,Mammalia,Least weasel,46.9,9.1
+Animalia,Mammalia,European polecat,809.0,11.1
+Animalia,Mammalia,Siberian weasel,565.0,8.8
+Animalia,Mammalia,American mink,925.0,11.4
+Animalia,Mammalia,Giant otter,24000.0,17.3
+Animalia,Mammalia,American badger,8000.0,25.0
+Animalia,Mammalia,Marbled polecat,542.5,8.8
+Animalia,Mammalia,African palm civet,1900.0,21.0
+Animalia,Mammalia,South American fur seal,110000.0,30.6
+Animalia,Mammalia,South African fur seal,127551.0,32.1
+Animalia,Mammalia,Steller sea lion,415000.0,32.8
+Animalia,Mammalia,Australian sea lion,190000.0,24.1
+Animalia,Mammalia,Southern sea lion,207500.0,29.0
+Animalia,Mammalia,California sea lion,180000.0,35.7
+Animalia,Mammalia,Gray seal,268000.0,42.9
+Animalia,Mammalia,Harbor seal,115000.0,47.6
+Animalia,Mammalia,Ringed seal,90000.0,46.0
+Animalia,Mammalia,Baikal seal,90000.0,56.0
+Animalia,Mammalia,Allen's olingo,1235.0,25.2
+Animalia,Mammalia,Olingo,1235.0,21.8
+Animalia,Mammalia,Ringtail,1015.0,19.0
+Animalia,Mammalia,Cacomistle,900.0,24.0
+Animalia,Mammalia,White-nosed coati,3750.0,26.4
+Animalia,Mammalia,South american coati,4750.0,23.7
+Animalia,Mammalia,Kinkajou,3000.0,38.4
+Animalia,Mammalia,Crab-eating raccoon,6270.0,19.0
+Animalia,Mammalia,Common raccoon,6000.0,21.0
+Animalia,Mammalia,Giant panda,117500.0,36.8
+Animalia,Mammalia,Sun bear,46000.0,35.9
+Animalia,Mammalia,Sloth bear,100000.0,33.3
+Animalia,Mammalia,Spectacled bear,109250.0,39.0
+Animalia,Mammalia,American black bear,154250.0,34.0
+Animalia,Mammalia,Brown bear,277500.0,40.0
+Animalia,Mammalia,Polar bear,475000.0,43.8
+Animalia,Mammalia,Asiatic black bear,103750.0,39.2
+Animalia,Mammalia,Binturong,12250.0,27.0
+Animalia,Mammalia,Small-toothed palm civet,2250.0,16.1
+Animalia,Mammalia,African civet,13666.7,28.0
+Animalia,Mammalia,Small-spotted genet,1866.7,22.7
+Animalia,Mammalia,Panther genet,2225.0,20.0
+Animalia,Mammalia,Large-spotted genet,1820.0,21.3
+Animalia,Mammalia,Banded palm civet,2400.0,16.0
+Animalia,Mammalia,Masked palm civet,4300.0,27.4
+Animalia,Mammalia,Asian palm civet,3100.0,24.5
+Animalia,Mammalia,Malabar civet,12061.0,15.4
+Animalia,Mammalia,Malayan civet,7350.0,15.0
+Animalia,Mammalia,Large indian civet,10000.0,21.7
+Animalia,Mammalia,Bowhead whale,100000000.0,211.0
+Animalia,Mammalia,Southern right whale,45000000.0,70.0
+Animalia,Mammalia,North atlantic right whale,23000000.0,67.0
+Animalia,Mammalia,Common minke whale,7500000.0,50.0
+Animalia,Mammalia,Sei whale,20000000.0,74.0
+Animalia,Mammalia,Bryde's whale,16000000.0,72.0
+Animalia,Mammalia,Blue whale,136000000.0,110.0
+Animalia,Mammalia,Fin whale,70000000.0,114.0
+Animalia,Mammalia,Humpback whale,30000000.0,95.0
+Animalia,Mammalia,Short-beaked saddleback dolphin,80000.0,25.0
+Animalia,Mammalia,Short-finned pilot whale,2200000.0,63.0
+Animalia,Mammalia,Long-finned pilot whale,1060000.0,60.0
+Animalia,Mammalia,Risso's dolphin,425000.0,42.5
+Animalia,Mammalia,Atlantic white-sided dolphin,208000.0,27.0
+Animalia,Mammalia,Pacific white-sided dolphin,103000.0,46.0
+Animalia,Mammalia,Irrawaddy dolphin,190000.0,30.0
+Animalia,Mammalia,Killer whale,3987500.0,90.0
+Animalia,Mammalia,Melon-headed whale,206000.0,47.0
+Animalia,Mammalia,False killer whale,748000.0,62.5
+Animalia,Mammalia,Pantropical spotted dolphin,112500.0,46.0
+Animalia,Mammalia,Striped dolphin,112500.0,57.5
+Animalia,Mammalia,Rough-toothed dolphin,114000.0,32.0
+Animalia,Mammalia,Bottlenosed dolphin,200000.0,51.6
+Animalia,Mammalia,Gray whale,28500000.0,77.0
+Animalia,Mammalia,Baird's beaked whale,11380000.0,84.0
+Animalia,Mammalia,Northern bottlenose whale,6500000.0,37.0
+Animalia,Mammalia,Gervais's beaked whale,5600000.0,48.0
+Animalia,Mammalia,Cuvier's beaked whale,2701000.0,62.0
+Animalia,Mammalia,"Amazon river dolphin, or Amazon dolphin",84000.0,31.3
+Animalia,Mammalia,Pygmy sperm whale,424600.0,17.0
+Animalia,Mammalia,"Yangzte river dolphin, or Baiji",83500.0,24.0
+Animalia,Mammalia,Beluga,1430000.0,40.0
+Animalia,Mammalia,Narwhal,1250000.0,50.0
+Animalia,Mammalia,Finless porpoise,32500.0,33.0
+Animalia,Mammalia,Harbor porpoise,52500.0,20.4
+Animalia,Mammalia,Dall's porpoise,120000.0,22.0
+Animalia,Mammalia,Sperm whale,28500000.0,77.0
+Animalia,Mammalia,Greater sac-winged bat,7.9,6.0
+Animalia,Mammalia,Sharp-nosed tomb bat,24.43,4.0
+Animalia,Mammalia,Hill's tomb bat,21.99,8.8
+Animalia,Mammalia,Fulvus roundleaf bat,7.0,13.0
+Animalia,Mammalia,Australian false vampire bat,150.0,22.6
+Animalia,Mammalia,Greater false vampire bat,38.6,14.0
+Animalia,Mammalia,Schreibers's long-fingered bat,13.0,22.0
+Animalia,Mammalia,Pallas's mastiff bat,14.0,5.6
+Animalia,Mammalia,Brazilian free-tailed bat,12.5,12.0
+Animalia,Mammalia,European free-tailed bat,35.0,13.0
+Animalia,Mammalia,New Zealand lesser short-tailed bat,23.5,7.6
+Animalia,Mammalia,Greater bulldog bat,50.0,11.8
+Animalia,Mammalia,Geoffroy's tailless bat,15.2,10.0
+Animalia,Mammalia,Jamaican fruit-eating bat,42.2,19.2
+Animalia,Mammalia,Seba's short-tailed bat,15.0,17.0
+Animalia,Mammalia,Vampire bat,33.2,29.2
+Animalia,Mammalia,Hairy-legged vampire bat,28.0,8.0
+Animalia,Mammalia,Pallas's long-tongued bat,10.0,11.0
+Animalia,Mammalia,Southern long-nosed bat,25.0,10.1
+Animalia,Mammalia,California leaf-nosed bat,11.6,17.0
+Animalia,Mammalia,Waterhouse's leaf-nosed bat,16.0,10.4
+Animalia,Mammalia,Pale spear-nosed bat,43.4,9.0
+Animalia,Mammalia,Greater spear-nosed bat,81.0,18.0
+Animalia,Mammalia,White-lined broad-nosed bat,22.0,13.0
+Animalia,Mammalia,Little yellow-shouldered bat,20.0,12.0
+Animalia,Mammalia,Lesser short-nosed fruit bat,45.0,10.1
+Animalia,Mammalia,Greater short-nosed fruit bat,75.0,10.0
+Animalia,Mammalia,Moluccan naked-backed fruit bat,430.0,12.3
+Animalia,Mammalia,Straw-colored fruit bat,306.25,21.8
+Animalia,Mammalia,Gambian epauletted fruit bat,80.0,7.8
+Animalia,Mammalia,Wahlberg's epauletted fruit bat,80.0,10.1
+Animalia,Mammalia,Philippine pygmy fruit bat,18.0,10.0
+Animalia,Mammalia,Black flying fox,672.1,20.3
+Animalia,Mammalia,Ryukyu flying fox,435.0,24.0
+Animalia,Mammalia,Indian flying fox,1175.0,44.0
+Animalia,Mammalia,Variable flying fox,450.0,20.3
+Animalia,Mammalia,Comoro black flying fox,696.5,15.0
+Animalia,Mammalia,Lyle's flying fox,316.7,20.4
+Animalia,Mammalia,Greater mascarene flying fox,456.3,19.4
+Animalia,Mammalia,Gray-headed flying fox,675.0,23.6
+Animalia,Mammalia,Bonin flying fox,321.49,16.7
+Animalia,Mammalia,Little golden-mantled flying fox,200.0,17.2
+Animalia,Mammalia,Rodriguez flying fox,350.0,28.0
+Animalia,Mammalia,Little red flying fox,300.0,15.8
+Animalia,Mammalia,Large flying fox,872.0,20.9
+Animalia,Mammalia,Egyptian rousette,125.0,22.9
+Animalia,Mammalia,Long-haired rousette,103.0,18.7
+Animalia,Mammalia,Leschenault's rousette,108.25,14.0
+Animalia,Mammalia,Mediterranean horseshoe bat,8.2,13.0
+Animalia,Mammalia,Greater horseshoe bat,22.875,30.5
+Animalia,Mammalia,Lesser horseshoe bat,4.6,29.4
+Animalia,Mammalia,Pallid bat,20.8,14.8
+Animalia,Mammalia,Western barbastelle,10.25,23.0
+Animalia,Mammalia,Gould's wattled bat,15.87,7.8
+Animalia,Mammalia,Chocolate wattled bat,8.91,9.6
+Animalia,Mammalia,Townsend's big-eared bat,14.25,20.5
+Animalia,Mammalia,Big brown bat,23.0,19.0
+Animalia,Mammalia,Northern bat,13.0,20.0
+Animalia,Mammalia,Serotine,18.2,21.0
+Animalia,Mammalia,Eastern false pipistrelle,22.54,6.0
+Animalia,Mammalia,Silver-haired bat,10.0,12.0
+Animalia,Mammalia,Hoary bat,24.0,14.0
+Animalia,Mammalia,Large-footed myotis,10.41,8.0
+Animalia,Mammalia,Bechstein's bat,10.5,21.0
+Animalia,Mammalia,Lesser mouse-eared bat,23.0,33.0
+Animalia,Mammalia,Brandt's bat,7.0,41.0
+Animalia,Mammalia,Pond bat,15.0,20.5
+Animalia,Mammalia,Daubenton's bat,8.5,28.0
+Animalia,Mammalia,Geoffroy's bat,11.0,22.7
+Animalia,Mammalia,Western long-eared myotis,7.4,22.0
+Animalia,Mammalia,Gray myotis,9.25,16.5
+Animalia,Mammalia,Keen's myotis,7.4,19.0
+Animalia,Mammalia,Eastern small-footed myotis,5.6,12.0
+Animalia,Mammalia,Little brown bat,10.0,34.0
+Animalia,Mammalia,Mouse-eared bat,28.55,37.1
+Animalia,Mammalia,Whiskered bat,5.3,24.0
+Animalia,Mammalia,Natterer's bat,7.5,23.7
+Animalia,Mammalia,Black myotis,4.2,7.0
+Animalia,Mammalia,Indiana bat,7.7,20.0
+Animalia,Mammalia,Fringed myotis,6.0,18.3
+Animalia,Mammalia,Cave myotis,10.1,11.3
+Animalia,Mammalia,Fish-eating bat,25.0,10.0
+Animalia,Mammalia,Long-legged myotis,7.0,21.0
+Animalia,Mammalia,Yuma myotis,6.25,14.0
+Animalia,Mammalia,Lesser noctule,16.0,16.0
+Animalia,Mammalia,Noctule,27.75,12.0
+Animalia,Mammalia,Evening bat,9.75,6.0
+Animalia,Mammalia,Lesser long-eared bat,8.0,7.3
+Animalia,Mammalia,Gould's long-eared bat,11.32,4.0
+Animalia,Mammalia,Eastern pipistrelle,7.5,14.8
+Animalia,Mammalia,Kuhl's pipistrelle,6.0,8.0
+Animalia,Mammalia,Nathusius's pipistrelle,10.0,11.0
+Animalia,Mammalia,Common pipistrelle,5.0,16.6
+Animalia,Mammalia,Brown big-eared bat,7.8,30.0
+Animalia,Mammalia,Gray big-eared bat,12.0,25.5
+Animalia,Mammalia,Western broad-nosed bat,11.7,9.7
+Animalia,Mammalia,Orion broad-nosed bat,11.765,11.1
+Animalia,Mammalia,Large forest bat,6.06,8.0
+Animalia,Mammalia,Eastern forest bat,5.4,5.0
+Animalia,Mammalia,Southern forest bat,5.05,8.0
+Animalia,Mammalia,Little forest bat,3.77,9.1
+Animalia,Mammalia,Particolored bat,18.7,14.5
+Animalia,Mammalia,Screaming hairy armadillo,840.0,16.2
+Animalia,Mammalia,Large hairy armadillo,3000.0,25.2
+Animalia,Mammalia,Nine-banded armadillo,5500.0,22.3
+Animalia,Mammalia,Seven-banded armadillo,1475.0,16.8
+Animalia,Mammalia,Six-banded armadillo,4850.0,22.1
+Animalia,Mammalia,Giant armadillo,33000.0,15.0
+Animalia,Mammalia,Southern three-banded armadillo,1500.0,36.8
+Animalia,Mammalia,Pichi,1500.0,12.5
+Animalia,Mammalia,Kultarr,24.0,3.5
+Animalia,Mammalia,Agile antechinus,18.0,4.7
+Animalia,Mammalia,Fawn antechinus,34.0,3.4
+Animalia,Mammalia,Yellow-footed antechinus,45.0,3.9
+Animalia,Mammalia,Brown antechinus,27.5,5.4
+Animalia,Mammalia,Dusky antechinus,41.0,3.3
+Animalia,Mammalia,Mulgara,115.0,7.4
+Animalia,Mammalia,Kowari,105.0,8.0
+Animalia,Mammalia,Western quoll,890.0,6.2
+Animalia,Mammalia,Northern quoll,525.0,5.9
+Animalia,Mammalia,"Tiger quoll, or Australian tiger cat",5500.0,6.8
+Animalia,Mammalia,Eastern quoll,1090.0,6.8
+Animalia,Mammalia,Southern dibbler,70.0,5.5
+Animalia,Mammalia,Red-tailed phascogale,43.0,4.7
+Animalia,Mammalia,Brush-tailed phascogale,193.5,5.9
+Animalia,Mammalia,Pygmy planigale,10.0,5.8
+Animalia,Mammalia,Narrow-nosed planigale,5.3,5.2
+Animalia,Mammalia,Fat-tailed marsupial mouse,32.5,7.0
+Animalia,Mammalia,Tasmanian devil,6500.0,13.0
+Animalia,Mammalia,Fat-tailed dunnart,15.0,5.0
+Animalia,Mammalia,Gray-bellied dunnart,17.5,3.6
+Animalia,Mammalia,Stripe-faced dunnart,20.0,4.9
+Animalia,Mammalia,Red-cheeked dunnart,34.0,5.3
+Animalia,Mammalia,Lesser hairy-footed dunnart,10.0,5.3
+Animalia,Mammalia,Numbat,471.5,11.0
+Animalia,Mammalia,Central American woolly opossum,330.0,8.7
+Animalia,Mammalia,Bare-tailed woolly opossum,350.0,8.9
+Animalia,Mammalia,Water opossum (yapok),700.0,3.1
+Animalia,Mammalia,Big-eared opossum,850.0,4.0
+Animalia,Mammalia,Southern opossum,1530.0,4.2
+Animalia,Mammalia,Virginia opossum,3000.0,6.6
+Animalia,Mammalia,"Agile gracile opossum, or Paraguayan slender mouse opossum",22.0,6.1
+Animalia,Mammalia,Lutrine opossum,370.0,2.9
+Animalia,Mammalia,Murine mouse opossum,26.0,3.6
+Animalia,Mammalia,Robinson's mouse opossum,75.0,5.0
+Animalia,Mammalia,"White-bellied slender opossum, or Rio Napo mouse opossum",21.0,4.5
+Animalia,Mammalia,Brown four-eyed opossum,440.0,3.0
+Animalia,Mammalia,Sepia short-tailed opossum,35.0,4.1
+Animalia,Mammalia,"Northern red-sided opossum, or Short bare-tailed opossum",90.0,3.9
+Animalia,Mammalia,Gray short-tailed opossum,105.0,5.1
+Animalia,Mammalia,Gray four-eyed opossum,450.0,4.4
+Animalia,Mammalia,Pygmy gliding possum,13.0,8.8
+Animalia,Mammalia,Mountain pygmy possum,45.0,12.0
+Animalia,Mammalia,Eastern pygmy possum,40.0,10.3
+Animalia,Mammalia,Doria's tree kangaroo,9581.0,19.0
+Animalia,Mammalia,Goodfellow's tree kangaroo,7400.0,23.6
+Animalia,Mammalia,Grizzled tree kangaroo,11400.0,23.8
+Animalia,Mammalia,Matschie's tree kangaroo,7200.0,26.9
+Animalia,Mammalia,Black tree kangaroo,8000.0,20.0
+Animalia,Mammalia,Gray dorcopsis,3570.0,13.9
+Animalia,Mammalia,Brown dorcopsis,5000.0,12.4
+Animalia,Mammalia,"Macleay's dorcopsis, or Papuan mountain wallaby",2988.0,7.9
+Animalia,Mammalia,Spectacled hare-wallaby,3000.0,8.8
+Animalia,Mammalia,Rufous hare-wallaby,1310.0,13.2
+Animalia,Mammalia,Agile wallaby,16000.0,16.9
+Animalia,Mammalia,Antilopine wallaroo,49500.0,19.8
+Animalia,Mammalia,Black wallaroo,17500.0,11.8
+Animalia,Mammalia,Tammar wallaby,6500.0,15.1
+Animalia,Mammalia,Western gray kangaroo,28250.0,23.2
+Animalia,Mammalia,Eastern gray kangaroo,49500.0,25.0
+Animalia,Mammalia,Parma wallaby,4250.0,15.9
+Animalia,Mammalia,Wallaroo,30000.0,22.0
+Animalia,Mammalia,Red-necked wallaby,16200.0,15.2
+Animalia,Mammalia,Red kangaroo,55000.0,25.0
+Animalia,Mammalia,"Bridled nail-tail wallaby, or Ridled nail-tailed wallaby",5500.0,7.4
+Animalia,Mammalia,Northern nail-tailed wallaby,5800.0,5.5
+Animalia,Mammalia,"Short-eared rock-wallaby, or Western rock wallaby",3700.0,10.1
+Animalia,Mammalia,Nabarlek,1250.0,11.7
+Animalia,Mammalia,Brush-tailed rock wallaby,6000.0,14.3
+Animalia,Mammalia,Ringtailed rock wallaby,6000.0,14.4
+Animalia,Mammalia,Quokka,3500.0,13.8
+Animalia,Mammalia,Tasmanian pademelon,5000.0,8.8
+Animalia,Mammalia,Dusky pademelon,4796.0,9.4
+Animalia,Mammalia,Red-legged pademelon,4100.0,9.7
+Animalia,Mammalia,Red-necked pademelon,3800.0,9.0
+Animalia,Mammalia,Swamp wallaby,14625.0,16.8
+Animalia,Mammalia,Striped possum,318.0,9.6
+Animalia,Mammalia,Leadbeater's possum,127.0,14.1
+Animalia,Mammalia,Yellow-bellied glider,572.5,15.0
+Animalia,Mammalia,Sugar glider,110.0,17.8
+Animalia,Mammalia,Squirrel glider,405.0,14.8
+Animalia,Mammalia,Ground cuscus,2400.0,18.9
+Animalia,Mammalia,"Common spotted cuscus, or Spotted cuscus",3500.0,17.0
+Animalia,Mammalia,Brush-tailed possum,2395.0,15.9
+Animalia,Mammalia,Koala,9300.0,22.1
+Animalia,Mammalia,Rufous 'rat'-kangaroo,3250.0,12.8
+Animalia,Mammalia,Woylie,1500.0,18.8
+Animalia,Mammalia,Long-footed potoroo,1650.0,15.3
+Animalia,Mammalia,Long-nosed potoroo,1430.0,14.5
+Animalia,Mammalia,Lemuroid ringtail possum,1040.0,5.4
+Animalia,Mammalia,"Common ringtail, or Ring-tailed possum",850.0,10.1
+Animalia,Mammalia,Northern hairy-nosed wombat,31000.0,30.0
+Animalia,Mammalia,Southern hairy-nosed wombat,25500.0,29.9
+Animalia,Mammalia,Coarse-haired wombat,25500.0,30.0
+Animalia,Mammalia,Four-toed hedgehog,500.0,11.4
+Animalia,Mammalia,Amur hedgehog,774.475,8.0
+Animalia,Mammalia,Eastern European hedgehog,719.0,7.0
+Animalia,Mammalia,Western European hedgehog,750.0,11.7
+Animalia,Mammalia,Long-eared hedgehog,342.0,7.6
+Animalia,Mammalia,Desert hedgehog,188.0,6.3
+Animalia,Mammalia,Brandt's hedgehog,292.0,7.0
+Animalia,Mammalia,"Southern tree hyrax, or Tree hyrax",3000.0,13.6
+Animalia,Mammalia,Rock hyrax,3600.0,14.8
+Animalia,Mammalia,Japanese hare,2519.0,13.0
+Animalia,Mammalia,Black-tailed jackrabbit,4175.0,11.8
+Animalia,Mammalia,European hare,4175.0,10.7
+Animalia,Mammalia,Mountain hare,4175.0,18.0
+Animalia,Mammalia,European rabbit,1800.0,13.0
+Animalia,Mammalia,Audubon's cottontail rabbit,900.0,7.8
+Animalia,Mammalia,Eastern cottontail,1150.0,9.8
+Animalia,Mammalia,Mountain cottontail,760.0,7.4
+Animalia,Mammalia,Marsh rabbit,1233.0,7.6
+Animalia,Mammalia,New England cottontail,902.6,9.3
+Animalia,Mammalia,Northern pika,120.0,9.4
+Animalia,Mammalia,American pika,100.0,7.0
+Animalia,Mammalia,"Bushveld elephant shrew, or Long-eared elephant shrew",52.0,9.3
+Animalia,Mammalia,North African elephant shrew,48.0,7.2
+Animalia,Mammalia,Rufous elephant shrew,58.0,7.9
+Animalia,Mammalia,Short-eared elephant shrew,40.0,8.7
+Animalia,Mammalia,Golden-rumped elephant shrew,540.0,11.0
+Animalia,Mammalia,Duck-billed platypus,1250.0,22.6
+Animalia,Mammalia,Short-beaked echidna,3500.0,49.5
+Animalia,Mammalia,"Western long-beaked echidna, or Long-nosed echidna",7500.0,41.2
+Animalia,Mammalia,Long-nosed echymipera,1250.0,3.1
+Animalia,Mammalia,Golden bandicoot,485.0,6.7
+Animalia,Mammalia,Northern brown bandicoot,1600.0,6.8
+Animalia,Mammalia,Southern brown bandicoot,700.0,6.5
+Animalia,Mammalia,Western barred bandicoot,226.0,5.8
+Animalia,Mammalia,Eastern barred bandicoot,766.0,6.1
+Animalia,Mammalia,Long-nosed bandicoot,859.0,5.6
+Animalia,Mammalia,Raffray's bandicoot,675.0,3.2
+Animalia,Mammalia,"Rabbit-bandicoot, or Bilby",1300.0,9.6
+Animalia,Mammalia,African wild ass,164998.0,47.0
+Animalia,Mammalia,Horse,300000.0,57.0
+Animalia,Mammalia,Grevy's zebra,384000.0,31.0
+Animalia,Mammalia,Kulan,230000.0,31.6
+Animalia,Mammalia,Kiang,275000.0,30.1
+Animalia,Mammalia,Quagga,280000.0,38.0
+Animalia,Mammalia,Mountain zebra,296000.0,33.2
+Animalia,Mammalia,White rhinoceros,2175000.0,45.0
+Animalia,Mammalia,Sumatran rhinoceros,1260000.0,32.8
+Animalia,Mammalia,Black rhinoceros,1100000.0,57.0
+Animalia,Mammalia,Indian rhinoceros,1602330.0,43.5
+Animalia,Mammalia,Malayan tapir,250000.0,36.5
+Animalia,Mammalia,Baird's tapir,300000.0,29.6
+Animalia,Mammalia,Mountain tapir,148950.0,28.5
+Animalia,Mammalia,Brazilian tapir,250000.0,39.6
+Animalia,Mammalia,Southern two-toed sloth,6250.0,36.8
+Animalia,Mammalia,Hoffmann's two-toed sloth,6250.0,41.0
+Animalia,Mammalia,Giant anteater,28500.0,31.0
+Animalia,Mammalia,Northern tamandua,4500.0,16.0
+Animalia,Mammalia,Southern tamandua,4500.0,19.0
+Animalia,Mammalia,Azara's night monkey,1230.0,30.0
+Animalia,Mammalia,Lemurine night monkey,874.0,33.8
+Animalia,Mammalia,Northern night monkey,800.0,30.1
+Animalia,Mammalia,Noisy night monkey,873.0,22.1
+Animalia,Mammalia,Black howler monkey,5462.5,32.4
+Animalia,Mammalia,Mantled howler monkey,7000.0,24.0
+Animalia,Mammalia,Red howler monkey,6543.2,25.0
+Animalia,Mammalia,White-bellied spider monkey,7535.0,37.0
+Animalia,Mammalia,Chamek spider monkey,6000.0,42.8
+Animalia,Mammalia,Brown-headed spider monkey,7000.0,46.0
+Animalia,Mammalia,Central American spider monkey,7267.5,47.1
+Animalia,Mammalia,White-whiskered spider monkey,6000.0,44.0
+Animalia,Mammalia,Black spider monkey,7887.5,46.0
+Animalia,Mammalia,"Southern muriqui, or Woolly spider monkey, or Muriqui",11170.0,40.0
+Animalia,Mammalia,Humboldt's woolly monkey,7650.0,32.0
+Animalia,Mammalia,Goeldi's monkey,555.0,22.2
+Animalia,Mammalia,Geoffroy's marmoset,342.0,17.6
+Animalia,Mammalia,White-tufted-ear marmoset,255.2,22.8
+Animalia,Mammalia,Wied's black-tufted-ear marmoset,342.0,20.0
+Animalia,Mammalia,Black-pencilled marmoset,307.0,15.4
+Animalia,Mammalia,Pygmy marmoset,124.0,18.6
+Animalia,Mammalia,Saddlebacked tamarin,456.5,24.9
+Animalia,Mammalia,Black-mantled tamarin,519.2,20.2
+Animalia,Mammalia,Golden-headed lion tamarin,535.0,21.3
+Animalia,Mammalia,Golden-rumped lion tamarin,570.0,17.9
+Animalia,Mammalia,Golden lion tamarin,654.5,31.6
+Animalia,Mammalia,Silvery marmoset,343.2,16.5
+Animalia,Mammalia,Tassel-eared marmoset,355.8,15.0
+Animalia,Mammalia,Brazilian bare-faced tamarin,495.8,19.0
+Animalia,Mammalia,Geoffroy's tamarin,499.3,20.5
+Animalia,Mammalia,Emperor tamarin,518.5,23.7
+Animalia,Mammalia,Red-chested mustached tamarin,501.3,20.5
+Animalia,Mammalia,Silvery-brown bare-face tamarin,490.0,15.2
+Animalia,Mammalia,Midas tamarin,553.8,21.0
+Animalia,Mammalia,Black-chested mustached tamarin,543.5,20.0
+Animalia,Mammalia,Cotton-top tamarin,445.5,26.2
+Animalia,Mammalia,White-fronted capuchin,2467.5,40.4
+Animalia,Mammalia,White-faced capuchin,2655.0,54.0
+Animalia,Mammalia,Weeping capuchin,2552.5,47.0
+Animalia,Mammalia,Bolivian squirrel monkey,615.0,30.3
+Animalia,Mammalia,South American squirrel monkey,925.0,30.2
+Animalia,Mammalia,Brown capuchin,2642.5,46.0
+Animalia,Mammalia,Allen's swamp monkey,4702.5,27.0
+Animalia,Mammalia,L'hoest's monkey,4700.0,24.1
+Animalia,Mammalia,Preuss's monkey,5250.0,26.0
+Animalia,Mammalia,Agile mangabey,8000.0,31.0
+Animalia,Mammalia,Red-capped mangabey,9492.5,46.0
+Animalia,Mammalia,Black-cheeked white-nosed monkey,3705.0,31.2
+Animalia,Mammalia,Campbell's monkey,3600.0,30.0
+Animalia,Mammalia,Moustached monkey,3585.0,36.0
+Animalia,Mammalia,Diana monkey,4550.0,35.1
+Animalia,Mammalia,Red-bellied monkey,3250.0,24.0
+Animalia,Mammalia,Owl-faced monkey,4425.0,28.6
+Animalia,Mammalia,Blue monkey,9000.0,37.8
+Animalia,Mammalia,Mona monkey,4500.0,30.0
+Animalia,Mammalia,De Brazza's monkey,5945.0,30.8
+Animalia,Mammalia,White-nosed guenon,5465.0,31.0
+Animalia,Mammalia,Lesser white-nosed monkey,3650.0,29.0
+Animalia,Mammalia,Crowned guenon,3580.0,27.0
+Animalia,Mammalia,Wolf's monkey,3390.0,24.0
+Animalia,Mammalia,"Grivet, or Vervet",5620.0,32.0
+Animalia,Mammalia,Angolan colobus,8625.0,35.3
+Animalia,Mammalia,Guereza,9950.0,35.0
+Animalia,Mammalia,King colobus,9525.0,33.9
+Animalia,Mammalia,Patas monkey,7750.0,30.0
+Animalia,Mammalia,Gray-cheeked mangabey,9317.5,36.0
+Animalia,Mammalia,Stump-tailed macaque,9275.0,29.2
+Animalia,Mammalia,Assam macaque,9100.0,31.4
+Animalia,Mammalia,Long-tailed macaque,6362.5,39.0
+Animalia,Mammalia,Japanese macaque,8882.5,38.5
+Animalia,Mammalia,Moor macaque,5575.0,33.0
+Animalia,Mammalia,Rhesus monkey,8235.0,40.0
+Animalia,Mammalia,"Southern pig-tailed macaque, or Pigtail macaque",7912.5,37.6
+Animalia,Mammalia,Celebes crested macaque,7965.0,34.0
+Animalia,Mammalia,Booted macaque,3950.0,29.0
+Animalia,Mammalia,Bonnet macaque,6755.0,30.0
+Animalia,Mammalia,Liontail macaque,7875.0,40.0
+Animalia,Mammalia,Toque macaque,4370.0,29.3
+Animalia,Mammalia,Barbary macaque,10875.0,30.0
+Animalia,Mammalia,Tibetan macaque,10300.0,27.0
+Animalia,Mammalia,Tonkean macaque,11950.0,28.4
+Animalia,Mammalia,Drill,18250.0,39.0
+Animalia,Mammalia,Mandrill,23000.0,40.0
+Animalia,Mammalia,"Southern talapoin monkey, or Talapoin",1384.5,27.7
+Animalia,Mammalia,Proboscis monkey,14617.5,25.1
+Animalia,Mammalia,Hamadryas baboon,18000.0,37.5
+Animalia,Mammalia,"Black-crested sumatran langur, or Mitred leaf monkey",6540.0,20.0
+Animalia,Mammalia,"Red-shanked douc langur, or Douc langur",9720.0,26.0
+Animalia,Mammalia,Golden snub-nosed monkey,14750.0,29.5
+Animalia,Mammalia,Hanuman langur,13516.5,29.0
+Animalia,Mammalia,Hooded leaf monkey,12000.0,34.0
+Animalia,Mammalia,Purple-faced leaf monkey,7081.8,26.1
+Animalia,Mammalia,Gelada baboon,16200.0,36.0
+Animalia,Mammalia,Javan langur,9720.0,31.1
+Animalia,Mammalia,Silvered leaf monkey,6185.0,28.3
+Animalia,Mammalia,Francois's leaf monkey,7325.0,26.3
+Animalia,Mammalia,Dusky leaf monkey,7080.0,33.9
+Animalia,Mammalia,Phayre's leaf monkey,8400.0,28.3
+Animalia,Mammalia,Capped leaf monkey,11450.0,25.2
+Animalia,Mammalia,Greater dwarf lemur,395.0,13.4
+Animalia,Mammalia,Fat-tailed dwarf lemur,380.0,29.0
+Animalia,Mammalia,Gray mouse lemur,64.8,18.2
+Animalia,Mammalia,Giant mouse lemur,311.2,17.4
+Animalia,Mammalia,"Masoala fork-marked lemur, or Fork-marked lemur",400.0,25.0
+Animalia,Mammalia,Aye-aye,2277.5,32.3
+Animalia,Mammalia,South African galago,169.2,16.6
+Animalia,Mammalia,Senegal galago,192.2,17.1
+Animalia,Mammalia,Demidoff's galago,60.0,13.4
+Animalia,Mammalia,"Brown greater galago, or Greater galago",1094.5,22.7
+Animalia,Mammalia,Small-eared galago,1300.0,20.0
+Animalia,Mammalia,Gorilla,139842.0,60.1
+Animalia,Mammalia,Human,62035.0,122.5
+Animalia,Mammalia,"Pygmy chimpanzee, or Bonobo",39925.0,55.0
+Animalia,Mammalia,Chimpanzee,44983.5,68.0
+Animalia,Mammalia,Orangutan,64475.0,59.0
+Animalia,Mammalia,"Western hoolock gibbon, or Hoolock gibbon",6875.0,41.0
+Animalia,Mammalia,Agile gibbon,5925.0,49.0
+Animalia,Mammalia,Kloss's gibbon,5900.0,37.0
+Animalia,Mammalia,White-handed gibbon,6810.0,56.0
+Animalia,Mammalia,Silvery gibbon,6207.5,45.0
+Animalia,Mammalia,Borneo gibbon,5765.0,60.0
+Animalia,Mammalia,Pileated gibbon,5735.0,38.0
+Animalia,Mammalia,Crested gibbon,6852.5,46.1
+Animalia,Mammalia,"Northern white-cheeked gibbon, or White-cheeked gibbon",6000.0,44.1
+Animalia,Mammalia,Siamang,10900.0,43.0
+Animalia,Mammalia,Diademed sifaka,5550.0,21.0
+Animalia,Mammalia,Golden-crowned sifaka,3545.0,20.0
+Animalia,Mammalia,Verreaux's sifaka,5000.0,31.0
+Animalia,Mammalia,Crowned lemur,1645.0,27.0
+Animalia,Mammalia,Brown lemur,2485.0,35.5
+Animalia,Mammalia,Black lemur,2467.0,37.5
+Animalia,Mammalia,Mongoose lemur,1555.0,36.2
+Animalia,Mammalia,Red-bellied lemur,2191.5,31.7
+Animalia,Mammalia,"Gray bamboo lemur, or Bamboo lemur",1012.5,23.3
+Animalia,Mammalia,Ring-tailed lemur,2555.0,37.3
+Animalia,Mammalia,Greater bamboo lemur,1737.5,17.6
+Animalia,Mammalia,Red ruffed lemur,3601.3,37.5
+Animalia,Mammalia,"Black-and-white ruffed lemur, or Ruffed lemur",3482.3,40.0
+Animalia,Mammalia,Calabar angwantibo,257.5,13.0
+Animalia,Mammalia,"Red slender loris, or Slender loris",238.2,21.6
+Animalia,Mammalia,Slow loris,890.5,25.8
+Animalia,Mammalia,Pygmy slow loris,419.0,19.3
+Animalia,Mammalia,Potto,919.9,32.4
+Animalia,Mammalia,"Bald uacari, or Red uakari",3165.0,35.8
+Animalia,Mammalia,White-nosed bearded saki,2910.0,20.0
+Animalia,Mammalia,Brown-bearded saki,2942.5,19.6
+Animalia,Mammalia,Monk saki,1780.0,25.0
+Animalia,Mammalia,Guianan saki,1480.0,36.0
+Animalia,Mammalia,Coppery titi,1120.0,26.4
+Animalia,Mammalia,Bolivian titi,795.0,25.0
+Animalia,Mammalia,Dusky titi,804.0,26.2
+Animalia,Mammalia,Philippine tarsier,119.2,16.0
+Animalia,Mammalia,Western tarsier,122.5,16.3
+Animalia,Mammalia,Asiatic elephant,3178000.0,79.6
+Animalia,Mammalia,African bush elephant,4800000.0,65.0
+Animalia,Mammalia,Bennett's chinchilla rat,265.5,2.3
+Animalia,Mammalia,Ansell's mole-rat,90.0,20.6
+Animalia,Mammalia,Damaraland mole-rat,180.0,15.5
+Animalia,Mammalia,African mole rat,132.5,11.0
+Animalia,Mammalia,Giant mole-rat,250.0,20.0
+Animalia,Mammalia,Cape mole-rat,181.0,11.2
+Animalia,Mammalia,Naked mole-rat,35.0,31.0
+Animalia,Mammalia,Mouse-like hamster,20.4,9.4
+Animalia,Mammalia,Desmarest's hutia,4683.3,13.8
+Animalia,Mammalia,Brown's hutia,1500.0,13.5
+Animalia,Mammalia,Hispaniolan hutia,1267.0,15.9
+Animalia,Mammalia,American beaver,20250.0,23.4
+Animalia,Mammalia,Brazilian guinea pig,341.0,6.0
+Animalia,Mammalia,Guinea pig,728.0,12.0
+Animalia,Mammalia,Montane guinea pig,637.5,6.3
+Animalia,Mammalia,Patagonian mara,12500.0,14.4
+Animalia,Mammalia,Common yellow-toothed cavy,337.9,3.5
+Animalia,Mammalia,Spix's yellow-toothed cavy,450.0,4.6
+Animalia,Mammalia,Capybara,55000.0,15.1
+Animalia,Mammalia,Rock cavy,950.0,12.9
+Animalia,Mammalia,Long-tailed chinchilla,642.5,17.2
+Animalia,Mammalia,Mountain viscacha,1540.0,19.5
+Animalia,Mammalia,Plains viscacha,6000.0,10.8
+Animalia,Mammalia,Mongolian silver vole,36.0,3.8
+Animalia,Mammalia,European water vole,120.0,2.5
+Animalia,Mammalia,Northern pygmy mouse,8.0,3.3
+Animalia,Mammalia,Black-bellied hamster,506.7,3.6
+Animalia,Mammalia,Collared lemming,66.0,3.3
+Animalia,Mammalia,Northern mole vole,40.0,6.4
+Animalia,Mammalia,Steppe lemming,20.3,3.8
+Animalia,Mammalia,Brandt's vole,40.0,4.1
+Animalia,Mammalia,Norway lemming,70.0,3.3
+Animalia,Mammalia,Crested rat,755.0,7.5
+Animalia,Mammalia,Golden hamster,105.0,3.9
+Animalia,Mammalia,Brandt's hamster,174.0,4.4
+Animalia,Mammalia,Field vole,46.0,4.8
+Animalia,Mammalia,Common vole,27.5,4.8
+Animalia,Mammalia,Guenther's vole,51.6,3.9
+Animalia,Mammalia,Prairie vole,40.0,5.3
+Animalia,Mammalia,Woodland vole,25.5,3.8
+Animalia,Mammalia,Bank vole,20.8,4.9
+Animalia,Mammalia,Northern red-backed vole,20.0,2.1
+Animalia,Mammalia,White-throated woodrat,209.0,9.5
+Animalia,Mammalia,Eastern woodrat,291.0,8.6
+Animalia,Mammalia,Desert woodrat,236.0,10.5
+Animalia,Mammalia,Vesper rat,50.0,5.7
+Animalia,Mammalia,Golden mouse,22.0,8.4
+Animalia,Mammalia,Northern grasshopper mouse,32.5,5.6
+Animalia,Mammalia,Southern grasshopper mouse,22.0,4.6
+Animalia,Mammalia,California mouse,42.0,5.5
+Animalia,Mammalia,Canyon mouse,16.5,7.7
+Animalia,Mammalia,Cactus mouse,25.0,7.4
+Animalia,Mammalia,Guatemalan deer mouse,40.0,5.7
+Animalia,Mammalia,White-footed mouse,23.0,7.9
+Animalia,Mammalia,Deer mouse,20.5,8.3
+Animalia,Mammalia,Oldfield mouse,14.0,5.5
+Animalia,Mammalia,Pinyon mouse,25.0,5.4
+Animalia,Mammalia,Dzhungarian hamster,23.4,3.9
+Animalia,Mammalia,Florida mouse,32.0,7.4
+Animalia,Mammalia,"Bunny, or Coney rat",72.2,5.5
+Animalia,Mammalia,Hispid cotton rat,185.0,5.2
+Animalia,Mammalia,Peters's climbing rat,280.0,5.4
+Animalia,Mammalia,Gundi,288.8,5.8
+Animalia,Mammalia,Lowland paca,9000.0,16.3
+Animalia,Mammalia,Mountain paca,8999.9,18.9
+Animalia,Mammalia,Azara's agouti,2650.0,11.8
+Animalia,Mammalia,Crested agouti,2650.0,14.0
+Animalia,Mammalia,Black agouti,3500.0,18.0
+Animalia,Mammalia,"Red-rumped agouti, or Agouti",3265.0,17.8
+Animalia,Mammalia,Mexican agouti,2700.0,13.1
+Animalia,Mammalia,Black-rumped agouti,2900.0,16.3
+Animalia,Mammalia,Central American agouti,2150.0,13.8
+Animalia,Mammalia,Red acouchi,775.0,14.8
+Animalia,Mammalia,Pacarana,12250.0,12.8
+Animalia,Mammalia,Small five-toed jerboa,58.7,5.2
+Animalia,Mammalia,Euphrates jerboa,232.0,4.2
+Animalia,Mammalia,Great jerboa,350.0,7.0
+Animalia,Mammalia,Mongolian five-toed jerboa,117.5,4.5
+Animalia,Mammalia,Lesser Egyptian jerboa,55.0,7.3
+Animalia,Mammalia,Greater Egyptian jerboa,134.0,5.5
+Animalia,Mammalia,Meadow jumping mouse,18.0,5.6
+Animalia,Mammalia,Armored rat,504.0,7.0
+Animalia,Mammalia,"Andean spiny rat, or Short-tailed spiny-rat",285.0,6.8
+Animalia,Mammalia,"Tome's spiny rat, or Spiny rat",500.0,5.8
+Animalia,Mammalia,"Common punare, or Brazilian spiny rat",373.5,7.0
+Animalia,Mammalia,Prehensile-tailed porcupine,3900.0,26.6
+Animalia,Mammalia,North American porcupine,8600.0,23.4
+Animalia,Mammalia,Mexican hairy dwarf porcupine,2000.0,16.7
+Animalia,Mammalia,Plains pocket gopher,176.7,12.0
+Animalia,Mammalia,Botta's pocket gopher,115.5,6.1
+Animalia,Mammalia,Forest dormouse,26.0,4.1
+Animalia,Mammalia,Asian garden dormouse,122.5,6.2
+Animalia,Mammalia,Garden dormouse,82.5,5.5
+Animalia,Mammalia,Japanese dormouse,27.0,7.0
+Animalia,Mammalia,Fat dormouse,125.0,8.7
+Animalia,Mammalia,Woodland dormouse,24.0,6.9
+Animalia,Mammalia,Rock dormouse,46.1,7.3
+Animalia,Mammalia,Hazel dormouse,27.3,5.3
+Animalia,Mammalia,San Diego pocket mouse,18.7,8.3
+Animalia,Mammalia,Long-tailed pocket mouse,19.0,7.1
+Animalia,Mammalia,Desert kangaroo rat,116.0,8.6
+Animalia,Mammalia,Heermann's kangaroo rat,65.0,8.3
+Animalia,Mammalia,Merriam's kangaroo rat,42.0,9.7
+Animalia,Mammalia,Ord's kangaroo rat,57.0,9.9
+Animalia,Mammalia,Banner-tailed kangaroo rat,145.0,12.7
+Animalia,Mammalia,Arizona pocket mouse,11.7,5.9
+Animalia,Mammalia,Little pocket mouse,8.0,8.3
+Animalia,Mammalia,Great Basin pocket mouse,20.1,5.8
+Animalia,Mammalia,African brush-tailed porcupine,2750.0,22.9
+Animalia,Mammalia,Cape porcupine,24000.0,23.1
+Animalia,Mammalia,Malayan porcupine,8000.0,27.3
+Animalia,Mammalia,African porcupine,20000.0,28.0
+Animalia,Mammalia,Indian crested porcupine,20000.0,27.1
+Animalia,Mammalia,Spiny mouse,45.2,5.9
+Animalia,Mammalia,Wilson's spiny mouse,20.0,5.6
+Animalia,Mammalia,Small Japanese field mouse,23.4,5.0
+Animalia,Mammalia,Yellow-necked mouse,29.4,4.5
+Animalia,Mammalia,Korean field mouse,32.9,4.4
+Animalia,Mammalia,Large Japanese field mouse,44.0,5.3
+Animalia,Mammalia,Long-tailed field mouse,23.4,6.3
+Animalia,Mammalia,Nile kusu,110.0,6.7
+Animalia,Mammalia,Pencil-tailed tree mouse,29.0,3.6
+Animalia,Mammalia,Brush-tailed rabbit rat,144.0,4.5
+Animalia,Mammalia,Cape short-eared gerbil,54.5,6.1
+Animalia,Mammalia,North African gerbil,28.4,7.3
+Animalia,Mammalia,Cape gerbil,74.8,5.7
+Animalia,Mammalia,Southern savanna gerbil,113.0,5.0
+Animalia,Mammalia,Lesser Egyptian gerbil,30.0,5.9
+Animalia,Mammalia,Baluchistan gerbil,18.5,4.5
+Animalia,Mammalia,Pale gerbil,50.0,5.5
+Animalia,Mammalia,Greater Egyptian gerbil,37.0,8.2
+Animalia,Mammalia,Woodland mouse,60.0,4.4
+Animalia,Mammalia,Golden-bellied water rat,850.0,7.3
+Animalia,Mammalia,Barbary striped grass mouse,26.2,4.4
+Animalia,Mammalia,Typical striped grass mouse,42.3,4.8
+Animalia,Mammalia,Greater stick-nest rat,332.5,5.3
+Animalia,Mammalia,Sundevall's jird,35.0,5.6
+Animalia,Mammalia,Libyan jird,100.0,5.2
+Animalia,Mammalia,Mid-day jird,53.0,6.8
+Animalia,Mammalia,Persian jird,100.0,6.0
+Animalia,Mammalia,Mongolian jird,53.2,6.3
+Animalia,Mammalia,Vinogradov's jird,150.0,6.7
+Animalia,Mammalia,Black-footed tree rat,900.0,7.8
+Animalia,Mammalia,Golden-backed tree rat,268.5,7.1
+Animalia,Mammalia,"Namaqua rock rat, or Rock mouse",47.6,4.7
+Animalia,Mammalia,Old World harvest mouse,6.0,3.8
+Animalia,Mammalia,Sand-colored rat,70.0,4.0
+Animalia,Mammalia,"Southern African pygmy mouse, or Pygmy mouse",7.2,4.3
+Animalia,Mammalia,House mouse,20.5,4.0
+Animalia,Mammalia,Mound-building mouse,19.9,3.5
+Animalia,Mammalia,Spinifex hopping mouse,35.0,6.4
+Animalia,Mammalia,Mitchell's hopping mouse,52.0,5.3
+Animalia,Mammalia,Fat-tailed gerbil,40.0,8.3
+Animalia,Mammalia,Slender-tailed cloud rat,1750.0,13.6
+Animalia,Mammalia,Northern Luzon slender-tailed cloud rat,1744.0,10.7
+Animalia,Mammalia,"Chestnut pogonomys, or Long-tailed tree mouse",57.0,3.1
+Animalia,Mammalia,"Tullberg's praomys, or Tullberg's rock rat",30.0,5.2
+Animalia,Mammalia,Fat sand rat,212.0,3.2
+Animalia,Mammalia,"Plains mouse, or Australian native mouse",65.0,7.9
+Animalia,Mammalia,Western pebble-mound mouse,12.0,6.8
+Animalia,Mammalia,Smoky mouse,70.0,6.5
+Animalia,Mammalia,Kimberly mouse,12.0,6.9
+Animalia,Mammalia,Heath mouse,64.0,6.0
+Animalia,Mammalia,Bush rat,130.0,5.3
+Animalia,Mammalia,Australian swamp rat,115.0,4.4
+Animalia,Mammalia,Norway rat,300.0,3.8
+Animalia,Mammalia,Rat,200.0,4.2
+Animalia,Mammalia,Four-striped grass mouse,51.0,4.5
+Animalia,Mammalia,Great gerbil,285.0,4.5
+Animalia,Mammalia,Bushy-tailed jird,65.0,7.3
+Animalia,Mammalia,Indian gerbil,146.7,7.0
+Animalia,Mammalia,Carpentarian rock rat,123.0,6.2
+Animalia,Mammalia,Central rock rat,100.0,7.5
+Animalia,Mammalia,Nutria,7850.0,19.0
+Animalia,Mammalia,Giant rat,1300.0,7.4
+Animalia,Mammalia,Gambian rat,1500.0,8.4
+Animalia,Mammalia,Gray climbing mouse,7.4,4.2
+Animalia,Mammalia,Brant's climbing mouse,13.0,3.3
+Animalia,Mammalia,Malagasy giant rat,1250.0,12.6
+Animalia,Mammalia,White-tailed mouse,106.0,6.3
+Animalia,Mammalia,Pouched mouse,47.4,4.5
+Animalia,Mammalia,Degu,235.0,14.0
+Animalia,Mammalia,Coruro,98.0,10.8
+Animalia,Mammalia,"South African springhare, or Springhare",3500.0,20.0
+Animalia,Mammalia,Harris's antelope squirrel,126.0,10.6
+Animalia,Mammalia,White-tailed antelope squirrel,105.0,11.2
+Animalia,Mammalia,Gray-bellied squirrel,257.0,13.7
+Animalia,Mammalia,Pallas's squirrel,272.0,17.0
+Animalia,Mammalia,Plantain squirrel,190.0,14.8
+Animalia,Mammalia,Prevost's squirrel,400.0,21.1
+Animalia,Mammalia,Golden-mantled ground squirrel,157.6,10.4
+Animalia,Mammalia,Black-tailed prairie dog,1125.0,15.0
+Animalia,Mammalia,Thomas's rope squirrel,218.0,10.0
+Animalia,Mammalia,Fire-footed rope squirrel,271.7,9.5
+Animalia,Mammalia,Northern flying squirrel,149.0,14.2
+Animalia,Mammalia,Southern flying squirrel,65.4,19.0
+Animalia,Mammalia,Red-legged sun squirrel,326.5,8.7
+Animalia,Mammalia,Thirteen-lined ground squirrel,172.7,7.9
+Animalia,Mammalia,Hoary marmot,4300.0,12.1
+Animalia,Mammalia,Yellow-bellied marmot,3500.0,21.2
+Animalia,Mammalia,Alpine marmot,3500.0,17.4
+Animalia,Mammalia,Woodchuck,4000.0,14.0
+Animalia,Mammalia,Vancouver marmot,4750.0,12.1
+Animalia,Mammalia,Rock squirrel,663.0,9.8
+Animalia,Mammalia,Red and white giant flying squirrel,1700.0,21.4
+Animalia,Mammalia,Japanese giant flying squirrel,1650.0,19.2
+Animalia,Mammalia,Franklin's ground squirrel,459.0,7.2
+Animalia,Mammalia,Siberian flying squirrel,130.0,11.4
+Animalia,Mammalia,Black giant squirrel,2000.0,19.0
+Animalia,Mammalia,Indian giant squirrel,2000.0,20.0
+Animalia,Mammalia,Red-bellied squirrel,600.0,11.5
+Animalia,Mammalia,Eastern gray squirrel,533.0,23.6
+Animalia,Mammalia,Red-tailed squirrel,374.0,11.5
+Animalia,Mammalia,Eastern fox squirrel,800.0,16.0
+Animalia,Mammalia,Variegated squirrel,485.0,15.1
+Animalia,Mammalia,Eurasian red squirrel,600.0,14.8
+Animalia,Mammalia,European ground squirrel,217.0,6.7
+Animalia,Mammalia,Little ground squirrel,136.0,7.1
+Animalia,Mammalia,Horse-tailed squirrel,312.5,14.0
+Animalia,Mammalia,Low's squirrel,67.0,11.1
+Animalia,Mammalia,Slender squirrel,75.0,10.0
+Animalia,Mammalia,Cliff chipmunk,62.8,12.6
+Animalia,Mammalia,Least chipmunk,44.1,10.0
+Animalia,Mammalia,Siberian chipmunk,85.0,9.6
+Animalia,Mammalia,Eastern chipmunk,96.0,9.5
+Animalia,Mammalia,Townsend's chipmunk,75.0,9.3
+Animalia,Mammalia,Red squirrel,200.0,9.8
+Animalia,Mammalia,Mohave ground squirrel,150.0,7.8
+Animalia,Mammalia,Round-tailed ground squirrel,163.3,8.9
+Animalia,Mammalia,Striped ground squirrel,600.0,10.3
+Animalia,Mammalia,South African ground squirrel,588.0,11.5
+Animalia,Mammalia,Lesser bamboo rat,650.0,4.8
+Animalia,Mammalia,Palestine mole rat,160.0,20.2
+Animalia,Mammalia,Greater cane rat,6600.0,5.4
+Animalia,Mammalia,Northern tree shrew,200.0,11.1
+Animalia,Mammalia,Common tree shrew,200.0,12.4
+Animalia,Mammalia,Pygmy tree shrew,58.6,12.2
+Animalia,Mammalia,Large tree shrew,197.8,11.6
+Animalia,Mammalia,Mindanao tree shrew,350.0,11.5
+Animalia,Mammalia,Dugong,360000.0,73.0
+Animalia,Mammalia,Amazonian manatee,480000.0,40.0
+Animalia,Mammalia,West Indian manatee,322000.0,69.0
+Animalia,Mammalia,Hispaniolan solenodon,1000.0,12.1
+Animalia,Mammalia,Northern short-tailed shrew,21.6,2.2
+Animalia,Mammalia,Elliot's short-tailed shrew,14.5,2.8
+Animalia,Mammalia,Greater red musk shrew,45.0,2.2
+Animalia,Mammalia,Bicolored shrew,11.0,2.9
+Animalia,Mammalia,White-toothed shrew,11.6,4.0
+Animalia,Mammalia,Lesser shrew,7.7,2.8
+Animalia,Mammalia,Least shrew,4.5,3.5
+Animalia,Mammalia,Forest shrew,17.5,2.1
+Animalia,Mammalia,Eurasian water shrew,15.0,3.1
+Animalia,Mammalia,Eurasian shrew,9.0,3.2
+Animalia,Mammalia,Laxmann's shrew,5.4,3.0
+Animalia,Mammalia,White-toothed pygmy shrew,2.1,3.2
+Animalia,Mammalia,Asian house shrew,45.9,3.2
+Animalia,Mammalia,Star-nosed mole,55.3,2.5
+Animalia,Mammalia,Japanese mole,97.0,3.2
+Animalia,Mammalia,Eastern mole,90.0,6.2
+Animalia,Mammalia,Aardvark,60000.0,29.8
+Animalia,Reptilia,American alligator,150000.0,77.0
+Animalia,Reptilia,Chinese alligator,14600.0,65.0
+Animalia,Reptilia,Spectacled caiman,10900.0,40.0
+Animalia,Reptilia,Broad-snouted caiman,14600.0,58.0
+Animalia,Reptilia,Black caiman,82000.0,40.0
+Animalia,Reptilia,Dwarf caiman,5900.0,24.1
+Animalia,Reptilia,Smooth-fronted caiman,7500.0,40.0
+Animalia,Reptilia,American crocodile,76700.0,47.0
+Animalia,Reptilia,Orinoco crocodile,107900.0,41.0
+Animalia,Reptilia,Morelet's crocodile,38500.0,25.4
+Animalia,Reptilia,Nile crocodile,94200.0,56.0
+Animalia,Reptilia,New Guinea crocodile,39900.0,51.0
+Animalia,Reptilia,"Mugger, or Marsh crocodile",42700.0,44.0
+Animalia,Reptilia,Saltwater crocodile,200000.0,57.0
+Animalia,Reptilia,Cuban crocodile,57500.0,48.0
+Animalia,Reptilia,Siamese crocodile,42500.0,49.0
+Animalia,Reptilia,African slender-snouted crocodile,50500.0,56.1
+Animalia,Reptilia,West African dwarf crocodile,40000.0,70.0
+Animalia,Reptilia,Gharial,153000.0,59.0
+Animalia,Reptilia,False gharial,119000.0,24.7
+Animalia,Reptilia,Tuatara,430.0,90.0
+Animalia,Reptilia,Arafura filesnake,6107.0,8.8
+Animalia,Reptilia,Javan wart snake,9561.0,5.8
+Animalia,Reptilia,"Black-necked agama, or Plains agama",81.495,6.0
+Animalia,Reptilia,Bibron's agama,64.18,6.0
+Animalia,Reptilia,Indian changeable lizard,20.04,5.0
+Animalia,Reptilia,Frilled lizard,449.125,9.9
+Animalia,Reptilia,Butterfly lizard,40.0,5.6
+Animalia,Reptilia,"Chinese water dragon, or Water dragon",193.42,15.3
+Animalia,Reptilia,Eastern bearded dragon,244.06,9.9
+Animalia,Reptilia,Central bearded dragon,500.0,12.0
+Animalia,Reptilia,North African spiny dabb lizard,525.0,11.4
+Animalia,Reptilia,Egyptian spiny-tailed lizard,851.73,15.3
+Animalia,Reptilia,Sudan mastigure,500.0,17.0
+Animalia,Reptilia,Red worm lizard,210.0,15.1
+Animalia,Reptilia,Slow worm,11.655,54.0
+Animalia,Reptilia,Madrean alligator lizard,10.0,12.3
+Animalia,Reptilia,Southern alligator lizard,31.5,9.8
+Animalia,Reptilia,Eastern glass lizard,23.715,14.8
+Animalia,Reptilia,"European glass lizard, or Armored glass lizard",450.0,54.0
+Animalia,Reptilia,"Mediterranean worm lizard, or Spanish grey amphisbaena",6.0,16.0
+Animalia,Reptilia,Boa constrictor,3532.0,40.4
+Animalia,Reptilia,"Turks boa, or Caicos boa",1306.0,14.2
+Animalia,Reptilia,Amazonian tree boa,1906.0,15.0
+Animalia,Reptilia,Rainbow boa,1306.0,31.0
+Animalia,Reptilia,Green anaconda,97500.0,31.8
+Animalia,Reptilia,New Guinea boa,384.0,9.9
+Animalia,Reptilia,Pacific ground boa,384.0,16.6
+Animalia,Reptilia,Thick-tailed gecko,9.6,12.0
+Animalia,Reptilia,Common chameleon,36.49,3.6
+Animalia,Reptilia,Flapneck chameleon,22.31,4.0
+Animalia,Reptilia,Labord's chameleon,8.73,1.3
+Animalia,Reptilia,Jackson's chameleon,32.565,8.2
+Animalia,Reptilia,Rubber boa,219.0,26.5
+Animalia,Reptilia,Rosy boa,450.0,31.0
+Animalia,Reptilia,Glossy snake,2189.0,19.1
+Animalia,Reptilia,Trans-pecos rat snake,1839.0,23.8
+Animalia,Reptilia,Dog-tooth cat snake,8324.0,9.6
+Animalia,Reptilia,"Gold-ringed cat snake, or Mangrove snake",6107.0,17.0
+Animalia,Reptilia,Brown tree snake,4748.0,13.1
+Animalia,Reptilia,Scarlet snake,219.0,10.4
+Animalia,Reptilia,Banded sand snake,6.0,4.0
+Animalia,Reptilia,Mussarana,1587.0,11.5
+Animalia,Reptilia,Kirtland's snake,91.0,8.4
+Animalia,Reptilia,"Eastern racer, or Northern black racer",1594.5,10.0
+Animalia,Reptilia,East African egg-eating snake,72.25,8.6
+Animalia,Reptilia,"Rhombic egg eater, or African egg-eating snake",72.25,22.1
+Animalia,Reptilia,Boomslang,3765.0,8.7
+Animalia,Reptilia,Indigo snake,7118.0,25.9
+Animalia,Reptilia,Corn snake,900.0,32.3
+Animalia,Reptilia,Japanese four-lined ratsnake,6561.0,16.8
+Animalia,Reptilia,Eastern fox snake,2227.0,17.0
+Animalia,Reptilia,"Mud snake, or Western mud snake",3454.0,19.0
+Animalia,Reptilia,Red-tailed rat snake,5399.0,15.1
+Animalia,Reptilia,"Western hognose snake, or Mexican hognose snake",350.0,19.8
+Animalia,Reptilia,Eastern hognose snake,601.0,9.1
+Animalia,Reptilia,Night snake,104.0,12.2
+Animalia,Reptilia,Gray-banded kingsnake,1228.0,19.7
+Animalia,Reptilia,Prairie kingsnake,1130.0,23.8
+Animalia,Reptilia,Common kingsnake,2041.0,33.3
+Animalia,Reptilia,Sonoran mountain kingsnake,432.0,22.4
+Animalia,Reptilia,Milk snake,950.0,22.6
+Animalia,Reptilia,California mountain kingsnake,407.0,28.8
+Animalia,Reptilia,False smooth snake,104.0,5.9
+Animalia,Reptilia,Coachwhip,6484.0,20.2
+Animalia,Reptilia,European grass snake,96.25,20.0
+Animalia,Reptilia,Plainbelly water snake,1499.0,14.8
+Animalia,Reptilia,Northern water snake,1306.0,9.6
+Animalia,Reptilia,Brown water snake,2153.0,6.1
+Animalia,Reptilia,Rough greensnake,601.0,7.2
+Animalia,Reptilia,Smooth green snake,104.0,6.1
+Animalia,Reptilia,Brown vine snake,1359.0,15.2
+Animalia,Reptilia,Gopher snake,7275.5,33.8
+Animalia,Reptilia,"Pine snake, or Bull snake",6407.0,22.4
+Animalia,Reptilia,Queen snake,298.0,19.3
+Animalia,Reptilia,"Long-nosed snake, or Western long-nosed snake",432.0,19.8
+Animalia,Reptilia,Western patch-nosed snake,585.0,14.3
+Animalia,Reptilia,Green rat snake,753.0,19.8
+Animalia,Reptilia,Tropical rat snake,3983.0,17.5
+Animalia,Reptilia,Brown snake,45.0,7.0
+Animalia,Reptilia,Redbelly snake,26.0,4.6
+Animalia,Reptilia,Butler's garter snake,125.0,14.0
+Animalia,Reptilia,Western aquatic garter snake,958.0,7.7
+Animalia,Reptilia,Eastern blackneck garter snake,441.0,10.8
+Animalia,Reptilia,Western terrestrial garter snake,400.0,17.8
+Animalia,Reptilia,Checkered garter snake,434.0,7.0
+Animalia,Reptilia,Northwestern garter snake,329.0,15.8
+Animalia,Reptilia,Plains garter snake,512.0,8.4
+Animalia,Reptilia,Eastern ribbonsnake,407.0,10.6
+Animalia,Reptilia,Common garter snake,150.0,14.0
+Animalia,Reptilia,Western lyresnake,682.0,11.8
+Animalia,Reptilia,Rough earth snake,12.0,7.2
+Animalia,Reptilia,Smooth earth snake,22.0,9.5
+Animalia,Reptilia,"Cape girdled lizard, or Rough-scaled girdled lizard",17.3,15.6
+Animalia,Reptilia,Rough-scaled plated lizard,284.0,24.0
+Animalia,Reptilia,Lesser flat lizard,12.2,15.6
+Animalia,Reptilia,Green basilisk,66.2,13.0
+Animalia,Reptilia,Brown basilisk,60.87,9.1
+Animalia,Reptilia,Smooth helmeted iguana,43.4,7.1
+Animalia,Reptilia,Green anole,2.455,7.2
+Animalia,Reptilia,Puerto Rican giant anole,46.6,9.2
+Animalia,Reptilia,Knight anole,56.0,16.5
+Animalia,Reptilia,"Martinique's anole, or Anole",2.415,6.7
+Animalia,Reptilia,Pacific sticky-toed gecko,19.6,13.0
+Animalia,Reptilia,Giant gecko,118.0,25.0
+Animalia,Reptilia,Jewelled gecko,6.63,16.0
+Animalia,Reptilia,Marbled velvet gecko,15.4,21.2
+Animalia,Reptilia,Gray gecko,6.83,37.0
+Animalia,Reptilia,Common death adder,384.0,9.3
+Animalia,Reptilia,Indian krait,1154.0,17.4
+Animalia,Reptilia,"Banded krait, or Red-headed krait",3113.0,13.2
+Animalia,Reptilia,Many-banded krait,1154.0,13.7
+Animalia,Reptilia,Jameson's mamba,19310.0,13.1
+Animalia,Reptilia,Black mamba,30758.0,26.2
+Animalia,Reptilia,Western coral snake,56.0,17.6
+Animalia,Reptilia,Eastern coral snake,682.0,19.0
+Animalia,Reptilia,"Chinese cobra, or Indian spitting cobra, or Golden spitting cobra",1849.0,11.7
+Animalia,Reptilia,Egyptian cobra,6796.0,22.1
+Animalia,Reptilia,"Indian cobra, or Monocled cobra",3113.0,25.4
+Animalia,Reptilia,Black and white cobra,6957.0,29.1
+Animalia,Reptilia,Mozambique spitting cobra,8787.0,16.7
+Animalia,Reptilia,Blackneck spitting cobra,8787.0,23.2
+Animalia,Reptilia,Red spitting cobra,8787.0,20.2
+Animalia,Reptilia,"Indonesian cobra, or Indian spitting cobra, or Indochinese spitting cobra",3113.0,13.5
+Animalia,Reptilia,King cobra,8000.0,22.5
+Animalia,Reptilia,"Coastal taipan, or Taipan",8110.5,15.6
+Animalia,Reptilia,"King grown snake, or King brown snake",8144.0,11.1
+Animalia,Reptilia,Caucasian sand-boa,196.0,24.7
+Animalia,Reptilia,Tartar sand-boa,196.0,24.0
+Animalia,Reptilia,Mexican banded gecko,11.2,11.0
+Animalia,Reptilia,Western banded gecko,4.56,15.2
+Animalia,Reptilia,Leopard gecko,35.53,28.5
+Animalia,Reptilia,African fat-tailed gecko,39.17,16.2
+Animalia,Reptilia,Namib sand gecko,13.21,10.8
+Animalia,Reptilia,Bibron's gecko,12.8,6.1
+Animalia,Reptilia,Marbled gecko,3.405,12.8
+Animalia,Reptilia,Oceanic dtella,7.9,10.5
+Animalia,Reptilia,Tokay gecko,54.13,23.5
+Animalia,Reptilia,Mediterranean house gecko,2.53,8.4
+Animalia,Reptilia,Prickly gecko,2.18,13.6
+Animalia,Reptilia,Seychelles small day gecko,3.6,7.4
+Animalia,Reptilia,Blue-tailed day gecko,5.0,9.3
+Animalia,Reptilia,Broad-tailed day gecko,2.9,8.7
+Animalia,Reptilia,Striped day gecko,3.8,10.0
+Animalia,Reptilia,Madagascar day gecko,20.7,13.6
+Animalia,Reptilia,Standing's day gecko,214.5,9.6
+Animalia,Reptilia,Seychelles giant day gecko,12.35,15.9
+Animalia,Reptilia,Beaded lizard,1244.15,34.4
+Animalia,Reptilia,Gila monster,553.41,28.9
+Animalia,Reptilia,East Indian tentacled snake,131.0,13.6
+Animalia,Reptilia,Marine iguana,2227.43,6.4
+Animalia,Reptilia,Fiji banded iguana,170.175,5.9
+Animalia,Reptilia,Santa Fe land iguana,4200.0,17.1
+Animalia,Reptilia,Baker's spinytail iguana,399.4,13.8
+Animalia,Reptilia,Cape spinytail iguana,2800.0,9.6
+Animalia,Reptilia,Western spiny-tailed iguana,968.0,8.2
+Animalia,Reptilia,Black iguana,1034.0,22.4
+Animalia,Reptilia,Rhinoceros iguana,16578.1,22.9
+Animalia,Reptilia,Andros island iguana,6754.63,23.4
+Animalia,Reptilia,Cayman rock iguana,4100.0,47.6
+Animalia,Reptilia,Desert iguana,69.5,14.6
+Animalia,Reptilia,Common green iguana,1530.0,19.8
+Animalia,Reptilia,Northern chuckwalla,230.39,9.3
+Animalia,Reptilia,Spiny chuckwalla,811.7,17.2
+Animalia,Reptilia,Piebald chuckwalla,1422.35,11.3
+Animalia,Reptilia,Desert spiny lizard,35.21,5.9
+Animalia,Reptilia,Crevice spiny lizard,30.94,8.0
+Animalia,Reptilia,Blue spiny lizard,29.175,6.7
+Animalia,Reptilia,Gallot's Canary Island lizard,27.49,5.6
+Animalia,Reptilia,Simony's Canary Island lizard,195.995,5.4
+Animalia,Reptilia,European green lizard,21.5,10.0
+Animalia,Reptilia,Common wall lizard,5.41,10.0
+Animalia,Reptilia,Madeira wall lizard,7.29,4.8
+Animalia,Reptilia,Jeweled lizard,99.625,17.0
+Animalia,Reptilia,Bibron's mole viper,109.0,23.9
+Animalia,Reptilia,Stripe-belly sand racer,2381.0,5.8
+Animalia,Reptilia,Rufous beaked snake,1528.0,13.3
+Animalia,Reptilia,Northern curly-tailed lizard,30.0,10.8
+Animalia,Reptilia,Cuvier's Madagascar swift,117.7,21.2
+Animalia,Reptilia,Merrem's Madagascar swift,45.4,9.3
+Animalia,Reptilia,Colorado desert fringe-toed lizard,22.49,8.1
+Animalia,Reptilia,Fan-footed gecko,9.3,10.9
+Animalia,Reptilia,Ringed wall gecko,16.605,11.8
+Animalia,Reptilia,Common wall gecko,6.54,14.0
+Animalia,Reptilia,Children's python,384.0,25.7
+Animalia,Reptilia,Black-headed python,6107.0,22.6
+Animalia,Reptilia,Bismarck ringed python,2009.0,22.2
+Animalia,Reptilia,D'albert's python,8133.5,18.0
+Animalia,Reptilia,Brown water python,10592.0,26.8
+Animalia,Reptilia,Carpet python,15926.0,19.6
+Animalia,Reptilia,Green tree python,3113.0,20.6
+Animalia,Reptilia,Blood python,8144.0,27.8
+Animalia,Reptilia,Indian python,12370.0,34.2
+Animalia,Reptilia,Ball python,8858.0,47.5
+Animalia,Reptilia,Reticulated python,32000.0,29.4
+Animalia,Reptilia,African rock python,73000.0,27.3
+Animalia,Reptilia,Palaearctic eyed skink,39.1,14.0
+Animalia,Reptilia,Solomon Island skink,1013.7,24.3
+Animalia,Reptilia,Cunningham's skink,262.64,26.5
+Animalia,Reptilia,Gidgee skink,198.76,18.2
+Animalia,Reptilia,Algerian skink,85.4,22.8
+Animalia,Reptilia,Great Plains skink,30.0,7.3
+Animalia,Reptilia,Otago skink,40.64,44.0
+Animalia,Reptilia,Australian black and yellow skink,562.475,11.5
+Animalia,Reptilia,Australian blue-tongued lizard,493.0,26.6
+Animalia,Reptilia,Yellowhead gecko,1.865,5.6
+Animalia,Reptilia,Common wonder gecko,16.235,12.6
+Animalia,Reptilia,Giant ameiva,68.0,4.6
+Animalia,Reptilia,Six-lined racerunner,7.9,6.0
+Animalia,Reptilia,Western whiptail,18.0,7.8
+Animalia,Reptilia,Guyana caiman lizard,1500.0,9.3
+Animalia,Reptilia,Columbian tegu,1773.51,16.1
+Animalia,Reptilia,Bengal monitor,3750.0,11.2
+Animalia,Reptilia,Dumeril monitor,988.0,10.7
+Animalia,Reptilia,Bosc's monitor and Savannah monitor,35500.0,12.7
+Animalia,Reptilia,Perentie,5333.4,19.7
+Animalia,Reptilia,Sand monitor,671.92,18.3
+Animalia,Reptilia,Desert monitor,821.1,17.0
+Animalia,Reptilia,"Indian monitor lizard, or Indian monitor",1287.0,17.4
+Animalia,Reptilia,Komodo dragon,87000.0,62.0
+Animalia,Reptilia,Merten's water monitor,1121.2,20.3
+Animalia,Reptilia,Nile monitor,2826.67,14.6
+Animalia,Reptilia,Gray's monitor lizard,4141.37,15.2
+Animalia,Reptilia,New Guinea green tree monitor,237.5,14.2
+Animalia,Reptilia,Common water monitor,4345.0,15.7
+Animalia,Reptilia,Spotted tree monitor,290.0,14.9
+Animalia,Reptilia,Lace monitor,4300.0,14.7
+Animalia,Reptilia,Northern copperhead,950.0,29.8
+Animalia,Reptilia,Water moccasin,1700.0,24.5
+Animalia,Reptilia,Puff adder,2381.0,15.8
+Animalia,Reptilia,Gaboon viper,2381.0,18.0
+Animalia,Reptilia,Rhinoceros viper,717.0,9.4
+Animalia,Reptilia,Urutu,848.0,15.2
+Animalia,Reptilia,"Terciopelo, or Fer-de-lance",1037.0,20.4
+Animalia,Reptilia,Common lancehead,1037.0,8.5
+Animalia,Reptilia,Yara,131.0,15.1
+Animalia,Reptilia,Cape viper,308.0,6.6
+Animalia,Reptilia,Eastern diamondback rattlesnake,5675.0,22.8
+Animalia,Reptilia,Western diamond-backed rattlesnake,6700.0,27.0
+Animalia,Reptilia,Sidewinder,211.0,27.3
+Animalia,Reptilia,Cascabel rattlesnake,1150.0,19.8
+Animalia,Reptilia,Timber rattlesnake,1000.0,30.2
+Animalia,Reptilia,"Rock rattlesnake, or New Mexico banded rock rattlesnake",219.0,33.6
+Animalia,Reptilia,Northern black-tailed rattlesnake,771.0,20.7
+Animalia,Reptilia,Twin-spotted rattlesnake,104.0,15.7
+Animalia,Reptilia,Red diamond rattlesnake,3661.0,19.2
+Animalia,Reptilia,Mojave rattlesnake,828.0,14.4
+Animalia,Reptilia,Tiger rattlesnake,279.0,15.3
+Animalia,Reptilia,"Prairie rattlesnake, or Southern Pacific rattlesnake",1647.0,24.1
+Animalia,Reptilia,"Ridge-nosed rattlesnake, or Arizona ridge-nosed rattlesnake",100.0,21.3
+Animalia,Reptilia,Russell's viper,1306.0,15.0
+Animalia,Reptilia,Saw-scaled viper,142.0,23.8
+Animalia,Reptilia,Bushmaster,5817.0,31.6
+Animalia,Reptilia,Levantine viper,1306.0,13.3
+Animalia,Reptilia,Massasauga,384.0,20.0
+Animalia,Reptilia,Pigmy rattlesnake,196.0,16.1
+Animalia,Reptilia,White-lipped tree viper,414.5,11.4
+Animalia,Reptilia,Long-nosed viper,220.0,22.0
+Animalia,Reptilia,Asp viper,161.0,25.0
+Animalia,Reptilia,Northern palaearctic viper,279.0,19.0
+Animalia,Reptilia,Lataste's viper,161.0,9.7
+Animalia,Reptilia,Yellow-spotted night lizard,11.3,11.0
+Animalia,Reptilia,Granite night lizard,4.02,14.3
+Animalia,Reptilia,Island night lizard,14.66,13.9
+Animalia,Reptilia,Desert night lizard,1.475,10.9
+Animalia,Reptilia,Sunbeam snake,753.0,12.1
+Animalia,Reptilia,Pignose turtle,16275.0,38.4
+Animalia,Reptilia,Common snake-necked turtle,1293.0,37.0
+Animalia,Reptilia,Mata mata,4407.0,35.8
+Animalia,Reptilia,Northern Australian snapping turtle,4295.0,21.8
+Animalia,Reptilia,Macquarie turtle,1740.0,20.9
+Animalia,Reptilia,Dahl's toad-headed turtle,777.0,27.4
+Animalia,Reptilia,Serrated snapping turtle,1377.0,26.5
+Animalia,Reptilia,Hilaire's side-necked turtle,2380.0,37.4
+Animalia,Reptilia,Twistneck turtle,325.0,20.0
+Animalia,Reptilia,Loggerhead sea turtle,156500.0,77.0
+Animalia,Reptilia,Green sea turtle,160000.0,75.0
+Animalia,Reptilia,Atlantic ridley,40500.0,30.2
+Animalia,Reptilia,Common snapping turtle,10250.0,47.0
+Animalia,Reptilia,Alligator snapping turtle,58500.0,70.3
+Animalia,Reptilia,Central american river turtle,12500.0,11.3
+Animalia,Reptilia,Leatherback sea turtle,420000.0,30.0
+Animalia,Reptilia,"Pacific pond turtle, or Southwestern pond turtle",282.0,27.3
+Animalia,Reptilia,Painted turtle,371.8,61.0
+Animalia,Reptilia,Spotted turtle,165.4,51.0
+Animalia,Reptilia,Chicken turtle,910.5,24.0
+Animalia,Reptilia,Blanding's turtle,1162.0,77.0
+Animalia,Reptilia,Wood turtle,968.2,60.0
+Animalia,Reptilia,Bog turtle,132.1,40.0
+Animalia,Reptilia,Barbour's map turtle,1256.0,31.7
+Animalia,Reptilia,Black-knobbed map turtle,415.7,20.3
+Animalia,Reptilia,Ringed map turtle,918.15,20.3
+Animalia,Reptilia,"False map turtle, or Mississippi map turtle",1477.0,35.4
+Animalia,Reptilia,Alabama map turtle,1519.0,15.7
+Animalia,Reptilia,River cooter,2992.0,44.0
+Animalia,Reptilia,Florida red-bellied turtle,3748.5,26.1
+Animalia,Reptilia,Eastern box turtle,372.0,138.0
+Animalia,Reptilia,Coahuilan box turtle,259.8,18.8
+Animalia,Reptilia,Spotted box turtle,372.0,24.9
+Animalia,Reptilia,Ornate box turtle,394.5,28.4
+Animalia,Reptilia,Common slider,240.0,41.3
+Animalia,Reptilia,"Northern river terrapin, or Indian batagur terrapin",17900.0,21.7
+Animalia,Reptilia,Southeast Asian box turtle,1000.0,38.2
+Animalia,Reptilia,Yellow-margined box turtle,499.0,19.1
+Animalia,Reptilia,Asian leaf turtle,1250.0,14.7
+Animalia,Reptilia,Spiny turtle,950.0,22.9
+Animalia,Reptilia,Japanese pond turtle,494.2,16.2
+Animalia,Reptilia,Spanish pond turtle,608.0,24.5
+Animalia,Reptilia,Yellow pond turtle,319.5,22.1
+Animalia,Reptilia,Reeves' turtle,858.0,24.2
+Animalia,Reptilia,Chinese stripe-necked turtle,1241.0,22.8
+Animalia,Reptilia,Indian black turtle,760.0,40.0
+Animalia,Reptilia,Brown roofed turtle,919.0,13.8
+Animalia,Reptilia,Furrowed wood turtle,731.5,19.3
+Animalia,Reptilia,Thick-necked turtle,940.0,16.7
+Animalia,Reptilia,Narrow-bridged musk turtle,200.0,16.1
+Animalia,Reptilia,Striped mud turtle,143.0,49.6
+Animalia,Reptilia,Herrera's mud turtle,486.0,19.5
+Animalia,Reptilia,Mexican mud turtle,474.4,18.5
+Animalia,Reptilia,Scorpion mud turtle,266.0,44.7
+Animalia,Reptilia,Sonoran mud turtle,326.0,36.5
+Animalia,Reptilia,Common mud turtle,154.7,40.0
+Animalia,Reptilia,Pacific Coast giant musk turtle,900.0,26.3
+Animalia,Reptilia,Mexican giant musk turtle,4200.0,33.5
+Animalia,Reptilia,"Razor-backed musk turtle, or Keel-backed musk turtle",248.0,29.3
+Animalia,Reptilia,Loggerhead musk turtle,154.5,23.9
+Animalia,Reptilia,Stinkpot,137.9,54.8
+Animalia,Reptilia,Helmeted turtle,2273.0,20.1
+Animalia,Reptilia,South American river turtle,25800.0,25.3
+Animalia,Reptilia,Aldabra tortoise,117200.0,152.0
+Animalia,Reptilia,Radiated tortoise,10217.0,32.8
+Animalia,Reptilia,African spurred tortoise,43000.0,54.3
+Animalia,Reptilia,Indian star tortoise,4225.0,24.3
+Animalia,Reptilia,Desert tortoise,2784.0,62.8
+Animalia,Reptilia,Berlandier's tortoise,1792.0,30.7
+Animalia,Reptilia,Parrot-beaked tortoise,229.4,28.6
+Animalia,Reptilia,Travancore tortoise,1680.0,32.9
+Animalia,Reptilia,"Bell's hinge-back tortoise, or Hingeback tortoise",1202.0,26.5
+Animalia,Reptilia,Pancake tortoise,391.25,25.9
+Animalia,Reptilia,"Asian brown tortoise, or East Indian upland tortoise",26000.0,19.9
+Animalia,Reptilia,Leopard tortoise,20000.0,30.0
+Animalia,Reptilia,Mediterranean spur-thighed tortoise,1430.0,127.0
+Animalia,Reptilia,Egyptian tortoise,440.0,21.0
+Animalia,Reptilia,Marginated tortoise,1918.0,21.2
+Animalia,Reptilia,Florida softshell turtle,23463.0,26.2
+Animalia,Reptilia,Spiny softshell turtle,4765.0,25.2
+Animalia,Reptilia,Indian flapshell turtle,1444.5,17.8
+Animalia,Reptilia,African softshell turtle,10818.0,50.6
+Animalia,Teleostei,European eel,3629.45,88.0
+Animalia,Teleostei,Shortfin eel,4100.0,32.0
+Animalia,Teleostei,New Zealand longfin eel,13000.0,60.0
+Animalia,Teleostei,Marbled eel,11275.0,40.0
+Animalia,Teleostei,African longfin eel,412.5,20.0
+Animalia,Teleostei,Long-finned eel,11000.0,15.0
+Animalia,Teleostei,Speckled longfin eel,8965.0,41.0
+Animalia,Teleostei,American eel,4031.5,50.0
+Animalia,Teleostei,Dusky sea garfish,330.0,10.0
+Animalia,Teleostei,Orange roughy,3850.0,149.0
+Animalia,Teleostei,Spot-tail,165.0,5.0
+Animalia,Teleostei,Silversides,1100.0,5.0
+Animalia,Teleostei,Tiger fish,15400.0,8.0
+Animalia,Teleostei,Sharptooth tetra,1.1,3.0
+Animalia,Teleostei,Pirapitinga,13750.0,28.0
+Animalia,Teleostei,Nile distichodus,3410.0,7.5
+Animalia,Teleostei,Pike characid,2200.0,5.0
+Animalia,Teleostei,Blueback shad,110.0,8.0
+Animalia,Teleostei,Twaite shad,825.0,25.0
+Animalia,Teleostei,Alice shad,2200.0,10.0
+Animalia,Teleostei,Caspian shad,65.0,7.0
+Animalia,Teleostei,Blue herring,935.0,4.0
+Animalia,Teleostei,Macedonia shad,330.0,10.0
+Animalia,Teleostei,Alewife,110.0,8.0
+Animalia,Teleostei,American shad,3025.0,13.0
+Animalia,Teleostei,American gizzard shad,1089.0,6.0
+Animalia,Teleostei,Round sardinella,125.95,7.0
+Animalia,Teleostei,Indian oil sardine,110.0,4.0
+Animalia,Teleostei,Pacific sardine,267.3,25.0
+Animalia,Teleostei,River carpsucker,2524.5,10.0
+Animalia,Teleostei,Quillback,1617.0,11.0
+Animalia,Teleostei,Longnose sucker,1800.0,20.0
+Animalia,Teleostei,White sucker,1617.0,12.0
+Animalia,Teleostei,Cui-ui,1496.0,41.0
+Animalia,Teleostei,Northern hog sucker,700.0,11.0
+Animalia,Teleostei,Smallmouth buffalo,20515.0,39.0
+Animalia,Teleostei,Bigmouth buffalo,17545.0,112.0
+Animalia,Teleostei,Black buffalo,15785.0,24.0
+Animalia,Teleostei,Spotted sucker,676.5,6.0
+Animalia,Teleostei,Silver redhorse,5940.0,10.0
+Animalia,Teleostei,Hookfin redhorse,750.0,8.0
+Animalia,Teleostei,River redhorse,3089.0,12.0
+Animalia,Teleostei,Black redhorse,1250.0,10.0
+Animalia,Teleostei,Golden redhorse,2244.0,11.0
+Animalia,Teleostei,Shorthead redhorse,2194.5,9.0
+Animalia,Teleostei,Asp,4950.0,11.0
+Animalia,Teleostei,Papermouth,745.25,9.0
+Animalia,Teleostei,Silver orfe,24750.0,21.0
+Animalia,Teleostei,Common carp,10600.0,47.0
+Animalia,Teleostei,Rednose labeo,1980.0,9.0
+Animalia,Teleostei,Rohu,24750.0,10.0
+Animalia,Teleostei,Smallmouth yellowfish,4310.35,12.0
+Animalia,Teleostei,European chub,4400.0,22.0
+Animalia,Teleostei,Bream,3305.5,23.0
+Animalia,Teleostei,Sneep,825.0,15.0
+Animalia,Teleostei,Ide,2200.0,29.8
+Animalia,Teleostei,Common dace,550.0,16.0
+Animalia,Teleostei,Dwarf altai osman,13.75,15.0
+Animalia,Teleostei,Altai osman,5500.0,40.0
+Animalia,Teleostei,Ziege,1100.0,11.0
+Animalia,Teleostei,Kutum,2750.0,12.0
+Animalia,Teleostei,Roach,1012.0,14.0
+Animalia,Teleostei,Pearl roach,1153.35,19.0
+Animalia,Teleostei,Tarpon,88550.0,55.0
+Animalia,Teleostei,Oxeye,9900.0,44.0
+Animalia,Teleostei,Northern pike,15620.0,30.0
+Animalia,Teleostei,Muskellunge,17490.0,30.0
+Animalia,Teleostei,Chain pickerel,2337.5,9.0
+Animalia,Teleostei,Alaska blackfish,201.3,8.0
+Animalia,Teleostei,Cusk,16500.0,20.0
+Animalia,Teleostei,Saffron cod,605.0,12.0
+Animalia,Teleostei,Alaska pollock,770.0,15.0
+Animalia,Teleostei,Pacific cod,12485.0,18.0
+Animalia,Teleostei,Atlantic cod,52800.0,25.0
+Animalia,Teleostei,Burbot,18700.0,20.0
+Animalia,Teleostei,Haddock,9240.0,20.0
+Animalia,Teleostei,English whiting,1700.0,20.0
+Animalia,Teleostei,Blue whiting,456.5,20.0
+Animalia,Teleostei,Blue ling,16500.0,25.0
+Animalia,Teleostei,Greater forkbeard,1947.0,20.0
+Animalia,Teleostei,European pollock,9955.0,8.0
+Animalia,Teleostei,Pollock,17600.0,25.0
+Animalia,Teleostei,Mud hake,11550.0,23.0
+Animalia,Teleostei,Rock grenadier,929.5,54.0
+Animalia,Teleostei,Blue grenadier,825.0,25.0
+Animalia,Teleostei,Silver hake,1265.0,12.0
+Animalia,Teleostei,European hake,8250.0,20.0
+Animalia,Teleostei,North pacific hake,654.5,15.0
+Animalia,Teleostei,Milkfish,7700.0,15.0
+Animalia,Teleostei,Goosefish,12430.0,30.0
+Animalia,Teleostei,Anglerfish,31735.0,24.0
+Animalia,Teleostei,Yellow-eye mullet,522.5,7.0
+Animalia,Teleostei,Thicklipped mullet,2475.0,25.0
+Animalia,Teleostei,Thinlip mullet,1595.0,10.0
+Animalia,Teleostei,Striped mullet,4400.0,16.0
+Animalia,Teleostei,Australian rockling,13750.0,30.0
+Animalia,Teleostei,Goldeye,946.0,14.0
+Animalia,Teleostei,Mooneye,498.85,10.0
+Animalia,Teleostei,Mormyrids,2915.0,6.0
+Animalia,Teleostei,Mormyrid,4.0,29.0
+Animalia,Teleostei,Arawana,2530.0,6.5
+Animalia,Teleostei,Miss Kingsley's climbing perch,68.75,8.7
+Animalia,Teleostei,Australian ruff,440.0,7.0
+Animalia,Teleostei,Australian salmon,5170.0,26.0
+Animalia,Teleostei,Western Australian salmon,5775.0,9.0
+Animalia,Teleostei,Atlantic pomfret,3300.0,9.0
+Animalia,Teleostei,Sickle pomfret,6050.0,8.0
+Animalia,Teleostei,Blue runner,2777.5,11.0
+Animalia,Teleostei,White trevally,9955.0,49.0
+Animalia,Teleostei,Rock bass,824.0,18.0
+Animalia,Teleostei,Sacramento perch,792.0,6.0
+Animalia,Teleostei,Flier,308.0,5.0
+Animalia,Teleostei,Redbreast sunfish,467.25,8.0
+Animalia,Teleostei,Green sunfish,529.0,9.0
+Animalia,Teleostei,Bluegill,1181.25,10.0
+Animalia,Teleostei,Longear sunfish,434.5,6.0
+Animalia,Teleostei,Redear sunfish,121.0,7.0
+Animalia,Teleostei,Smallmouth bass,2975.5,26.0
+Animalia,Teleostei,Spotted bass,2557.0,7.0
+Animalia,Teleostei,Largemouth bass,5527.5,23.0
+Animalia,Teleostei,White crappie,1292.5,10.0
+Animalia,Teleostei,Black crappie,1496.0,15.0
+Animalia,Teleostei,Antarctic butterfish,33000.0,15.0
+Animalia,Teleostei,Whario,2200.0,15.0
+Animalia,Teleostei,Common snook,13365.0,7.0
+Animalia,Teleostei,Snook,110000.0,7.8
+Animalia,Teleostei,Three spotted tilapia,2590.5,13.0
+Animalia,Teleostei,Mozambique mouth-breeder,621.5,11.0
+Animalia,Teleostei,Nile tilapia,2400.0,9.0
+Animalia,Teleostei,Green happy,1215.5,7.0
+Animalia,Teleostei,Pink happy,1595.0,7.0
+Animalia,Teleostei,Thinface cichlid,1375.0,9.0
+Animalia,Teleostei,Rainbow happy,550.0,6.0
+Animalia,Teleostei,Purpleface largemouth,825.0,6.0
+Animalia,Teleostei,Redbreast tilapia,1375.0,7.0
+Animalia,Teleostei,Redbelly tilapia,165.0,7.0
+Animalia,Teleostei,Common dolphinfish,22000.0,4.0
+Animalia,Teleostei,Barred surfperch,1100.0,9.0
+Animalia,Teleostei,Black perch,385.0,10.0
+Animalia,Teleostei,Silver gemfish,8800.0,16.0
+Animalia,Teleostei,Atun,3300.0,10.0
+Animalia,Teleostei,Bluestriped grunt,412.5,12.0
+Animalia,Teleostei,Pigfish,500.0,4.0
+Animalia,Teleostei,Atlantic sailfish,55110.0,13.0
+Animalia,Teleostei,"Atlantic blue marlin, or Black spearfish",93500.0,28.0
+Animalia,Teleostei,Ballan wrasse,2392.5,29.0
+Animalia,Teleostei,Tautog,6215.0,34.0
+Animalia,Teleostei,Cunner,550.0,6.0
+Animalia,Teleostei,Lipper,5280.0,22.0
+Animalia,Teleostei,North-West snapper,4620.0,27.0
+Animalia,Teleostei,Blue-gray snapper,8470.0,21.0
+Animalia,Teleostei,Mutton snapper,8580.0,29.0
+Animalia,Teleostei,Mangrove jack,4785.0,18.0
+Animalia,Teleostei,Red bass,6875.0,13.0
+Animalia,Teleostei,Northern red snapper,12540.0,57.0
+Animalia,Teleostei,Malabar blood snapper,4350.5,31.0
+Animalia,Teleostei,Pacific red snapper,3195.5,7.2
+Animalia,Teleostei,Caribbean red snapper,5500.0,18.0
+Animalia,Teleostei,Saddletailed sea perch,12650.0,13.0
+Animalia,Teleostei,Emperor snapper,17985.0,35.0
+Animalia,Teleostei,Lane snapper,1941.5,10.0
+Animalia,Teleostei,Yellowtail snapper,2238.5,14.0
+Animalia,Teleostei,Crimson jobfish,4484.7,18.0
+Animalia,Teleostei,Sharptooth jobfish,1210.0,11.0
+Animalia,Teleostei,Vermilion snapper,1743.5,10.0
+Animalia,Teleostei,Red tilefish,687.5,12.0
+Animalia,Teleostei,Blueline tilefish,3850.0,15.0
+Animalia,Teleostei,Ocean whitefish,3168.0,13.0
+Animalia,Teleostei,Blue tilefish,16500.0,35.0
+Animalia,Teleostei,European seabass,6600.0,15.0
+Animalia,Teleostei,White perch,1210.0,7.0
+Animalia,Teleostei,White bass,1537.25,9.0
+Animalia,Teleostei,Yellow bass,6050.0,6.0
+Animalia,Teleostei,Striped bass,31350.0,30.0
+Animalia,Teleostei,Red mullet,550.0,10.0
+Animalia,Teleostei,Japanese threadfin-bream,327.8,8.0
+Animalia,Teleostei,Antarctic toothfish,44000.0,31.0
+Animalia,Teleostei,Marbled rockcod,5500.0,16.0
+Animalia,Teleostei,Antarctic silverfish,110.0,20.0
+Animalia,Teleostei,Murray cod,62000.0,48.0
+Animalia,Teleostei,Golden perch,13200.0,20.0
+Animalia,Teleostei,Yellow perch,1055.25,12.0
+Animalia,Teleostei,Eurasian perch,2612.5,22.0
+Animalia,Teleostei,Sauger,2000.0,18.0
+Animalia,Teleostei,Zander,11000.0,16.0
+Animalia,Teleostei,Walleye,11000.0,29.0
+Animalia,Teleostei,King threadfin,24750.0,20.0
+Animalia,Teleostei,Hapuka,55000.0,60.0
+Animalia,Teleostei,Giant sea bass,140580.0,75.0
+Animalia,Teleostei,Bluefish,7920.0,9.0
+Animalia,Teleostei,Bulleye,1144.0,9.0
+Animalia,Teleostei,Cobia,37400.0,15.0
+Animalia,Teleostei,Heavybeak parrotfish,2200.0,14.0
+Animalia,Teleostei,Freshwater drum,13292.5,13.0
+Animalia,Teleostei,Southern meagre,41250.0,30.0
+Animalia,Teleostei,White seabass,22550.0,20.0
+Animalia,Teleostei,Black croaker,385.0,20.0
+Animalia,Teleostei,Spotted seatrout,4356.0,18.0
+Animalia,Teleostei,Spot,247.5,4.0
+Animalia,Teleostei,California corbina,2145.0,8.0
+Animalia,Teleostei,Atlantic croaker,1419.0,5.0
+Animalia,Teleostei,Black drum,28215.0,43.0
+Animalia,Teleostei,Red drum,24750.0,50.0
+Animalia,Teleostei,"Kawakawa, or Little tunny",7700.0,10.0
+Animalia,Teleostei,Skipjack tuna,18975.0,12.0
+Animalia,Teleostei,Atlantic bonito,6050.0,5.0
+Animalia,Teleostei,Chub mackerel,1595.0,18.0
+Animalia,Teleostei,Atlantic mackerel,1870.0,17.0
+Animalia,Teleostei,King mackerel,24750.0,14.0
+Animalia,Teleostei,Spanish mackerel,3239.5,5.0
+Animalia,Teleostei,West African Spanish mackerel,3300.0,5.0
+Animalia,Teleostei,Albacore,33165.0,13.0
+Animalia,Teleostei,Southern bluefin tuna,143000.0,20.0
+Animalia,Teleostei,Bigeye tuna,115500.0,11.0
+Animalia,Teleostei,Horse mackerel,376200.0,15.0
+Animalia,Teleostei,Black sea bass,2365.0,20.0
+Animalia,Teleostei,Areolate grouper,770.0,15.0
+Animalia,Teleostei,Brownspotted grouper,3850.0,29.0
+Animalia,Teleostei,Orange-spotted grouper,8250.0,22.0
+Animalia,Teleostei,Speckled hind,16500.0,25.0
+Animalia,Teleostei,Yellowedge grouper,10230.0,32.0
+Animalia,Teleostei,Dusky grouper,33000.0,50.0
+Animalia,Teleostei,Snowy grouper,16500.0,27.0
+Animalia,Teleostei,Nassau grouper,13750.0,16.0
+Animalia,Teleostei,Yellowmouth grouper,5610.0,41.0
+Animalia,Teleostei,Scamp,7810.0,21.0
+Animalia,Teleostei,Kelp bass,3850.0,31.0
+Animalia,Teleostei,Barred sand bass,3289.0,31.0
+Animalia,Teleostei,Bluedotted coraltrout,12980.0,26.0
+Animalia,Teleostei,Painted comber,8250.0,60.0
+Animalia,Teleostei,Spotted whiting,2640.0,15.0
+Animalia,Teleostei,Sand whiting,770.0,22.0
+Animalia,Teleostei,Surf bream,2475.0,12.0
+Animalia,Teleostei,Southern black bream,2200.0,29.0
+Animalia,Teleostei,Sheepshead,2000.0,20.0
+Animalia,Teleostei,Knobbed porgy,1446.5,17.0
+Animalia,Teleostei,Squirefish,11000.0,35.0
+Animalia,Teleostei,White seabream,1000.0,21.0
+Animalia,Teleostei,West coast seabream,10615.0,50.0
+Animalia,Teleostei,Blackspot seabream,2200.0,15.0
+Animalia,Teleostei,Gilthead seabream,9460.0,11.0
+Animalia,Teleostei,Black sea bream,671.0,15.0
+Animalia,Teleostei,Scup,1133.0,19.0
+Animalia,Teleostei,Pacific barracuda,6600.0,11.0
+Animalia,Teleostei,Great barracuda,24000.0,14.0
+Animalia,Teleostei,Atlantic cutlassfish,2750.0,15.0
+Animalia,Teleostei,Ocean pout,2989.8,18.0
+Animalia,Teleostei,Viviporous blenny,280.5,10.0
+Animalia,Teleostei,California halibut,18150.0,30.0
+Animalia,Teleostei,Southern flounder,5131.5,8.0
+Animalia,Teleostei,Arrowtooth flounder,1100.0,15.0
+Animalia,Teleostei,Petrale sole,1980.0,25.0
+Animalia,Teleostei,Witch flounder,1375.0,25.0
+Animalia,Teleostei,Rex sole,825.0,24.0
+Animalia,Teleostei,American plaice,3520.0,30.0
+Animalia,Teleostei,Atlantic halibut,176000.0,90.0
+Animalia,Teleostei,Pacific halibut,199650.0,42.0
+Animalia,Teleostei,Yellowfin sole,233.75,26.0
+Animalia,Teleostei,Yellowtail flounder,825.0,12.0
+Animalia,Teleostei,Lemon sole,1600.0,23.0
+Animalia,Teleostei,European flounder,7700.0,15.0
+Animalia,Teleostei,Starry flounder,5005.0,24.0
+Animalia,Teleostei,Plaice,3850.0,50.0
+Animalia,Teleostei,Winter flounder,1980.0,14.0
+Animalia,Teleostei,Greenland halibut,3850.0,30.0
+Animalia,Teleostei,Turbot,13750.0,26.0
+Animalia,Teleostei,Brill,4400.0,6.0
+Animalia,Teleostei,Common sole,1650.0,27.0
+Animalia,Teleostei,Vendace,550.0,10.0
+Animalia,Teleostei,Cisco,1842.0,11.0
+Animalia,Teleostei,Lake whitefish,10450.0,50.0
+Animalia,Teleostei,Muksun,7590.0,23.0
+Animalia,Teleostei,Broad whitefish,8800.0,15.0
+Animalia,Teleostei,Irish pollan,247.5,10.0
+Animalia,Teleostei,Shortnose cisco,296.45,8.0
+Animalia,Teleostei,Least cisco,305.25,26.0
+Animalia,Teleostei,Danube salmon,28600.0,15.0
+Animalia,Teleostei,Taimen,38500.0,16.0
+Animalia,Teleostei,Cutthroat trout,10230.0,10.0
+Animalia,Teleostei,Pink salmon,3740.0,3.0
+Animalia,Teleostei,Chum salmon,8745.0,7.0
+Animalia,Teleostei,Coho salmon,8360.0,5.0
+Animalia,Teleostei,Steelhead,12235.0,11.0
+Animalia,Teleostei,Sockeye salmon,4240.5,8.0
+Animalia,Teleostei,Chinook salmon,33770.0,9.0
+Animalia,Teleostei,Round whitefish,1498.0,16.0
+Animalia,Teleostei,Mountain whitefish,1606.0,17.0
+Animalia,Teleostei,Atlantic salmon,25740.0,13.0
+Animalia,Teleostei,"Brook trout, or Bunnylake brook trout",4397.25,24.0
+Animalia,Teleostei,Lake trout,17985.0,50.0
+Animalia,Teleostei,Inconnu,22000.0,22.0
+Animalia,Teleostei,Arctic grayling,2103.25,18.0
+Animalia,Teleostei,Sablefish,31350.0,114.0
+Animalia,Teleostei,Fourhorn sculpin,143.0,14.0
+Animalia,Teleostei,Kelp greenling,1155.0,12.0
+Animalia,Teleostei,Lingcod,32505.0,20.0
+Animalia,Teleostei,Tiger flathead,1650.0,12.0
+Animalia,Teleostei,Sea perch,770.0,42.0
+Animalia,Teleostei,Rougheye rockfish,495.0,205.0
+Animalia,Teleostei,Pacific ocean perch,770.0,100.0
+Animalia,Teleostei,Redbanded rockfish,2442.0,106.0
+Animalia,Teleostei,Shortraker rockfish,8910.0,157.0
+Animalia,Teleostei,Silvergray rockfish,2590.5,82.0
+Animalia,Teleostei,Copper rockfish,1507.0,55.0
+Animalia,Teleostei,Greenspotted rockfish,555.5,33.0
+Animalia,Teleostei,Dusky rockfish,995.5,67.0
+Animalia,Teleostei,Starry rockfish,572.0,32.0
+Animalia,Teleostei,Splitnose rockfish,445.5,84.0
+Animalia,Teleostei,Greenstriped rockfish,346.5,42.0
+Animalia,Teleostei,Yellowtail rockfish,1380.5,64.0
+Animalia,Teleostei,Chilipepper,847.0,27.0
+Animalia,Teleostei,Cowcod,7150.0,55.0
+Animalia,Teleostei,Quillback rockfish,1804.0,90.0
+Animalia,Teleostei,Black rockfish,2640.0,50.0
+Animalia,Teleostei,Vermilion rockfish,3700.0,43.0
+Animalia,Teleostei,Blue rockfish,2084.5,44.0
+Animalia,Teleostei,China rockfish,918.5,79.0
+Animalia,Teleostei,Tiger rockfish,1221.0,116.0
+Animalia,Teleostei,Speckled rockfish,522.5,37.0
+Animalia,Teleostei,Bocaccio,5296.5,50.0
+Animalia,Teleostei,Canary rockfish,2491.5,84.0
+Animalia,Teleostei,Rasphead rockfish,9790.0,118.0
+Animalia,Teleostei,Flag rockfish,797.5,18.0
+Animalia,Teleostei,Bank rockfish,1089.0,53.0
+Animalia,Teleostei,Olive rockfish,900.0,25.0
+Animalia,Teleostei,Norway haddock,550.0,40.0
+Animalia,Teleostei,Shortspine thornyhead,1270.5,115.0
+Animalia,Teleostei,Bluefin searobin,825.0,15.0
+Animalia,Teleostei,Tub gurnard,3300.0,15.0
+Animalia,Teleostei,African catfish,6875.0,17.0
+Animalia,Teleostei,White catfish,5362.5,14.0
+Animalia,Teleostei,Black bullhead,1995.5,10.0
+Animalia,Teleostei,Yellow bullhead,1278.0,7.0
+Animalia,Teleostei,Blue catfish,37450.0,21.0
+Animalia,Teleostei,Channel catfish,13732.5,16.0
+Animalia,Teleostei,Flathead catfish,30717.5,20.0
+Animalia,Teleostei,Upside-down catfish,275.0,31.0
+Animalia,Teleostei,Cobbler,1375.0,13.0
+Animalia,Teleostei,Sheatfish,168300.0,60.0
+Animalia,Teleostei,Pacific viperfish,12.87,8.0
+Animalia,Teleostei,Chinaman-leatherjacket,1925.0,9.0
+Animalia,Teleostei,Black oreo,825.0,100.0
+Animalia,Teleostei,Warty oreo,1100.0,140.0
+Animalia,Teleostei,Spiky oreo,1100.0,100.0
+Animalia,Teleostei,Smooth oreo,2750.0,100.0
+Animalia,Teleostei,European john dory,4400.0,12.0

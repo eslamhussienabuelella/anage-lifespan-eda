@@ -1,0 +1,529 @@
+Class,Common name,Adult weight (g),Maximum longevity (yrs),weight_outlier,longevity_outlier,weight_upper_threshold_g,longevity_upper_threshold_yrs
+Aves,Pink cockatoo,390.0,83.0,False,True,1325.6499999999999,44.475
+Aves,Andean condor,10500.0,79.0,True,True,1325.6499999999999,44.475
+Aves,Southern ground hornbill,3767.5,70.0,True,True,1325.6499999999999,44.475
+Aves,Laysan albatross,3150.0,70.0,True,True,1325.6499999999999,44.475
+Aves,Common raven,1041.2,69.0,False,True,1325.6499999999999,44.475
+Aves,Eurasian eagle-owl,2686.0,68.0,True,True,1325.6499999999999,44.475
+Aves,Salmon-crested cockatoo,830.0,65.8,False,True,1325.6499999999999,44.475
+Aves,Kakapo,1750.0,60.0,True,True,1325.6499999999999,44.475
+Aves,Greater flamingo,2500.0,58.8,True,True,1325.6499999999999,44.475
+Aves,Royal albatross,9000.0,58.0,True,True,1325.6499999999999,44.475
+Aves,Sulphur-crested cockatoo,800.0,57.0,False,True,1325.6499999999999,44.475
+Aves,Palm cockatoo,841.0,56.3,False,True,1325.6499999999999,44.475
+Aves,Eastern imperical eagle,3262.0,56.0,True,True,1325.6499999999999,44.475
+Aves,Yellow-crowned parrot,430.0,56.0,False,True,1325.6499999999999,44.475
+Aves,Bateleur,2200.0,55.0,True,True,1325.6499999999999,44.475
+Aves,American white pelican,6129.0,54.0,True,True,1325.6499999999999,44.475
+Aves,Vasa parrot,525.0,53.9,False,True,1325.6499999999999,44.475
+Aves,Great white pelican,9520.0,51.0,True,True,1325.6499999999999,44.475
+Aves,Northern fulmar,908.0,51.0,False,True,1325.6499999999999,44.475
+Aves,Manx shearwater,434.0,50.9,False,True,1325.6499999999999,44.475
+Aves,Red-and-green macaw,1220.0,50.1,False,True,1325.6499999999999,44.475
+Aves,Ostrich,111000.0,50.0,True,True,1325.6499999999999,44.475
+Aves,Wandering albatross,7046.7,50.0,True,True,1325.6499999999999,44.475
+Aves,Yellow-crested cockatoo,340.0,49.7,False,True,1325.6499999999999,44.475
+Aves,Grey parrot,333.0,49.7,False,True,1325.6499999999999,44.475
+Aves,Herring gull,1094.0,49.0,False,True,1325.6499999999999,44.475
+Aves,Blue-fronted amazon,451.0,49.0,False,True,1325.6499999999999,44.475
+Aves,Yellow-naped parrot,432.16,49.0,False,True,1325.6499999999999,44.475
+Aves,Oriental white stork,4850.5,48.1,True,True,1325.6499999999999,44.475
+Aves,Golden eagle,4800.0,48.0,True,True,1325.6499999999999,44.475
+Aves,Bald eagle,3175.0,48.0,True,True,1325.6499999999999,44.475
+Aves,Grey-headed albatross,3753.0,47.2,True,True,1325.6499999999999,44.475
+Aves,Southern giant petrel,3697.5,47.0,True,True,1325.6499999999999,44.475
+Aves,Greater white-fronted goose,2681.0,47.0,True,True,1325.6499999999999,44.475
+Aves,Kea,867.5,47.0,False,True,1325.6499999999999,44.475
+Aves,Long-billed black cockatoo,620.0,47.0,False,True,1325.6499999999999,44.475
+Aves,Little corella,350.0,46.9,False,True,1325.6499999999999,44.475
+Aves,Australian pied cormorant,1715.0,46.4,True,True,1325.6499999999999,44.475
+Aves,Military macaw,1134.0,46.0,False,True,1325.6499999999999,44.475
+Aves,Snow petrel,268.0,46.0,False,True,1325.6499999999999,44.475
+Aves,Banksian cockatoo,723.7,45.4,False,True,1325.6499999999999,44.475
+Aves,Tufted duck,701.5,45.2,False,True,1325.6499999999999,44.475
+Aves,California condor,11175.0,45.0,True,True,1325.6499999999999,44.475
+Aves,White-naped crane,5400.0,45.0,True,True,1325.6499999999999,44.475
+Aves,Southern fulmar,795.0,45.0,False,True,1325.6499999999999,44.475
+Aves,Atlantic puffin,490.5,45.0,False,True,1325.6499999999999,44.475
+Aves,Marabou,8000.0,44.7,True,True,1325.6499999999999,44.475
+Aves,Spanish imperial eagle,3000.0,44.5,True,True,1325.6499999999999,44.475
+Aves,Black-browed albatross,3232.0,43.7,True,False,1325.6499999999999,44.475
+Aves,Common crane,5500.0,43.0,True,False,1325.6499999999999,44.475
+Aves,Brown pelican,3115.8,43.0,True,False,1325.6499999999999,44.475
+Aves,Great frigatebird,1400.0,43.0,True,False,1325.6499999999999,44.475
+Aves,Black-footed albatross,2800.0,42.1,True,False,1325.6499999999999,44.475
+Aves,White-tailed sea-eagle,6696.5,42.0,True,False,1325.6499999999999,44.475
+Aves,Canada goose,3200.0,42.0,True,False,1325.6499999999999,44.475
+Aves,Black-chested buzzard-eagle,2447.5,42.0,True,False,1325.6499999999999,44.475
+Aves,Hawaiian goose,2150.0,42.0,True,False,1325.6499999999999,44.475
+Aves,Sarus crane,8663.0,41.8,True,False,1325.6499999999999,44.475
+Aves,Black-faced cormorant,1420.0,41.6,True,False,1325.6499999999999,44.475
+Aves,"Griffon vulture, or Eurasian griffon",7436.0,41.4,True,False,1325.6499999999999,44.475
+Aves,Philippine eagle,6500.0,41.0,True,False,1325.6499999999999,44.475
+Aves,Gentoo penguin,5950.0,41.0,True,False,1325.6499999999999,44.475
+Aves,Steppe eagle,2745.5,41.0,True,False,1325.6499999999999,44.475
+Aves,Lesser flamingo,1500.0,41.0,True,False,1325.6499999999999,44.475
+Aves,Pink-footed goose,2645.0,40.9,True,False,1325.6499999999999,44.475
+Aves,Tawny eagle,1996.1,40.3,True,False,1325.6499999999999,44.475
+Aves,Mute swan,8300.0,40.0,True,False,1325.6499999999999,44.475
+Aves,Whooping crane,7500.0,40.0,True,False,1325.6499999999999,44.475
+Aves,Bearded vulture,5070.0,40.0,True,False,1325.6499999999999,44.475
+Aves,Wedge-tailed eagle,3466.0,40.0,True,False,1325.6499999999999,44.475
+Aves,King vulture,3405.0,40.0,True,False,1325.6499999999999,44.475
+Aves,Waved albatross,3395.0,40.0,True,False,1325.6499999999999,44.475
+Aves,Straw-necked ibis,1351.5,39.4,True,False,1325.6499999999999,44.475
+Aves,Cinereous vulture,9625.0,39.0,True,False,1325.6499999999999,44.475
+Aves,European white stork,3350.0,39.0,True,False,1325.6499999999999,44.475
+Aves,Hyacinth macaw,1330.0,38.8,True,False,1325.6499999999999,44.475
+Aves,Common eider,2130.0,37.8,True,False,1325.6499999999999,44.475
+Aves,Southern caracara,1348.0,37.6,True,False,1325.6499999999999,44.475
+Aves,Grey heron,1443.0,37.5,True,False,1325.6499999999999,44.475
+Aves,Northern gannet,2950.0,37.4,True,False,1325.6499999999999,44.475
+Aves,Yellow-nosed albatross,3890.0,37.0,True,False,1325.6499999999999,44.475
+Aves,Egyptian vulture,2082.0,37.0,True,False,1325.6499999999999,44.475
+Aves,Sacred ibis,1530.0,37.0,True,False,1325.6499999999999,44.475
+Aves,Chilean flamingo,2277.0,36.7,True,False,1325.6499999999999,44.475
+Aves,Sandhill crane,3890.0,36.6,True,False,1325.6499999999999,44.475
+Aves,Siberian crane,5931.0,36.2,True,False,1325.6499999999999,44.475
+Aves,Royal spoonbill,1795.25,36.2,True,False,1325.6499999999999,44.475
+Aves,Great skua,1340.0,35.9,True,False,1325.6499999999999,44.475
+Aves,Shoebill,5984.0,35.7,True,False,1325.6499999999999,44.475
+Aves,Northern giant petrel,4313.0,35.4,True,False,1325.6499999999999,44.475
+Aves,Dalmatian pelican,9550.0,35.3,True,False,1325.6499999999999,44.475
+Aves,Brown kiwi,2600.0,35.0,True,False,1325.6499999999999,44.475
+Aves,Campbell albatross,3440.0,34.2,True,False,1325.6499999999999,44.475
+Aves,Black-necked stork,4100.0,34.0,True,False,1325.6499999999999,44.475
+Aves,Great hornbill,2798.5,33.4,True,False,1325.6499999999999,44.475
+Aves,"Australian white ibis, or Australian ibis",1806.0,33.2,True,False,1325.6499999999999,44.475
+Aves,Brolga,6250.5,33.0,True,False,1325.6499999999999,44.475
+Aves,Australasian gannet,2350.0,33.0,True,False,1325.6499999999999,44.475
+Aves,Great black-backed gull,1658.5,32.8,True,False,1325.6499999999999,44.475
+Aves,Trumpeter swan,13000.0,32.5,True,False,1325.6499999999999,44.475
+Aves,Great cormorant,3628.8,32.1,True,False,1325.6499999999999,44.475
+Aves,Woolly-necked stork,2061.0,32.0,True,False,1325.6499999999999,44.475
+Aves,Osprey,1362.0,32.0,True,False,1325.6499999999999,44.475
+Aves,Black stork,2926.0,31.3,True,False,1325.6499999999999,44.475
+Aves,Cape vulture,8177.0,31.2,True,False,1325.6499999999999,44.475
+Aves,Lesser adjutant,5710.0,31.1,True,False,1325.6499999999999,44.475
+Aves,Greylag goose,3308.5,31.0,True,False,1325.6499999999999,44.475
+Aves,Shy albatross,4012.5,30.9,True,False,1325.6499999999999,44.475
+Aves,Red-tailed hawk,1362.0,30.7,True,False,1325.6499999999999,44.475
+Aves,European shag,1773.0,30.6,True,False,1325.6499999999999,44.475
+Aves,Antipodean albatross,7790.0,30.3,True,False,1325.6499999999999,44.475
+Aves,Saddle-billed stork,6162.5,30.2,True,False,1325.6499999999999,44.475
+Aves,Eurasian spoonbill,1868.0,30.1,True,False,1325.6499999999999,44.475
+Aves,Southern cassowary,44000.0,30.0,True,False,1325.6499999999999,44.475
+Aves,Magellanic penguin,4000.0,30.0,True,False,1325.6499999999999,44.475
+Aves,New Guinea eagle,2000.0,30.0,True,False,1325.6499999999999,44.475
+Aves,Cape barren goose,3980.0,29.1,True,False,1325.6499999999999,44.475
+Aves,Brown skua,1687.0,28.8,True,False,1325.6499999999999,44.475
+Aves,Painted stork,3180.0,28.6,True,False,1325.6499999999999,44.475
+Aves,Yellow-billed spoonbill,1747.5,28.6,True,False,1325.6499999999999,44.475
+Aves,Great bustard,7895.5,28.3,True,False,1325.6499999999999,44.475
+Aves,Barnacle goose,1687.0,28.2,True,False,1325.6499999999999,44.475
+Aves,Black-headed ibis,1530.0,28.2,True,False,1325.6499999999999,44.475
+Aves,Light-mantled albatross,2825.0,28.1,True,False,1325.6499999999999,44.475
+Aves,Black-throated diver,2724.0,28.0,True,False,1325.6499999999999,44.475
+Aves,Snowy owl,2042.5,28.0,True,False,1325.6499999999999,44.475
+Aves,Indian yellow-nosed albatross,2115.0,27.7,True,False,1325.6499999999999,44.475
+Aves,Snow goose,2806.65,27.5,True,False,1325.6499999999999,44.475
+Aves,Jabiru,5470.0,27.4,True,False,1325.6499999999999,44.475
+Aves,Jackass penguin,3135.0,27.3,True,False,1325.6499999999999,44.475
+Aves,Grey crowned crane,3372.0,27.2,True,False,1325.6499999999999,44.475
+Aves,Palm-nut vulture,1600.0,27.1,True,False,1325.6499999999999,44.475
+Aves,King penguin,13036.8,27.0,True,False,1325.6499999999999,44.475
+Aves,Wood stork,2500.0,27.0,True,False,1325.6499999999999,44.475
+Aves,Demoiselle crane,2400.0,27.0,True,False,1325.6499999999999,44.475
+Aves,Whooper swan,9350.0,26.7,True,False,1325.6499999999999,44.475
+Aves,Australian pelican,5452.5,26.1,True,False,1325.6499999999999,44.475
+Aves,Lesser spotted eagle,1370.0,26.1,True,False,1325.6499999999999,44.475
+Aves,Dwarf cassowary,35000.0,26.0,True,False,1325.6499999999999,44.475
+Aves,Crested ibis,1900.0,25.8,True,False,1325.6499999999999,44.475
+Aves,Bean goose,3348.0,25.6,True,False,1325.6499999999999,44.475
+Aves,Christmas Island frigatebird,1550.0,25.6,True,False,1325.6499999999999,44.475
+Aves,Black vulture,2270.0,25.5,True,False,1325.6499999999999,44.475
+Aves,Egyptian goose,1900.0,25.5,True,False,1325.6499999999999,44.475
+Aves,Masked booby,1739.2,25.5,True,False,1325.6499999999999,44.475
+Aves,Red-crowned crane,8500.0,25.2,True,False,1325.6499999999999,44.475
+Aves,Magpie goose,2071.0,24.8,True,False,1325.6499999999999,44.475
+Aves,Black swan,5650.0,24.7,True,False,1325.6499999999999,44.475
+Aves,Great blue heron,1870.0,24.5,True,False,1325.6499999999999,44.475
+Aves,Cocoi heron,1937.7,24.4,True,False,1325.6499999999999,44.475
+Aves,Tundra swan,6350.0,24.1,True,False,1325.6499999999999,44.475
+Aves,Great northern diver,3405.0,24.1,True,False,1325.6499999999999,44.475
+Aves,Great curassow,4133.0,24.0,True,False,1325.6499999999999,44.475
+Aves,Hooded crane,3700.0,24.0,True,False,1325.6499999999999,44.475
+Aves,Red-throated diver,1816.0,24.0,True,False,1325.6499999999999,44.475
+Aves,Ferruginous hawk,1500.0,23.7,True,False,1325.6499999999999,44.475
+Aves,South polar skua,1349.0,23.5,True,False,1325.6499999999999,44.475
+Aves,Indian peafowl,4200.0,23.2,True,False,1325.6499999999999,44.475
+Aves,Razor-billed curassow,2813.0,23.0,True,False,1325.6499999999999,44.475
+Aves,Maleo,1564.0,23.0,True,False,1325.6499999999999,44.475
+Aves,Goliath heron,4468.0,22.9,True,False,1325.6499999999999,44.475
+Aves,Double-crested cormorant,1817.0,22.5,True,False,1325.6499999999999,44.475
+Aves,Ross's goose,1715.0,22.5,True,False,1325.6499999999999,44.475
+Aves,Australasian darter,1518.0,22.3,True,False,1325.6499999999999,44.475
+Aves,Northern cassowary,47300.0,22.0,True,False,1325.6499999999999,44.475
+Aves,Buff-necked ibis,1726.0,22.0,True,False,1325.6499999999999,44.475
+Aves,Abdim's stork,1398.0,21.6,True,False,1325.6499999999999,44.475
+Aves,White-winged scoter,1360.8,21.4,True,False,1325.6499999999999,44.475
+Aves,Hooded vulture,2043.0,21.3,True,False,1325.6499999999999,44.475
+Aves,Nazca booby,1754.0,21.0,True,False,1325.6499999999999,44.475
+Aves,Eastern osprey,1527.5,21.0,True,False,1325.6499999999999,44.475
+Aves,Turkey vulture,2200.0,20.8,True,False,1325.6499999999999,44.475
+Aves,Maguari stork,4000.0,20.4,True,False,1325.6499999999999,44.475
+Aves,Wattled curassow,2500.0,20.0,True,False,1325.6499999999999,44.475
+Aves,Bonelli's eagle,2000.0,20.0,True,False,1325.6499999999999,44.475
+Aves,White-backed vulture,5433.0,19.7,True,False,1325.6499999999999,44.475
+Aves,Yellow-billed stork,2166.5,19.1,True,False,1325.6499999999999,44.475
+Aves,King eider,1617.0,18.9,True,False,1325.6499999999999,44.475
+Aves,Cackling goose,1940.1,18.3,True,False,1325.6499999999999,44.475
+Aves,Western capercaillie,2950.0,18.0,True,False,1325.6499999999999,44.475
+Aves,Brandt's cormorant,2426.0,18.0,True,False,1325.6499999999999,44.475
+Aves,Spectacled eider,1558.0,18.0,True,False,1325.6499999999999,44.475
+Aves,Blue-footed booby,1530.0,18.0,True,False,1325.6499999999999,44.475
+Aves,African spoonbill,1521.0,17.9,True,False,1325.6499999999999,44.475
+Aves,Pelagic cormorant,2041.2,17.8,True,False,1325.6499999999999,44.475
+Aves,Galapagos penguin,1932.5,17.7,True,False,1325.6499999999999,44.475
+Aves,Short-toed eagle,1699.5,17.3,True,False,1325.6499999999999,44.475
+Aves,Harpy eagle,4800.0,16.8,True,False,1325.6499999999999,44.475
+Aves,Emu,38925.0,16.6,True,False,1325.6499999999999,44.475
+Aves,Darter,1486.6,16.0,True,False,1325.6499999999999,44.475
+Aves,Royal penguin,4500.0,15.8,True,False,1325.6499999999999,44.475
+Aves,Solitary tinamou,1390.5,15.0,True,False,1325.6499999999999,44.475
+Aves,Lesser white-fronted goose,1779.25,14.8,True,False,1325.6499999999999,44.475
+Aves,Common merganser,1445.0,14.8,True,False,1325.6499999999999,44.475
+Aves,Western grebe,1475.5,14.0,True,False,1325.6499999999999,44.475
+Aves,Gyrfalcon,1406.5,13.5,True,False,1325.6499999999999,44.475
+Aves,Australian shelduck,1364.0,13.1,True,False,1325.6499999999999,44.475
+Aves,Wild turkey,6050.0,13.0,True,False,1325.6499999999999,44.475
+Aves,Neotropic cormorant,1550.0,12.6,True,False,1325.6499999999999,44.475
+Aves,"Australian brushturkey, or Brush turkey",2340.0,12.5,True,False,1325.6499999999999,44.475
+Aves,Emperor goose,2148.0,12.0,True,False,1325.6499999999999,44.475
+Aves,Spur-winged goose,3869.0,11.3,True,False,1325.6499999999999,44.475
+Aves,Sage grouse,1929.5,7.0,True,False,1325.6499999999999,44.475
+Aves,Musk duck,1697.5,6.2,True,False,1325.6499999999999,44.475
+Aves,White-headed vulture,3016.0,5.7,True,False,1325.6499999999999,44.475
+Aves,Malleefowl,1867.5,5.1,True,False,1325.6499999999999,44.475
+Mammalia,Bowhead whale,100000000.0,211.0,True,True,33590.625,50.825
+Mammalia,Human,62035.0,122.5,True,True,33590.625,50.825
+Mammalia,Fin whale,70000000.0,114.0,True,True,33590.625,50.825
+Mammalia,Blue whale,136000000.0,110.0,True,True,33590.625,50.825
+Mammalia,Humpback whale,30000000.0,95.0,True,True,33590.625,50.825
+Mammalia,Killer whale,3987500.0,90.0,True,True,33590.625,50.825
+Mammalia,Baird's beaked whale,11380000.0,84.0,True,True,33590.625,50.825
+Mammalia,Asiatic elephant,3178000.0,79.6,True,True,33590.625,50.825
+Mammalia,Gray whale,28500000.0,77.0,True,True,33590.625,50.825
+Mammalia,Sperm whale,28500000.0,77.0,True,True,33590.625,50.825
+Mammalia,Sei whale,20000000.0,74.0,True,True,33590.625,50.825
+Mammalia,Dugong,360000.0,73.0,True,True,33590.625,50.825
+Mammalia,Bryde's whale,16000000.0,72.0,True,True,33590.625,50.825
+Mammalia,Southern right whale,45000000.0,70.0,True,True,33590.625,50.825
+Mammalia,West Indian manatee,322000.0,69.0,True,True,33590.625,50.825
+Mammalia,Chimpanzee,44983.5,68.0,True,True,33590.625,50.825
+Mammalia,North atlantic right whale,23000000.0,67.0,True,True,33590.625,50.825
+Mammalia,African bush elephant,4800000.0,65.0,True,True,33590.625,50.825
+Mammalia,Short-finned pilot whale,2200000.0,63.0,True,True,33590.625,50.825
+Mammalia,False killer whale,748000.0,62.5,True,True,33590.625,50.825
+Mammalia,Cuvier's beaked whale,2701000.0,62.0,True,True,33590.625,50.825
+Mammalia,Hippopotamus,3750000.0,61.2,True,True,33590.625,50.825
+Mammalia,Gorilla,139842.0,60.1,True,True,33590.625,50.825
+Mammalia,Long-finned pilot whale,1060000.0,60.0,True,True,33590.625,50.825
+Mammalia,Borneo gibbon,5765.0,60.0,False,True,33590.625,50.825
+Mammalia,Orangutan,64475.0,59.0,True,True,33590.625,50.825
+Mammalia,Striped dolphin,112500.0,57.5,True,True,33590.625,50.825
+Mammalia,Black rhinoceros,1100000.0,57.0,True,True,33590.625,50.825
+Mammalia,Horse,300000.0,57.0,True,True,33590.625,50.825
+Mammalia,Baikal seal,90000.0,56.0,True,True,33590.625,50.825
+Mammalia,White-handed gibbon,6810.0,56.0,False,True,33590.625,50.825
+Mammalia,"Pygmy chimpanzee, or Bonobo",39925.0,55.0,True,True,33590.625,50.825
+Mammalia,White-faced capuchin,2655.0,54.0,False,True,33590.625,50.825
+Mammalia,Bottlenosed dolphin,200000.0,51.6,True,True,33590.625,50.825
+Mammalia,Common minke whale,7500000.0,50.0,True,False,33590.625,50.825
+Mammalia,Narwhal,1250000.0,50.0,True,False,33590.625,50.825
+Mammalia,Gervais's beaked whale,5600000.0,48.0,True,False,33590.625,50.825
+Mammalia,Harbor seal,115000.0,47.6,True,False,33590.625,50.825
+Mammalia,Melon-headed whale,206000.0,47.0,True,False,33590.625,50.825
+Mammalia,African wild ass,164998.0,47.0,True,False,33590.625,50.825
+Mammalia,Pantropical spotted dolphin,112500.0,46.0,True,False,33590.625,50.825
+Mammalia,Pacific white-sided dolphin,103000.0,46.0,True,False,33590.625,50.825
+Mammalia,Ringed seal,90000.0,46.0,True,False,33590.625,50.825
+Mammalia,White rhinoceros,2175000.0,45.0,True,False,33590.625,50.825
+Mammalia,Polar bear,475000.0,43.8,True,False,33590.625,50.825
+Mammalia,Indian rhinoceros,1602330.0,43.5,True,False,33590.625,50.825
+Mammalia,Gray seal,268000.0,42.9,True,False,33590.625,50.825
+Mammalia,Risso's dolphin,425000.0,42.5,True,False,33590.625,50.825
+Mammalia,Pygmy hippopotamus,215000.0,42.3,True,False,33590.625,50.825
+Mammalia,Spotted hyena,63000.0,41.1,True,False,33590.625,50.825
+Mammalia,Beluga,1430000.0,40.0,True,False,33590.625,50.825
+Mammalia,Amazonian manatee,480000.0,40.0,True,False,33590.625,50.825
+Mammalia,Brown bear,277500.0,40.0,True,False,33590.625,50.825
+Mammalia,Brazilian tapir,250000.0,39.6,True,False,33590.625,50.825
+Mammalia,Giraffe,800000.0,39.5,True,False,33590.625,50.825
+Mammalia,Asiatic black bear,103750.0,39.2,True,False,33590.625,50.825
+Mammalia,Spectacled bear,109250.0,39.0,True,False,33590.625,50.825
+Mammalia,Quagga,280000.0,38.0,True,False,33590.625,50.825
+Mammalia,Northern bottlenose whale,6500000.0,37.0,True,False,33590.625,50.825
+Mammalia,Giant panda,117500.0,36.8,True,False,33590.625,50.825
+Mammalia,Malayan tapir,250000.0,36.5,True,False,33590.625,50.825
+Mammalia,Anoa,155000.0,36.1,True,False,33590.625,50.825
+Mammalia,Sun bear,46000.0,35.9,True,False,33590.625,50.825
+Mammalia,California sea lion,180000.0,35.7,True,False,33590.625,50.825
+Mammalia,Bactrian camel,475000.0,35.4,True,False,33590.625,50.825
+Mammalia,Topi,110000.0,35.0,True,False,33590.625,50.825
+Mammalia,Water buffalo,725000.0,34.9,True,False,33590.625,50.825
+Mammalia,American black bear,154250.0,34.0,True,False,33590.625,50.825
+Mammalia,Guanaco,127500.0,33.7,True,False,33590.625,50.825
+Mammalia,American bison,630000.0,33.5,True,False,33590.625,50.825
+Mammalia,Okapi,225000.0,33.5,True,False,33590.625,50.825
+Mammalia,Sloth bear,100000.0,33.3,True,False,33590.625,50.825
+Mammalia,Mountain zebra,296000.0,33.2,True,False,33590.625,50.825
+Mammalia,Sumatran rhinoceros,1260000.0,32.8,True,False,33590.625,50.825
+Mammalia,African buffalo,700000.0,32.8,True,False,33590.625,50.825
+Mammalia,Steller sea lion,415000.0,32.8,True,False,33590.625,50.825
+Mammalia,South African fur seal,127551.0,32.1,True,False,33590.625,50.825
+Mammalia,Rough-toothed dolphin,114000.0,32.0,True,False,33590.625,50.825
+Mammalia,Brown hyena,42250.0,31.9,True,False,33590.625,50.825
+Mammalia,Kulan,230000.0,31.6,True,False,33590.625,50.825
+Mammalia,Vicugna,50000.0,31.6,True,False,33590.625,50.825
+Mammalia,Red deer,200000.0,31.5,True,False,33590.625,50.825
+Mammalia,"Amazon river dolphin, or Amazon dolphin",84000.0,31.3,True,False,33590.625,50.825
+Mammalia,Grevy's zebra,384000.0,31.0,True,False,33590.625,50.825
+Mammalia,South American fur seal,110000.0,30.6,True,False,33590.625,50.825
+Mammalia,Kiang,275000.0,30.1,True,False,33590.625,50.825
+Mammalia,Irrawaddy dolphin,190000.0,30.0,True,False,33590.625,50.825
+Mammalia,Waterbuck,175333.0,30.0,True,False,33590.625,50.825
+Mammalia,Wart hog,100000.0,30.0,True,False,33590.625,50.825
+Mammalia,Aardvark,60000.0,29.8,True,False,33590.625,50.825
+Mammalia,Baird's tapir,300000.0,29.6,True,False,33590.625,50.825
+Mammalia,Mountain anoa,150000.0,29.2,True,False,33590.625,50.825
+Mammalia,Southern sea lion,207500.0,29.0,True,False,33590.625,50.825
+Mammalia,Llama,140000.0,28.9,True,False,33590.625,50.825
+Mammalia,Mountain tapir,148950.0,28.5,True,False,33590.625,50.825
+Mammalia,Dromedary,434000.0,28.4,True,False,33590.625,50.825
+Mammalia,Lion,175000.0,28.0,True,False,33590.625,50.825
+Mammalia,Addax,92500.0,28.0,True,False,33590.625,50.825
+Mammalia,Jaguar,81150.0,28.0,True,False,33590.625,50.825
+Mammalia,Pere David's deer,186500.0,27.5,True,False,33590.625,50.825
+Mammalia,Scimitar-horned oryx,177500.0,27.5,True,False,33590.625,50.825
+Mammalia,Muskox,315000.0,27.4,True,False,33590.625,50.825
+Mammalia,Leopard,53750.0,27.3,True,False,33590.625,50.825
+Mammalia,Banteng,700000.0,27.1,True,False,33590.625,50.825
+Mammalia,Atlantic white-sided dolphin,208000.0,27.0,True,False,33590.625,50.825
+Mammalia,Wild boar,130000.0,27.0,True,False,33590.625,50.825
+Mammalia,Lechwe,94800.0,27.0,True,False,33590.625,50.825
+Mammalia,Fallow deer,70000.0,27.0,True,False,33590.625,50.825
+Mammalia,Cougar,63000.0,27.0,True,False,33590.625,50.825
+Mammalia,Domestic dog,40000.0,27.0,True,False,33590.625,50.825
+Mammalia,European bison,610000.0,26.4,True,False,33590.625,50.825
+Mammalia,Sambar,185000.0,26.4,True,False,33590.625,50.825
+Mammalia,Yak,667000.0,26.3,True,False,33590.625,50.825
+Mammalia,Tiger,119700.0,26.3,True,False,33590.625,50.825
+Mammalia,Sika deer,42000.0,26.3,True,False,33590.625,50.825
+Mammalia,Gaur,825000.0,26.2,True,False,33590.625,50.825
+Mammalia,Eland,500000.0,26.1,True,False,33590.625,50.825
+Mammalia,Roan antelope,225000.0,25.9,True,False,33590.625,50.825
+Mammalia,Alpaca,62000.0,25.8,True,False,33590.625,50.825
+Mammalia,Impala,52500.0,25.6,True,False,33590.625,50.825
+Mammalia,Short-beaked saddleback dolphin,80000.0,25.0,True,False,33590.625,50.825
+Mammalia,Red kangaroo,55000.0,25.0,True,False,33590.625,50.825
+Mammalia,Eastern gray kangaroo,49500.0,25.0,True,False,33590.625,50.825
+Mammalia,Striped hyena,40000.0,25.0,True,False,33590.625,50.825
+Mammalia,Barasingha,170000.0,24.5,True,False,33590.625,50.825
+Mammalia,Blue wildebeest,164500.0,24.3,True,False,33590.625,50.825
+Mammalia,Australian sea lion,190000.0,24.1,True,False,33590.625,50.825
+Mammalia,"Yangzte river dolphin, or Baiji",83500.0,24.0,True,False,33590.625,50.825
+Mammalia,Japanese serow,80000.0,24.0,True,False,33590.625,50.825
+Mammalia,Himalayan tahr,35200.0,24.0,True,False,33590.625,50.825
+Mammalia,Blackbuck,37500.0,23.9,True,False,33590.625,50.825
+Mammalia,Gemsbok,170000.0,23.8,True,False,33590.625,50.825
+Mammalia,Greater kudu,217500.0,23.5,True,False,33590.625,50.825
+Mammalia,Nyala,120000.0,23.0,True,False,33590.625,50.825
+Mammalia,White-tailed deer,87000.0,23.0,True,False,33590.625,50.825
+Mammalia,"Bontebok, or Sassaby, or Blesbok",84500.0,23.0,True,False,33590.625,50.825
+Mammalia,Grant's gazelle,67000.0,23.0,True,False,33590.625,50.825
+Mammalia,Babirusa,71500.0,22.9,True,False,33590.625,50.825
+Mammalia,Hog deer,43000.0,22.9,True,False,33590.625,50.825
+Mammalia,"Domestic sheep, or Mouflon",80000.0,22.8,True,False,33590.625,50.825
+Mammalia,Sitatunga,87500.0,22.6,True,False,33590.625,50.825
+Mammalia,Hartebeest,159000.0,22.5,True,False,33590.625,50.825
+Mammalia,Yellow-backed duiker,62000.0,22.5,True,False,33590.625,50.825
+Mammalia,Nubian ibex,46250.0,22.4,True,False,33590.625,50.825
+Mammalia,Siberian ibex,130000.0,22.3,True,False,33590.625,50.825
+Mammalia,Sable antelope,225000.0,22.2,True,False,33590.625,50.825
+Mammalia,Bongo,307500.0,22.0,True,False,33590.625,50.825
+Mammalia,Dall's porpoise,120000.0,22.0,True,False,33590.625,50.825
+Mammalia,Red river hog,88000.0,22.0,True,False,33590.625,50.825
+Mammalia,Mule deer,57000.0,22.0,True,False,33590.625,50.825
+Mammalia,Takin,180000.0,21.9,True,False,33590.625,50.825
+Mammalia,Kob,105000.0,21.9,True,False,33590.625,50.825
+Mammalia,Black wildebeest,132250.0,21.8,True,False,33590.625,50.825
+Mammalia,"Caribou, or Reindeer",101250.0,21.8,True,False,33590.625,50.825
+Mammalia,Nilgai,180000.0,21.7,True,False,33590.625,50.825
+Mammalia,Aoudad,92500.0,21.7,True,False,33590.625,50.825
+Mammalia,Thorold's deer,135000.0,21.3,True,False,33590.625,50.825
+Mammalia,Snow leopard,50000.0,21.2,True,False,33590.625,50.825
+Mammalia,Nile lechwe,90000.0,21.1,True,False,33590.625,50.825
+Mammalia,Timor deer,63000.0,21.1,True,False,33590.625,50.825
+Mammalia,Ibex,82500.0,21.0,True,False,33590.625,50.825
+Mammalia,Jentink's duiker,70000.3,21.0,True,False,33590.625,50.825
+Mammalia,Bharal,55000.0,20.9,True,False,33590.625,50.825
+Mammalia,Arabian oryx,121350.0,20.8,True,False,33590.625,50.825
+Mammalia,Mountain goat,90000.0,20.8,True,False,33590.625,50.825
+Mammalia,Domestic goat,61000.0,20.8,True,False,33590.625,50.825
+Mammalia,Chital,36000.0,20.8,True,False,33590.625,50.825
+Mammalia,Bighorn sheep,70275.0,20.6,True,False,33590.625,50.825
+Mammalia,Eld's deer,122500.0,20.5,True,False,33590.625,50.825
+Mammalia,Cheetah,53500.0,20.5,True,False,33590.625,50.825
+Mammalia,Harbor porpoise,52500.0,20.4,True,False,33590.625,50.825
+Mammalia,Giant eland,680000.0,20.3,True,False,33590.625,50.825
+Mammalia,East Caucasian tur,50000.0,20.2,True,False,33590.625,50.825
+Mammalia,Domestic cattle,750000.0,20.0,True,False,33590.625,50.825
+Mammalia,Lesser kudu,82500.0,19.8,True,False,33590.625,50.825
+Mammalia,Antilopine wallaroo,49500.0,19.8,True,False,33590.625,50.825
+Mammalia,Springbok,39000.0,19.8,True,False,33590.625,50.825
+Mammalia,Dall's sheep,73100.0,19.6,True,False,33590.625,50.825
+Mammalia,Dama gazelle,73000.0,19.3,True,False,33590.625,50.825
+Mammalia,West Caucasian tur,70000.0,19.3,True,False,33590.625,50.825
+Mammalia,Markhor,41000.0,19.1,True,False,33590.625,50.825
+Mammalia,Serow,95000.0,18.5,True,False,33590.625,50.825
+Mammalia,Visayan spotted deer,46475.0,18.5,True,False,33590.625,50.825
+Mammalia,Bawean deer,55000.0,17.8,True,False,33590.625,50.825
+Mammalia,Chamois,37500.0,17.6,True,False,33590.625,50.825
+Mammalia,Nilgiri tahr,75000.0,17.3,True,False,33590.625,50.825
+Mammalia,Gerenuk,43500.0,17.3,True,False,33590.625,50.825
+Mammalia,Calamian deer,40500.0,17.2,True,False,33590.625,50.825
+Mammalia,Pygmy sperm whale,424600.0,17.0,True,False,33590.625,50.825
+Mammalia,Javan pig,76000.0,17.0,True,False,33590.625,50.825
+Mammalia,Pronghorn,46100.0,17.0,True,False,33590.625,50.825
+Mammalia,Argali,160000.0,16.8,True,False,33590.625,50.825
+Mammalia,Southern reedbuck,58000.0,16.8,True,False,33590.625,50.825
+Mammalia,Goitered gazelle,48500.0,16.3,True,False,33590.625,50.825
+Mammalia,Bearded pig,102750.0,16.2,True,False,33590.625,50.825
+Mammalia,Soemmerring's gazelle,48500.0,15.5,True,False,33590.625,50.825
+Mammalia,Bushbuck,60000.0,15.3,True,False,33590.625,50.825
+Mammalia,Capybara,55000.0,15.1,True,False,33590.625,50.825
+Mammalia,Rhim gazelle,48500.0,14.6,True,False,33590.625,50.825
+Reptilia,Aldabra tortoise,117200.0,152.0,True,True,8487.25,48.5875
+Reptilia,Eastern box turtle,372.0,138.0,False,True,8487.25,48.5875
+Reptilia,Mediterranean spur-thighed tortoise,1430.0,127.0,False,True,8487.25,48.5875
+Reptilia,Tuatara,430.0,90.0,False,True,8487.25,48.5875
+Reptilia,Loggerhead sea turtle,156500.0,77.0,True,True,8487.25,48.5875
+Reptilia,American alligator,150000.0,77.0,True,True,8487.25,48.5875
+Reptilia,Blanding's turtle,1162.0,77.0,False,True,8487.25,48.5875
+Reptilia,Green sea turtle,160000.0,75.0,True,True,8487.25,48.5875
+Reptilia,Alligator snapping turtle,58500.0,70.3,True,True,8487.25,48.5875
+Reptilia,West African dwarf crocodile,40000.0,70.0,True,True,8487.25,48.5875
+Reptilia,Chinese alligator,14600.0,65.0,True,True,8487.25,48.5875
+Reptilia,Desert tortoise,2784.0,62.8,False,True,8487.25,48.5875
+Reptilia,Komodo dragon,87000.0,62.0,True,True,8487.25,48.5875
+Reptilia,Painted turtle,371.8,61.0,False,True,8487.25,48.5875
+Reptilia,Wood turtle,968.2,60.0,False,True,8487.25,48.5875
+Reptilia,Gharial,153000.0,59.0,True,True,8487.25,48.5875
+Reptilia,Broad-snouted caiman,14600.0,58.0,True,True,8487.25,48.5875
+Reptilia,Saltwater crocodile,200000.0,57.0,True,True,8487.25,48.5875
+Reptilia,African slender-snouted crocodile,50500.0,56.1,True,True,8487.25,48.5875
+Reptilia,Nile crocodile,94200.0,56.0,True,True,8487.25,48.5875
+Reptilia,Stinkpot,137.9,54.8,False,True,8487.25,48.5875
+Reptilia,African spurred tortoise,43000.0,54.3,True,True,8487.25,48.5875
+Reptilia,"European glass lizard, or Armored glass lizard",450.0,54.0,False,True,8487.25,48.5875
+Reptilia,Slow worm,11.655,54.0,False,True,8487.25,48.5875
+Reptilia,New Guinea crocodile,39900.0,51.0,True,True,8487.25,48.5875
+Reptilia,Spotted turtle,165.4,51.0,False,True,8487.25,48.5875
+Reptilia,African softshell turtle,10818.0,50.6,True,True,8487.25,48.5875
+Reptilia,Striped mud turtle,143.0,49.6,False,True,8487.25,48.5875
+Reptilia,Siamese crocodile,42500.0,49.0,True,True,8487.25,48.5875
+Reptilia,Cuban crocodile,57500.0,48.0,True,False,8487.25,48.5875
+Reptilia,Ball python,8858.0,47.5,True,False,8487.25,48.5875
+Reptilia,American crocodile,76700.0,47.0,True,False,8487.25,48.5875
+Reptilia,Common snapping turtle,10250.0,47.0,True,False,8487.25,48.5875
+Reptilia,"Mugger, or Marsh crocodile",42700.0,44.0,True,False,8487.25,48.5875
+Reptilia,Orinoco crocodile,107900.0,41.0,True,False,8487.25,48.5875
+Reptilia,Black caiman,82000.0,40.0,True,False,8487.25,48.5875
+Reptilia,Spectacled caiman,10900.0,40.0,True,False,8487.25,48.5875
+Reptilia,Pignose turtle,16275.0,38.4,True,False,8487.25,48.5875
+Reptilia,Indian python,12370.0,34.2,True,False,8487.25,48.5875
+Reptilia,Radiated tortoise,10217.0,32.8,True,False,8487.25,48.5875
+Reptilia,Green anaconda,97500.0,31.8,True,False,8487.25,48.5875
+Reptilia,Atlantic ridley,40500.0,30.2,True,False,8487.25,48.5875
+Reptilia,Leatherback sea turtle,420000.0,30.0,True,False,8487.25,48.5875
+Reptilia,Leopard tortoise,20000.0,30.0,True,False,8487.25,48.5875
+Reptilia,Reticulated python,32000.0,29.4,True,False,8487.25,48.5875
+Reptilia,African rock python,73000.0,27.3,True,False,8487.25,48.5875
+Reptilia,Brown water python,10592.0,26.8,True,False,8487.25,48.5875
+Reptilia,Black mamba,30758.0,26.2,True,False,8487.25,48.5875
+Reptilia,Florida softshell turtle,23463.0,26.2,True,False,8487.25,48.5875
+Reptilia,Morelet's crocodile,38500.0,25.4,True,False,8487.25,48.5875
+Reptilia,South American river turtle,25800.0,25.3,True,False,8487.25,48.5875
+Reptilia,False gharial,119000.0,24.7,True,False,8487.25,48.5875
+Reptilia,Blackneck spitting cobra,8787.0,23.2,True,False,8487.25,48.5875
+Reptilia,Rhinoceros iguana,16578.1,22.9,True,False,8487.25,48.5875
+Reptilia,"Northern river terrapin, or Indian batagur terrapin",17900.0,21.7,True,False,8487.25,48.5875
+Reptilia,Red spitting cobra,8787.0,20.2,True,False,8487.25,48.5875
+Reptilia,"Asian brown tortoise, or East Indian upland tortoise",26000.0,19.9,True,False,8487.25,48.5875
+Reptilia,Carpet python,15926.0,19.6,True,False,8487.25,48.5875
+Reptilia,Mozambique spitting cobra,8787.0,16.7,True,False,8487.25,48.5875
+Reptilia,Jameson's mamba,19310.0,13.1,True,False,8487.25,48.5875
+Reptilia,Bosc's monitor and Savannah monitor,35500.0,12.7,True,False,8487.25,48.5875
+Reptilia,Central american river turtle,12500.0,11.3,True,False,8487.25,48.5875
+Reptilia,Javan wart snake,9561.0,5.8,True,False,8487.25,48.5875
+Teleostei,Rougheye rockfish,495.0,205.0,False,True,22673.21875,57.5
+Teleostei,Shortraker rockfish,8910.0,157.0,False,True,22673.21875,57.5
+Teleostei,Orange roughy,3850.0,149.0,False,True,22673.21875,57.5
+Teleostei,Warty oreo,1100.0,140.0,False,True,22673.21875,57.5
+Teleostei,Rasphead rockfish,9790.0,118.0,False,True,22673.21875,57.5
+Teleostei,Tiger rockfish,1221.0,116.0,False,True,22673.21875,57.5
+Teleostei,Shortspine thornyhead,1270.5,115.0,False,True,22673.21875,57.5
+Teleostei,Sablefish,31350.0,114.0,True,True,22673.21875,57.5
+Teleostei,Bigmouth buffalo,17545.0,112.0,False,True,22673.21875,57.5
+Teleostei,Redbanded rockfish,2442.0,106.0,False,True,22673.21875,57.5
+Teleostei,Smooth oreo,2750.0,100.0,False,True,22673.21875,57.5
+Teleostei,Spiky oreo,1100.0,100.0,False,True,22673.21875,57.5
+Teleostei,Black oreo,825.0,100.0,False,True,22673.21875,57.5
+Teleostei,Pacific ocean perch,770.0,100.0,False,True,22673.21875,57.5
+Teleostei,Atlantic halibut,176000.0,90.0,True,True,22673.21875,57.5
+Teleostei,Quillback rockfish,1804.0,90.0,False,True,22673.21875,57.5
+Teleostei,European eel,3629.45,88.0,False,True,22673.21875,57.5
+Teleostei,Canary rockfish,2491.5,84.0,False,True,22673.21875,57.5
+Teleostei,Splitnose rockfish,445.5,84.0,False,True,22673.21875,57.5
+Teleostei,Silvergray rockfish,2590.5,82.0,False,True,22673.21875,57.5
+Teleostei,China rockfish,918.5,79.0,False,True,22673.21875,57.5
+Teleostei,Giant sea bass,140580.0,75.0,True,True,22673.21875,57.5
+Teleostei,Dusky rockfish,995.5,67.0,False,True,22673.21875,57.5
+Teleostei,Yellowtail rockfish,1380.5,64.0,False,True,22673.21875,57.5
+Teleostei,Sheatfish,168300.0,60.0,True,True,22673.21875,57.5
+Teleostei,Hapuka,55000.0,60.0,True,True,22673.21875,57.5
+Teleostei,New Zealand longfin eel,13000.0,60.0,False,True,22673.21875,57.5
+Teleostei,Painted comber,8250.0,60.0,False,True,22673.21875,57.5
+Teleostei,Tarpon,88550.0,55.0,True,False,22673.21875,57.5
+Teleostei,Dusky grouper,33000.0,50.0,True,False,22673.21875,57.5
+Teleostei,Red drum,24750.0,50.0,True,False,22673.21875,57.5
+Teleostei,Murray cod,62000.0,48.0,True,False,22673.21875,57.5
+Teleostei,Black drum,28215.0,43.0,True,False,22673.21875,57.5
+Teleostei,Pacific halibut,199650.0,42.0,True,False,22673.21875,57.5
+Teleostei,Antarctic toothfish,44000.0,31.0,True,False,22673.21875,57.5
+Teleostei,Southern meagre,41250.0,30.0,True,False,22673.21875,57.5
+Teleostei,Striped bass,31350.0,30.0,True,False,22673.21875,57.5
+Teleostei,"Atlantic blue marlin, or Black spearfish",93500.0,28.0,True,False,22673.21875,57.5
+Teleostei,Atlantic cod,52800.0,25.0,True,False,22673.21875,57.5
+Teleostei,Anglerfish,31735.0,24.0,True,False,22673.21875,57.5
+Teleostei,Blue catfish,37450.0,21.0,True,False,22673.21875,57.5
+Teleostei,Silver orfe,24750.0,21.0,True,False,22673.21875,57.5
+Teleostei,Southern bluefin tuna,143000.0,20.0,True,False,22673.21875,57.5
+Teleostei,Lingcod,32505.0,20.0,True,False,22673.21875,57.5
+Teleostei,Flathead catfish,30717.5,20.0,True,False,22673.21875,57.5
+Teleostei,King threadfin,24750.0,20.0,True,False,22673.21875,57.5
+Teleostei,Taimen,38500.0,16.0,True,False,22673.21875,57.5
+Teleostei,Horse mackerel,376200.0,15.0,True,False,22673.21875,57.5
+Teleostei,Cobia,37400.0,15.0,True,False,22673.21875,57.5
+Teleostei,Antarctic butterfish,33000.0,15.0,True,False,22673.21875,57.5
+Teleostei,Danube salmon,28600.0,15.0,True,False,22673.21875,57.5
+Teleostei,King mackerel,24750.0,14.0,True,False,22673.21875,57.5
+Teleostei,Great barracuda,24000.0,14.0,True,False,22673.21875,57.5
+Teleostei,Atlantic sailfish,55110.0,13.0,True,False,22673.21875,57.5
+Teleostei,Albacore,33165.0,13.0,True,False,22673.21875,57.5
+Teleostei,Atlantic salmon,25740.0,13.0,True,False,22673.21875,57.5
+Teleostei,Bigeye tuna,115500.0,11.0,True,False,22673.21875,57.5
+Teleostei,Rohu,24750.0,10.0,True,False,22673.21875,57.5
+Teleostei,Chinook salmon,33770.0,9.0,True,False,22673.21875,57.5
+Teleostei,Snook,110000.0,7.8,True,False,22673.21875,57.5
